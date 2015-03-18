@@ -1,0 +1,115 @@
+101,0,'Charles St. Terminal',1
+100,0,'Stanley Park',1
+201,0,'Charles St. Terminal',2
+200,0,'Highland Hills Mall',2
+301,0,'Charles St. Terminal',3
+300,0,'Forest Glen Plaza',3
+401,0,'Charles St. Terminal',4
+400,0,'The Boardwalk',4
+500,0,'Daniel / Bloomingdale',5
+501,0,'The Boardwalk',5
+601,0,'Charles St. Terminal',6
+600,0,'Conestoga Mall',6
+701,0,'Fairview Park Mall',7
+700,0,'Waterloo',7
+800,0,'Fairview Park Mall',8
+801,0,'University',8
+900,0,'Conestoga Mall',9
+901,0,'U.W. Davis Center',9
+1001,0,'Conestoga College Doon',10
+1000,0,'Fairview Park Mall',10
+1101,0,'Charles St. Terminal',11
+1100,0,'Forest Glen Plaza',11
+1200,0,'Conestoga Mall',12
+1201,0,'Fairview Park Mall',12
+1300,0,'The Boardwalk',13
+1301,0,'U.W. Davis Center',13
+1400,0,'Conestoga Mall',14
+1501,0,'Charles St. Terminal',15
+1500,0,'Lackner / Victoria',15
+1601,0,'Conestoga College',16
+1600,0,'Forest Glen Plaza',16
+1701,0,'Fairview Park Mall',17
+1700,0,'Lackner / Victoria',17
+1901,0,'Charles St. Terminal',19
+1900,0,'Highland Hills Mall',19
+2001,0,'Charles St. Terminal',20
+2000,0,'Highland / Victoria Hills Malls',20
+2101,0,'Conestoga Mall',21
+2100,0,'Elmira',21
+2201,0,'Charles St. Terminal',22
+2200,0,'Highland Hills Mall',22
+2301,0,'Charles St. Terminal',23
+2300,0,'Fairview Park Mall',23
+2401,0,'Charles St. Terminal',24
+2400,0,'Rolling Meadows',24
+2501,0,'Charles St. Terminal',25
+2500,0,'Golden Meadow',25
+2701,0,'Fairview Park Mall',27
+2700,0,'Quinte / Morrison',27
+2900,0,'King / University',29
+2901,0,'The Boardwalk',29
+3100,0,'Columbia / Sundew',31
+3101,0,'Conestoga Mall',31
+3301,0,'Forest Glen',33
+3300,0,'Huron',33
+5100,0,'Ainslie',51
+5101,0,'Hespeler',51
+5201,0,'Ainslie St. Terminal',52
+5200,0,'Fairview Park Mall',52
+5300,0,'Ainslie St. Terminal',53
+5301,0,'Cambridge Centre',53
+5400,0,'Ainslie St. Terminal',54
+5501,0,'Ainslie St. Terminal',55
+5701,0,'Ainslie St. Terminal',57
+5800,0,'Ainslie St. Terminal',58
+5900,0,'Ainslie St. Terminal',59
+6000,0,'Cambridge Centre',60
+6100,0,'Cambridge Centre',61
+6101,0,'Conestoga College Doon',61
+6201,0,'Ainslie St. Terminal',62
+6300,0,'Ainslie St. Terminal',63
+6401,0,'Cambridge Centre',64
+6701,0,'Cambridge Centre',67
+6700,0,'Industrial / Langs',67
+7200,0,'Sportsworld Crossing',72
+7300,0,'Lake Louise / Conservation',73
+7301,0,'McCormick C.C.',73
+7500,0,'Cambridge Centre',75
+7601,0,'Conestoga College',76
+7600,0,'Pioneer Park Plaza',76
+9100,0,'Late Night Loop',91
+9201,0,'Columbia',92
+9200,0,'Erb',92
+11001,0,'Conestoga College Doon',110
+11000,0,'Fairview Park Mall',110
+11101,0,'Ainslie St. Terminal',111
+11100,0,'Conestoga College Doon',111
+11601,0,'Conestoga College Doon',116
+11600,0,'Forest Glen Plaza',116
+20001,0,'Ainslie Terminal',200
+20000,0,'Conestoga Mall',200
+20101,0,'Conestoga Mall',201
+20100,0,'Forest Glen Plaza',201
+20201,0,'Conestoga Mall',202
+20200,0,'The Boardwalk',202
+20301,0,'Cambridge Centre',203
+20300,0,'Conestoga College',203
+88800,0,'Out Of Service',888
+980101,0,'GCI Special',9801
+985101,0,'Northview Special',9851
+985201,0,'Special',9852
+990100,0,'Huron Heights Special',9901
+990300,0,'St. Mary''S Express / UW Special',9903
+990400,0,'Eastwood Special',9904
+990500,0,'Downtown Express',9905
+993100,0,'Huron Industrial Special',9931
+993200,0,'Northfield Industrial Special',9932
+995100,0,'Erinbrook Special',9951
+995200,0,'Fairview Express',9952
+995300,0,'Fairview Express',9953
+995400,0,'Fairview Express',9954
+996100,0,'7 Downtown',9961
+996300,0,'Downtown Express',9963
+996400,0,'Downtown Express',9964
+998300,0,'Special',9983
