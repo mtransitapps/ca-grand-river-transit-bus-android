@@ -2,17 +2,18 @@ Title: Grand River Transit Bus - Mon…
 ----------
 Short description:
 Grand River Transit buses for MonTransit BETA
-Schedule. Tweets from @GRT_ROW
+Real-time & Offline Schedule. Twe…
 ----------
 What's new in this version?:
 Schedule from March 5, 2015 to April 26, 2015.
+Real-time schedule from http://realtimemap.grt.ca
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
 This application adds Grand River Transit buses information to MonTransit BETA.
 
-This app contains the buses schedule and the latest news from @GRT_ROW on Twitter.
+This app contains the buses schedule (available offline) and the real-time next departures from http://realtimemap.grt.ca as well as the latest news from @GRT_ROW on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -33,7 +34,7 @@ https://github.com/mtransitapps/ca-grand-river-transit-bus-android
 This app is not related with the Region of Waterloo and Grand River Transit.
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required to load real-time schedule and read news (Twitter)
 ----------
 Application type: Applications
 ----------
