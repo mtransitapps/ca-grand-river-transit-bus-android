@@ -14,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds Grand River Transit buses information to MonTransit BETA.
 
-This app contains the buses schedule (available offline) and the real-time next departures from realtimemap.grt.ca as well as the latest news from www.grt.ca and @GRT_ROW on Twitter.
+This app contains the buses schedule (available offline) and the real-time next departures from realtimemap.grt.ca as well as the latest news from www.grt.ca, YouTube and @GRT_ROW on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -35,7 +35,7 @@ https://github.com/mtransitapps/ca-grand-river-transit-bus-android
 This app is not related with the Region of Waterloo and Grand River Transit.
 
 Permissions:
-- Other: required to load real-time schedule and read news from www.grt.ca and Twitter
+- Other: required to load real-time schedule and read news from www.grt.ca, YouTube and Twitter
 ----------
 Application type: Applications
 ----------
