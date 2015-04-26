@@ -80,14 +80,6 @@
 7601,0,'Conestoga College',76
 7600,0,'Pioneer Park Plaza',76
 9100,0,'Late Night Loop',91
-9201,0,'Columbia',92
-9200,0,'Erb',92
-11001,0,'Conestoga College Doon',110
-11000,0,'Fairview Park Mall',110
-11101,0,'Ainslie St. Terminal',111
-11100,0,'Conestoga College Doon',111
-11601,0,'Conestoga College Doon',116
-11600,0,'Forest Glen Plaza',116
 20001,0,'Ainslie Terminal',200
 20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
@@ -101,9 +93,8 @@
 985101,0,'Northview Special',9851
 985201,0,'Special',9852
 990100,0,'Huron Heights Special',9901
-990300,0,'St. Mary''S Express / UW Special',9903
+990300,0,'St. Mary''S Express',9903
 990400,0,'Eastwood Special',9904
-990500,0,'Downtown Express',9905
 993100,0,'Huron Industrial Special',9931
 993200,0,'Northfield Industrial Special',9932
 995100,0,'Erinbrook Special',9951
