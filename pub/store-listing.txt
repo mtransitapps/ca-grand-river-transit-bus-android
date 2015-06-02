@@ -2,7 +2,7 @@ Title: Grand River Transit Bus - Mon…
 ----------
 Short description:
 Grand River Transit buses for MonTransit.
-Real-time & Offline Schedule. News
+Real-time & Offline Schedule. News.
 ----------
 What's new in this version?:
 Schedule from April 27, 2015 to June 21, 2015.
