@@ -3,7 +3,7 @@
 201,0,'Charles St. Terminal',2
 200,0,'Highland Hills Mall',2
 301,0,'Charles St. Terminal',3
-300,0,'Forest Glen Plaza',3
+300,0,'Forest Glen Plz',3
 401,0,'Charles St. Terminal',4
 400,0,'The Boardwalk',4
 500,0,'Daniel / Bloomingdale',5
@@ -15,20 +15,20 @@
 800,0,'Fairview Park Mall',8
 801,0,'University',8
 900,0,'Conestoga Mall',9
-901,0,'U.W. Davis Center',9
+901,0,'U.W. Davis Ctr',9
 1001,0,'Conestoga College Doon',10
 1000,0,'Fairview Park Mall',10
 1101,0,'Charles St. Terminal',11
-1100,0,'Forest Glen Plaza',11
+1100,0,'Forest Glen Plz',11
 1200,0,'Conestoga Mall',12
 1201,0,'Fairview Park Mall',12
 1300,0,'The Boardwalk',13
-1301,0,'U.W. Davis Center',13
+1301,0,'U.W. Davis Ctr',13
 1400,0,'Conestoga Mall',14
 1501,0,'Charles St. Terminal',15
 1500,0,'Lackner / Victoria',15
 1601,0,'Conestoga College',16
-1600,0,'Forest Glen Plaza',16
+1600,0,'Forest Glen Plz',16
 1701,0,'Fairview Park Mall',17
 1700,0,'Lackner / Victoria',17
 1901,0,'Charles St. Terminal',19
@@ -58,35 +58,35 @@
 5201,0,'Ainslie St. Terminal',52
 5200,0,'Fairview Park Mall',52
 5300,0,'Ainslie St. Terminal',53
-5301,0,'Cambridge Centre',53
+5301,0,'Cambridge Ctr',53
 5400,0,'Ainslie St. Terminal',54
 5501,0,'Ainslie St. Terminal',55
-5600,0,'Cambridge Centre',56
+5600,0,'Cambridge Ctr',56
 5701,0,'Ainslie St. Terminal',57
 5800,0,'Ainslie St. Terminal',58
 5900,0,'Ainslie St. Terminal',59
-6000,0,'Cambridge Centre',60
-6100,0,'Cambridge Centre',61
+6000,0,'Cambridge Ctr',60
+6100,0,'Cambridge Ctr',61
 6101,0,'Conestoga College Doon',61
 6201,0,'Ainslie St. Terminal',62
 6300,0,'Ainslie St. Terminal',63
-6401,0,'Cambridge Centre',64
-6701,0,'Cambridge Centre',67
+6401,0,'Cambridge Ctr',64
+6701,0,'Cambridge Ctr',67
 6700,0,'Industrial / Langs',67
 7200,0,'Sportsworld Crossing',72
 7300,0,'Lake Louise / Conservation',73
 7301,0,'McCormick C.C.',73
-7500,0,'Cambridge Centre',75
+7500,0,'Cambridge Ctr',75
 7601,0,'Conestoga College',76
 7600,0,'Pioneer Park Plaza',76
 9100,0,'Late Night Loop',91
 20001,0,'Ainslie Terminal',200
 20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
-20100,0,'Forest Glen Plaza',201
+20100,0,'Forest Glen Plz',201
 20201,0,'Conestoga Mall',202
 20200,0,'The Boardwalk',202
-20301,0,'Cambridge Centre',203
+20301,0,'Cambridge Ctr',203
 20300,0,'Conestoga College',203
 88800,0,'Out Of Service',888
 980101,0,'GCI Special',9801
