@@ -79,7 +79,6 @@
 7500,0,'Cambridge Ctr',75
 7601,0,'Conestoga College',76
 7600,0,'Pioneer Park Plaza',76
-9100,0,'Late Night Loop',91
 20001,0,'Ainslie Terminal',200
 20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
@@ -88,20 +87,7 @@
 20200,0,'The Boardwalk',202
 20301,0,'Cambridge Ctr',203
 20300,0,'Conestoga College',203
-88800,0,'Out Of Service',888
-980101,0,'GCI Special',9801
-985101,0,'Northview Special',9851
 985201,0,'Special',9852
-990100,0,'Huron Heights Special',9901
-990300,0,'St. Mary''s Express',9903
-990400,0,'Eastwood Special',9904
 993100,0,'Huron Industrial Special',9931
 993200,0,'Northfield Industrial Special',9932
-995100,0,'Erinbrook Special',9951
-995200,0,'Fairview Express',9952
-995300,0,'Fairview Express',9953
-995400,0,'Fairview Express',9954
-996100,0,'7 Downtown',9961
-996300,0,'Downtown Express',9963
-996400,0,'Downtown Express',9964
 998300,0,'Special',9983
