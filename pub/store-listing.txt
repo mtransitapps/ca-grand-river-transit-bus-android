@@ -5,16 +5,16 @@ Grand River Transit buses for MonTransit.
 Real-time & Offline Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 22, 2015 to September 6, 2015.
+Schedule from August 14, 2015 to September 6, 2015.
 Real-time schedule from realtimemap.grt.ca
 News from www.grt.ca
 ----------
 Full description:
-This application adds Grand River Transit buses information to MonTransit.
+This application adds Grand River Transit (GRT) buses information to MonTransit.
 
 This app contains the buses schedule (available offline) and the real-time next departures from realtimemap.grt.ca as well as the latest news from www.grt.ca, YouTube and @GRT_ROW on Twitter.
 
-Grand River Transit serves Waterloo, Cambridge, Kitchener, St. Jacobs and Elmira in Ontario, Canada.
+GRT buses serve Waterloo, Cambridge, Kitchener, St. Jacobs and Elmira in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
