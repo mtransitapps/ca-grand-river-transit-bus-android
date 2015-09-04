@@ -25,14 +25,8 @@
 1300,0,'The Boardwalk',13
 1301,0,'UW Davis Ctr',13
 1400,0,'Conestoga Mall',14
-1501,0,'Charles St Terminal',15
-1500,0,'Lackner / Victoria',15
 1601,0,'Conestoga College',16
 1600,0,'Forest Glen Plz',16
-1701,0,'Fairview Pk Mall',17
-1700,0,'Lackner / Victoria',17
-1901,0,'Charles St Terminal',19
-1900,0,'Highland Hls Mall',19
 2001,0,'Charles St Terminal',20
 2000,0,'Highland / Victoria Hls Malls',20
 2101,0,'Conestoga Mall',21
@@ -41,10 +35,6 @@
 2200,0,'Highland Hls Mall',22
 2301,0,'Charles St Terminal',23
 2300,0,'Fairview Pk Mall',23
-2401,0,'Charles St Terminal',24
-2400,0,'Rolling Mdws',24
-2501,0,'Charles St Terminal',25
-2500,0,'Golden Mdw',25
 2701,0,'Fairview Pk Mall',27
 2700,0,'Quinte / Morrison',27
 2900,0,'King / University',29
@@ -53,6 +43,8 @@
 3101,0,'Conestoga Mall',31
 3301,0,'Forest Glen',33
 3300,0,'Huron',33
+3400,0,'Bingemans',34
+3401,0,'Downtown',34
 5100,0,'Ainslie',51
 5101,0,'Hespeler',51
 5201,0,'Ainslie St Terminal',52
@@ -81,6 +73,15 @@
 7500,0,'Cambridge Ctr',75
 7601,0,'Conestoga College',76
 7600,0,'Pioneer Pk Plz',76
+9100,0,'Late Night Loop',91
+9201,0,'Columbia',92
+9200,0,'Erb',92
+11001,0,'Conestoga College Doon',110
+11000,0,'Fairview Pk Mall',110
+11101,0,'Ainslie St Terminal',111
+11100,0,'Conestoga College Doon',111
+11601,0,'Conestoga College Doon',116
+11600,0,'Forest Glen Plz',116
 20001,0,'Ainslie Terminal',200
 20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
@@ -89,7 +90,25 @@
 20200,0,'The Boardwalk',202
 20301,0,'Cambridge Ctr',203
 20300,0,'Conestoga College',203
+20400,0,'Lackner',204
+20401,0,'The Boardwalk',204
+88901,0,'Ainslie Terminal',889
+88900,0,'Sportsworld',889
+980101,0,'GCI Special',9801
+985101,0,'Northview Special',9851
 985201,0,'Special',9852
+990100,0,'Huron Hts Special',9901
+990301,0,'St. Mary''s Express',9903
+990300,0,'UW Special',9903
+990400,0,'Eastwood Special',9904
 993100,0,'Huron Industrial Special',9931
 993200,0,'Northfield Industrial Special',9932
+995101,0,'Fairview Express',9951
+995100,0,'Forest Glen Express',9951
+995200,0,'Fairview Express',9952
+995300,0,'Fairview Express',9953
+995400,0,'Fairview Express',9954
+996100,0,'Downtown',9961
+996300,0,'Downtown Express',9963
+996400,0,'Downtown Express',9964
 998300,0,'Special',9983
