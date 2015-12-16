@@ -76,8 +76,10 @@
 7601,0,'Conestoga College',76
 7602,0,'Pioneer Pk',76
 9100,0,'Late Night Loop',91
+9201,0,'Ainslie Terminal',92
 9201,0,'Columbia',92
 9200,0,'Erb',92
+9200,0,'Sportsworld',92
 11001,0,'Conestoga College',110
 11000,0,'Fairview Pk',110
 11101,0,'Ainslie Terminal',111
@@ -94,8 +96,6 @@
 20300,0,'Sportsworld',203
 20400,0,'Lackner',204
 20401,0,'The Boardwalk',204
-88901,0,'Ainslie Terminal',889
-88900,0,'Sportsworld',889
 980101,0,'GCI',9801
 985101,0,'Northview',9851
 985201,0,'Special',9852
