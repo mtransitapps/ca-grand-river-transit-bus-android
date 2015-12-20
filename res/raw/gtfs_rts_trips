@@ -75,17 +75,8 @@
 7501,0,'Saginaw',75
 7601,0,'Conestoga College',76
 7602,0,'Pioneer Pk',76
-9100,0,'Late Night Loop',91
-9201,0,'Columbia',92
-9200,0,'Erb',92
-11001,0,'Conestoga College',110
-11000,0,'Fairview Pk',110
-11101,0,'Ainslie Terminal',111
-11100,0,'Conestoga College',111
-11601,0,'Conestoga College',116
-11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
-20000,0,'UW / Conestoga Mall',200
+20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
 20100,0,'Forest Gln',201
 20201,0,'Conestoga Mall',202
@@ -96,21 +87,7 @@
 20401,0,'The Boardwalk',204
 88901,0,'Ainslie Terminal',889
 88900,0,'Sportsworld',889
-980101,0,'GCI',9801
-985101,0,'Northview',9851
 985201,0,'Special',9852
-990100,0,'Huron Hts',9901
-990301,0,'St Mary''s',9903
-990300,0,'UW',9903
-990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
-995101,0,'Fairview',9951
-995100,0,'Forest Gln',9951
-995200,0,'Fairview',9952
-995300,0,'Fairview',9953
-995400,0,'Fairview',9954
-996100,0,'Downtown',9961
-996300,0,'Downtown',9963
-996400,0,'Downtown',9964
 998300,0,'Special',9983
