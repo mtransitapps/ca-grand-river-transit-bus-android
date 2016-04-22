@@ -53,7 +53,6 @@
 5301,0,'Cambridge Ctr',53
 5400,0,'Lisbon Pines',54
 5501,0,'St Andrews',55
-5601,0,'Cambridge Ctr',56
 5600,0,'Dunbar',56
 5701,0,'Blair Rd',57
 5800,0,'Elmwood',58
@@ -64,9 +63,7 @@
 6201,0,'Ainslie Terminal',62
 6202,0,'Woodside',62
 6300,0,'Champlain',63
-6401,0,'Cambridge Ctr',64
 6400,0,'Langs',64
-6701,0,'Cambridge Ctr',67
 6700,0,'Langs',67
 7200,0,'Cherry Blossom',72
 7302,0,'Lk Louise / Conservation',73
@@ -75,17 +72,11 @@
 7501,0,'Saginaw',75
 7601,0,'Conestoga College',76
 7602,0,'Pioneer Pk',76
+7700,0,'Wilmot 0',77
+7701,0,'Wilmot 1',77
 9100,0,'Late Night Loop',91
-9201,0,'Columbia',92
-9200,0,'Erb',92
-11001,0,'Conestoga College',110
-11000,0,'Fairview Pk',110
-11101,0,'Ainslie Terminal',111
-11100,0,'Conestoga College',111
-11601,0,'Conestoga College',116
-11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
-20000,0,'UW / Conestoga Mall',200
+20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
 20100,0,'Forest Gln',201
 20201,0,'Conestoga Mall',202
@@ -98,7 +89,6 @@
 985101,0,'Northview',9851
 990100,0,'Huron Hts',9901
 990301,0,'St Mary''s',9903
-990300,0,'UW',9903
 990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
