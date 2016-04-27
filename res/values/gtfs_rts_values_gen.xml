@@ -6,7 +6,7 @@
     <string name="gtfs_rts_timezone">America/New_York</string>
     <string name="gtfs_rts_area_min_lat">43.335858</string>
     <string name="gtfs_rts_area_max_lat">43.600215</string>
-    <string name="gtfs_rts_area_min_lng">-80.594731</string>
+    <string name="gtfs_rts_area_min_lng">-80.71477</string>
     <string name="gtfs_rts_area_max_lng">-80.274787</string>
     <string name="gtfs_rts_color">0168B3</string>
 </resources>
