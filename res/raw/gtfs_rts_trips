@@ -18,21 +18,21 @@
 901,0,'UW',9
 1001,0,'Conestoga College',10
 1000,0,'Fairview Pk',10
-1100,0,'Country Hls',11
-1101,0,'Downtown',11
+1101,0,'Country Hls',11
+1100,0,'Downtown',11
 1200,0,'Conestoga Mall',12
 1201,0,'Fairview Pk',12
-1300,0,'The Boardwalk',13
-1301,0,'UW',13
+1301,0,'The Boardwalk',13
+1300,0,'UW',13
 1400,0,'Waterloo Ind',14
-1601,0,'Conestoga College',16
-1600,0,'Forest Gln',16
+1600,0,'Conestoga College',16
+1601,0,'Forest Gln',16
 2000,0,'Stanley Pk',20
 2001,0,'The Boardwalk',20
 2101,0,'Conestoga Mall',21
 2100,0,'Elmira',21
-2201,0,'Forest Gln',22
-2200,0,'Highland Hls',22
+2201,0,'Downtown',22
+2200,0,'Forest Gln',22
 2301,0,'Fairview Pk',23
 2300,0,'Stanley Pk',23
 2702,0,'Fairview Pk',27
@@ -54,7 +54,7 @@
 5400,0,'Lisbon Pines',54
 5501,0,'St Andrews',55
 5600,0,'Dunbar',56
-5701,0,'Blair Rd',57
+5701,0,'Rd',57
 5800,0,'Elmwood',58
 5900,0,'Christopher',59
 6000,0,'Northview Acres',60
@@ -65,7 +65,7 @@
 6300,0,'Champlain',63
 6400,0,'Langs',64
 6700,0,'Langs',67
-7200,0,'Cherry Blossom',72
+7200,0,'',72
 7302,0,'Lk Louise / Conservation',73
 7301,0,'McCormick CC',73
 7502,0,'Cambridge Ctr',75
@@ -74,7 +74,6 @@
 7602,0,'Pioneer Pk',76
 7702,0,'New Hamburg',77
 7701,0,'The Boardwalk',77
-9100,0,'Late Night Loop',91
 11001,0,'Conestoga',110
 11000,0,'Fairview Pk',110
 20001,0,'Ainslie Terminal',200
@@ -87,19 +86,6 @@
 20300,0,'Sportsworld',203
 20400,0,'Lackner',204
 20401,0,'The Boardwalk',204
-980101,0,'GCI',9801
-985101,0,'Northview',9851
-990100,0,'Huron Hts',9901
-990301,0,'St Mary''s',9903
-990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
-995101,0,'Fairview',9951
-995100,0,'Forest Gln',9951
-995200,0,'Fairview',9952
-995300,0,'Fairview',9953
-995400,0,'Fairview',9954
-996100,0,'Downtown',9961
-996300,0,'Downtown',9963
-996400,0,'Downtown',9964
 998300,0,'Special',9983
