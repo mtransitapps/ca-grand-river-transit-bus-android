@@ -1395,6 +1395,7 @@
 2716,'2716','Courtland / Madison',43.442304,-80.486304
 2718,'2718','Courtland / Palmer',43.439864,-80.482147
 2719,'2719','Courtland / Kent',43.438802,-80.480266
+2720,'2720','Courtland / Borden',43.438058,-80.479037
 2721,'2721','Courtland / Ottawa',43.436941,-80.477143
 2722,'2722','Courtland / Sydney',43.435816,-80.475287
 2724,'2724','Courtland / Carwood',43.433075,-80.472407
@@ -2205,7 +2206,6 @@
 3892,'3892','Fischer-Hallman / Highland',43.431308,-80.52544
 3893,'3893','Fischer-Hallman / Activa',43.413549,-80.507915
 3894,'3894','Fischer-Hallman / Activa',43.413723,-80.50847
-3895,'3895','Fischer-Hallman / Westmount',43.406717,-80.500091
 3896,'3896','Fischer-Hallman / Westmount',43.407489,-80.501542
 3897,'3897','Belmont / Glasgow',43.451984,-80.517195
 3898,'3898','Columbia / U.W.',43.475009,-80.545981
