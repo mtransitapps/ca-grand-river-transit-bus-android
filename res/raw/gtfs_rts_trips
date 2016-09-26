@@ -47,25 +47,25 @@
 3400,0,'Shirley/Victoria',34
 5100,0,'Ainslie Terminal',51
 5101,0,'Fisher Mills / Melran',51
-5201,0,'Ainslie',52
-5200,0,'Fairview',52
+5201,0,'Ainslie Terminal',52
+5200,0,'Fairview Pk',52
 5300,0,'Ainslie Terminal',53
 5301,0,'Cambridge Ctr',53
-5400,0,'Lisbon Pines',54
-5501,0,'St Andrews',55
-5600,0,'Dunbar',56
-5701,0,'Blair',57
-5800,0,'Elmwood',58
-5900,0,'Christopher',59
-6000,0,'Northview Acres',60
+5400,0,'(Loop)',54
+5501,0,'(Loop)',55
+5600,0,'(Loop)',56
+5701,0,'(Loop)',57
+5800,0,'(Loop)',58
+5900,0,'(Loop)',59
+6000,0,'(Loop)',60
 6100,0,'Cambridge Ctr',61
 6101,0,'Conestoga College',61
 6201,0,'Ainslie Terminal',62
 6202,0,'Woodside',62
-6300,0,'Champlain',63
-6400,0,'Langs',64
+6300,0,'(Loop)',63
+6400,0,'(Loop)',64
 6700,0,'Langs',67
-7200,0,'Cherry Blossom',72
+7200,0,'(Loop)',72
 7302,0,'Lk Louise / Conservation',73
 7301,0,'McCormick CC',73
 7502,0,'Cambridge Ctr',75
@@ -74,8 +74,8 @@
 7602,0,'Pioneer Pk',76
 7702,0,'New Hamburg',77
 7701,0,'The Boardwalk',77
-7800,0,'Hanson',78
-9100,0,'Late Night Loop',91
+7800,0,'(Loop)',78
+9100,0,'(Loop)',91
 9201,0,'Columbia',92
 9200,0,'Erb',92
 11001,0,'Conestoga College',110
@@ -104,9 +104,9 @@
 993200,0,'Northfield Ind',9932
 995101,0,'Fairview',9951
 995100,0,'Forest Gln',9951
-995200,0,'Fairview',9952
-995300,0,'Fairview',9953
-995400,0,'Fairview',9954
+995200,0,'Fairview Pk',9952
+995300,0,'Fairview Pk',9953
+995400,0,'Fairview Pk',9954
 996100,0,'Charles Terminal',9961
 996300,0,'Charles Terminal',9963
 996400,0,'Charles Terminal',9964
