@@ -51,8 +51,10 @@
 5200,0,'Fairview Pk',52
 5300,0,'Ainslie Terminal',53
 5301,0,'Cambridge Ctr',53
-5400,0,'(Loop)',54
-5501,0,'(Loop)',55
+5402,0,'Ainslie Terminal',54
+5401,0,'Lisbon Pines',54
+5501,0,'Ainslie Terminal',55
+5502,0,'Grand Rdg / Oak Hl',55
 5600,0,'(Loop)',56
 5701,0,'(Loop)',57
 5800,0,'(Loop)',58
