@@ -74,7 +74,8 @@
 6401,0,'Cambridge Ctr',64
 6402,0,'Dover / Rose',64
 6700,0,'Langs',67
-7200,0,'East',72
+7201,0,'Boxwood / Maple Grv',72
+7202,0,'Sportsworld',72
 7302,0,'Lk Louise / Conservation',73
 7301,0,'McCormick CC',73
 7502,0,'Cambridge Ctr',75
@@ -83,8 +84,10 @@
 7602,0,'Pioneer Pk',76
 7702,0,'New Hamburg',77
 7701,0,'The Boardwalk',77
-7800,0,'Clockwise',78
-9100,0,'Upward',91
+7801,0,'Family Ctr',78
+7802,0,'Forest Gln',78
+9104,0,'Charles Terminal',91
+9103,0,'UW',91
 9201,0,'Columbia',92
 9200,0,'Erb',92
 11001,0,'Conestoga College',110
