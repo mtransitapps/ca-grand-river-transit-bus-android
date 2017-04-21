@@ -88,16 +88,10 @@
 7802,0,'Forest Gln',78
 9104,0,'Charles Terminal',91
 9103,0,'UW',91
-9201,0,'Columbia',92
-9200,0,'Erb',92
 11001,0,'Conestoga College',110
 11000,0,'Fairview Pk',110
-11101,0,'Ainslie Terminal',111
-11100,0,'Conestoga College',111
-11601,0,'Conestoga College',116
-11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
-20000,0,'UW / Conestoga Mall',200
+20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
 20100,0,'Forest Gln',201
 20201,0,'Conestoga Mall',202
@@ -110,7 +104,6 @@
 985101,0,'Northview',9851
 990100,0,'Huron Hts',9901
 990301,0,'St Mary''s',9903
-990300,0,'UW',9903
 990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
