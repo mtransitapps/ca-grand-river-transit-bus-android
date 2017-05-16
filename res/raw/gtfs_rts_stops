@@ -20,6 +20,7 @@
 1019,'1019','River / Bradley',43.445723,-80.441426
 1020,'1020','Maple Grv / Boxwood',43.427063,-80.364376
 1021,'1021','Maple Grv / Boxwood',43.426855,-80.363843
+1022,'1022','Huron / Strasburg',43.392897,-80.465131
 1023,'1023','Victoria / Margaret',43.456329,-80.489504
 1024,'1024','Forest Gln',43.414459,-80.478939
 1025,'1025','Block Line / Country Hl',43.417036,-80.476022
@@ -1440,7 +1441,7 @@
 2785,'2785','University / King',43.475826,-80.52545
 2786,'2786','University / Regina',43.476663,-80.52328
 2787,'2787','University / Weber',43.477642,-80.520527
-2788,'2788','Conestoga College',43.479299,-80.516198
+2788,'2788','Conestoga College - Waterloo Campus',43.479299,-80.516198
 2793,'2793','Lincoln / Mayfield',43.479191,-80.507766
 2794,'2794','Lincoln / Bluevale',43.48201,-80.505814
 2795,'2795','Lincoln / University',43.483323,-80.507621
@@ -1471,7 +1472,7 @@
 2828,'2828','Greenbrook / Graystone',43.427957,-80.507822
 2829,'2829','Highland / Ruby',43.440145,-80.495959
 2830,'2830','Highland / Ruby',43.440287,-80.496021
-2832,'2832','Conestoga College',43.479211,-80.516867
+2832,'2832','Conestoga College - Waterloo Campus',43.479211,-80.516867
 2833,'2833','Weber / Marshall',43.475036,-80.517444
 2834,'2834','Weber / Noecker',43.473518,-80.516195
 2835,'2835','Weber / Lincoln',43.47114,-80.513902
@@ -2395,16 +2396,16 @@
 5073,'5073','5th / Connaught',43.430694,-80.453458
 5074,'5074','Connaught / 5th',43.430841,-80.45325
 5075,'5075','5th / Wilson',43.42821,-80.455153
-6019,'6019','Pinebush - Southbound',43.407581,-80.328185
-6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
-6021,'6021','Canamera - Southbound',43.38525,-80.321055
-6022,'6022','Delta - Southbound',43.373813,-80.318847
-6023,'6023','Pinebush - Southbound',43.407203,-80.328043
+6019,'6019','Pinebush Sta - Southbound',43.407581,-80.328185
+6020,'6020','Cambridge Ctr Sta - Southbound',43.392605,-80.322274
+6021,'6021','Canamera Sta - Southbound',43.38525,-80.321055
+6022,'6022','Delta Sta - Southbound',43.373813,-80.318847
+6023,'6023','Pinebush Sta - Southbound',43.407203,-80.328043
 6101,'6101','Ainslie Terminal',43.357642,-80.313444
-6102,'6102','Delta - Northbound',43.372911,-80.318258
-6103,'6103','Canamera - Northbound',43.386289,-80.320911
-6104,'6104','Cambridge Ctr Sta',43.392708,-80.322961
-6105,'6105','Pinebush - Northbound',43.407749,-80.327774
+6102,'6102','Delta Sta - Northbound',43.372911,-80.318258
+6103,'6103','Canamera Sta - Northbound',43.386289,-80.320911
+6104,'6104','Cambridge Ctr Sta - Northbound',43.392708,-80.322961
+6105,'6105','Pinebush Sta - Northbound',43.407749,-80.327774
 7000,'7000','Snyders / Notre Dame',43.413404,-80.606216
 7001,'7001','Snyders / Notre Dame',43.413341,-80.605695
 7002,'7002','Snyders / Forler',43.405625,-80.656739
