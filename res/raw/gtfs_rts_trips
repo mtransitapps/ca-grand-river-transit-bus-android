@@ -106,20 +106,20 @@
 20300,0,'Sportsworld',203
 20400,0,'Lackner',204
 20401,0,'The Boardwalk',204
-980101,0,'GCI AM',9801
-985101,0,'GCI PM Northview',9851
-990100,0,'Huron Hts',9901
+980101,0,'Special',9801
+985101,0,'GCI',9851
+990100,0,'Special',9901
 990301,0,'St Mary''s',9903
 990300,0,'UW',9903
-990400,0,'Rt 7 Eastwood',9904
-993100,0,'Huron Ind',9931
-993200,0,'C - Conestoga Mall',9932
+990400,0,'Special',9904
+993100,0,'Special',9931
+993200,0,'Special',9932
 995101,0,'Fairview',9951
 995100,0,'Forest Gln',9951
-995200,0,'ECI-F1 Express',9952
-995300,0,'ECI-F2 Express',9953
-995400,0,'ECI-F3 Express',9954
+995200,0,'Special',9952
+995300,0,'Special',9953
+995400,0,'Special',9954
 996100,0,'Charles Terminal',9961
-996300,0,'ECI-Downtown 1',9963
-996400,0,'ECI-Downtown 2',9964
-998301,0,'Rt 14 & 7 Evening',9983
+996300,0,'Special',9963
+996400,0,'Special',9964
+998301,0,'Special',9983
