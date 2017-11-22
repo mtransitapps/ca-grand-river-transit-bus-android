@@ -641,6 +641,10 @@
 1727,'1727','Doon Vly / Conestoga',43.39081,-80.410186
 1728,'1728','Conestoga College Entrance',43.388366,-80.411447
 1729,'1729','Conestoga College Residence',43.385228,-80.412067
+1731,'1731','Conestoga College Rec Ctr',43.389629,-80.408074
+1732,'1732','Conestoga College Door 3',43.390289,-80.403511
+1733,'1733','Conestoga College Daycare',43.391958,-80.404125
+1734,'1734','Doon Vly / Orchard Mill',43.391204,-80.409812
 1735,'1735','Doon Vly / Pinnacle',43.390215,-80.413489
 1736,'1736','Pinnacle / Doon Vly',43.390026,-80.415305
 1737,'1737','Pinnacle / Amherst',43.391401,-80.414749
@@ -1127,6 +1131,7 @@
 2302,'2302','Main / Cathay',43.356531,-80.303109
 2303,'2303','Main / Arthur White',43.356811,-80.306228
 2304,'2304','Main / Spruce',43.357146,-80.307976
+2308,'2308','Conestoga College / Homer Watson',43.38747,-80.411959
 2310,'2310','Cherry Blossom / Barnes',43.415728,-80.384565
 2312,'2312','Cherry Blossom / Fountain',43.412631,-80.37513
 2314,'2314','Fountain / Toyota Gt 1',43.416272,-80.375698
@@ -1406,7 +1411,6 @@
 2710,'2710','Charles Terminal',43.449339,-80.492918
 2711,'2711','Charles Terminal',43.448857,-80.491822
 2713,'2713','Benton / Church',43.447469,-80.489411
-2714,'2714','Benton / Courtland',43.445954,-80.491031
 2715,'2715','Courtland / Peter',43.444101,-80.489415
 2716,'2716','Courtland / Madison',43.442304,-80.486304
 2718,'2718','Courtland / Palmer',43.439828,-80.482139
@@ -1980,8 +1984,6 @@
 3520,'3520','Dover / Rose',43.393221,-80.3676
 3521,'3521','Rose / Westminster',43.390785,-80.363477
 3522,'3522','Laurel / North',43.400857,-80.354715
-3524,'3524','Fountain / Blair',43.38572,-80.390864
-3525,'3525','Fountain / Blair',43.38539,-80.391399
 3526,'3526','Westminster / Laurel',43.399442,-80.354495
 3527,'3527','Hespeler / Abbotsford',43.380185,-80.319393
 3531,'3531','Maple Grv / Saltsman',43.421934,-80.383793
@@ -2151,7 +2153,9 @@
 3799,'3799','Conestoga Mall',43.498071,-80.528653
 3800,'3800','Conestoga Mall',43.498415,-80.529132
 3801,'3801','Conestoga College / Pinnacle',43.385896,-80.412394
+3802,'3802','Conestoga College / Pinnacle',43.385484,-80.412867
 3803,'3803','Conestoga College Residence',43.384395,-80.411236
+3804,'3804','Conestoga College Residence',43.384241,-80.410978
 3805,'3805','Blair / Esther',43.373864,-80.336239
 3807,'3807','Farmers Mkt / Walmart',43.510661,-80.549376
 3808,'3808','King / Printery',43.528045,-80.555335
