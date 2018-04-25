@@ -88,14 +88,8 @@
 7802,0,'Forest Gln',78
 9104,0,'Charles Terminal',91
 9103,0,'UW',91
-9201,0,'CCW',92
-9200,0,'CW',92
 11001,0,'Conestoga College',110
 11000,0,'Fairview Pk',110
-11101,0,'Ainslie Terminal',111
-11100,0,'Conestoga College',111
-11601,0,'Conestoga College',116
-11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
 20000,0,'UW / Conestoga Mall',200
 20101,0,'Conestoga Mall',201
@@ -106,6 +100,8 @@
 20300,0,'Sportsworld',203
 20400,0,'Lackner',204
 20401,0,'The Boardwalk',204
+20500,0,'Ottawa / River',205
+20501,0,'Sunrise Ctr',205
 980101,0,'GCI AM',9801
 985101,0,'GCI PM Northview',9851
 990100,0,'Huron Hts',9901
