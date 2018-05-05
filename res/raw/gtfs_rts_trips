@@ -102,12 +102,12 @@
 20401,0,'The Boardwalk',204
 20500,0,'Ottawa / River',205
 20501,0,'Sunrise Ctr',205
-980101,0,'GCI AM',9801
-985101,0,'GCI PM Northview',9851
+980101,0,'GCI',9801
+985101,0,'Northview',9851
 990100,0,'Huron Hts',9901
 990301,0,'St Mary''s',9903
 990300,0,'UW',9903
-990400,0,'Rt 7 Eastwood',9904
+990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
 995101,0,'Fairview',9951
