@@ -1,19 +1,19 @@
 100,0,'Fairview Pk',1
 101,0,'The Boardwalk',1
-200,0,'Downtown',2
+200,0,'Charles Terminal',2
 201,0,'Westheights',2
 301,0,'Charles Terminal',3
 300,0,'Forest Gln',3
-401,0,'Downtown',4
+401,0,'Charles Terminal',4
 400,0,'The Boardwalk',4
 500,0,'Bridgeport',5
 501,0,'The Boardwalk',5
 601,0,'Charles Terminal',6
 600,0,'Conestoga Mall',6
-701,0,'Fairview',7
+701,0,'Fairview Pk',7
 700,0,'UW / Conestoga Mall',7
-801,0,'Fairview',8
-800,0,'University',8
+801,0,'Fairview Pk',8
+800,0,'University / King',8
 900,0,'Conestoga Mall',9
 901,0,'UW',9
 1004,0,'Conestoga College',10
@@ -29,22 +29,22 @@
 1601,0,'Forest Gln',16
 2000,0,'Stanley Pk',20
 2001,0,'The Boardwalk',20
-2100,0,'Arthur/Church',21
+2100,0,'Arthur / Church',21
 2101,0,'Conestoga Mall',21
 2201,0,'Charles Terminal',22
-2202,0,'Highland Hills',22
+2202,0,'Highland Hls',22
 2301,0,'Fairview Pk',23
 2300,0,'Stanley Pk',23
 2702,0,'Fairview Pk',27
 2701,0,'Quinte / Morrison',27
 2901,0,'The Boardwalk',29
-2900,0,'University/King',29
+2900,0,'University / King',29
 3100,0,'Clair Hls',31
 3101,0,'Conestoga Mall',31
 3301,0,'Forest Gln',33
-3300,0,'Huron',33
+3300,0,'Huron Vlg',33
 3401,0,'Charles Terminal',34
-3400,0,'Shirley/Victoria',34
+3400,0,'Shirley / Victoria',34
 5100,0,'Ainslie Terminal',51
 5101,0,'Fisher Mills / Melran',51
 5201,0,'Ainslie Terminal',52
@@ -90,8 +90,9 @@
 9103,0,'UW',91
 11001,0,'Conestoga College',110
 11000,0,'Fairview Pk',110
+11601,0,'Conestoga College',116
 20001,0,'Ainslie Terminal',200
-20000,0,'UW / Conestoga Mall',200
+20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Mall',201
 20100,0,'Forest Gln',201
 20201,0,'Conestoga Mall',202
@@ -106,7 +107,6 @@
 985101,0,'Northview',9851
 990100,0,'Huron Hts',9901
 990301,0,'St Mary''s',9903
-990300,0,'UW',9903
 990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
