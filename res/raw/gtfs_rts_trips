@@ -105,12 +105,17 @@
 20500,0,'Ottawa / River',205
 20501,0,'Sunrise Ctr',205
 980101,0,'GCI',9801
+984100,0,'Ainslie Terminal',9841
+984101,0,'Cambridge Ctr',9841
 985101,0,'Northview',9851
 990100,0,'Huron Hts',9901
 990301,0,'St Mary''s',9903
 990400,0,'Eastwood',9904
+992200,0,'Exam',9922
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
+994100,0,'Huron Hts',9941
+994200,0,'Exam',9942
 995101,0,'Fairview',9951
 995100,0,'Forest Gln',9951
 995200,0,'ECI-F1 Express',9952
