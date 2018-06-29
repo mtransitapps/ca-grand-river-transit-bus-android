@@ -86,8 +86,6 @@
 7701,0,'The Boardwalk',77
 7801,0,'Family Ctr',78
 7802,0,'Forest Gln',78
-9104,0,'Charles Terminal',91
-9103,0,'UW',91
 11001,0,'Conestoga College',110
 11000,0,'Fairview Pk',110
 11601,0,'Conestoga College',116
@@ -104,14 +102,6 @@
 20401,0,'The Boardwalk',204
 20500,0,'Ottawa / River',205
 20501,0,'Sunrise Ctr',205
-980101,0,'GCI',9801
-984100,0,'Ainslie Terminal',9841
-984101,0,'Cambridge Ctr',9841
-990100,0,'Huron Hts',9901
-990400,0,'Eastwood',9904
-992200,0,'Exam',9922
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
-994100,0,'Huron Hts',9941
-994200,0,'Exam',9942
 998301,0,'Rt 14 & 7 Evening',9983
