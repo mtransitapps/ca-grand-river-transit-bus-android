@@ -16,8 +16,8 @@
 800,0,'University / King',8
 900,0,'Conestoga Mall',9
 901,0,'UW',9
-1004,0,'Conestoga College',10
-1003,0,'Fairview Pk',10
+1001,0,'Conestoga College',10
+1000,0,'Fairview Pk',10
 1100,0,'Charles Terminal',11
 1101,0,'Forest Gln',11
 1200,0,'Conestoga Mall',12
@@ -31,8 +31,8 @@
 2001,0,'The Boardwalk',20
 2100,0,'Arthur / Church',21
 2101,0,'Conestoga Mall',21
-2201,0,'Charles Terminal',22
-2202,0,'Highland Hls',22
+2200,0,'Charles Terminal',22
+2201,0,'Highland Hls',22
 2301,0,'Fairview Pk',23
 2300,0,'Stanley Pk',23
 2702,0,'Fairview Pk',27
@@ -76,8 +76,8 @@
 6700,0,'Lovell Ind',67
 7201,0,'Boxwood / Maple Grv',72
 7202,0,'Sportsworld',72
-7302,0,'Lk Louise / Conservation',73
-7301,0,'McCormick CC',73
+7301,0,'Conservation',73
+7300,0,'McCormick',73
 7502,0,'Cambridge Ctr',75
 7501,0,'Saginaw',75
 7601,0,'Conestoga College',76
