@@ -35,6 +35,8 @@
 2201,0,'Highland Hls',22
 2301,0,'Fairview Pk',23
 2300,0,'Stanley Pk',23
+2603,0,'Forest Gln',26
+2604,0,'South',26
 2702,0,'Fairview Pk',27
 2701,0,'Quinte / Morrison',27
 2901,0,'The Boardwalk',29
@@ -86,8 +88,14 @@
 7701,0,'The Boardwalk',77
 7801,0,'Family Ctr',78
 7802,0,'Forest Gln',78
+9104,0,'Charles Terminal',91
+9103,0,'UW',91
+9201,0,'CCW',92
+9200,0,'CW',92
 11001,0,'Conestoga College',110
 11000,0,'Fairview Pk',110
+11101,0,'Ainslie Terminal',111
+11100,0,'Conestoga College',111
 11601,0,'Conestoga College',116
 11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
@@ -102,6 +110,18 @@
 20401,0,'The Boardwalk',204
 20500,0,'Ottawa / River',205
 20501,0,'Sunrise Ctr',205
+980101,0,'GCI AM',9801
+985101,0,'GCI PM Northview',9851
+990301,0,'St Mary''s',9903
+990300,0,'UW',9903
+990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
+995101,0,'Fairview',9951
+995100,0,'Forest Gln',9951
+995200,0,'ECI-F1 Express',9952
+995300,0,'ECI-F2 Express',9953
+995400,0,'ECI-F3 Express',9954
+996300,0,'ECI-Downtown 1',9963
+996400,0,'ECI-Downtown 2',9964
 998301,0,'Special',9983
