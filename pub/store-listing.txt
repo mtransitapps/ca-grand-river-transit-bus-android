@@ -5,7 +5,7 @@ Grand River Transit buses for MonTransit.
 Real-time & Offline Schedule. News.
 ----------
 What's new in this version?:
-Schedule from August 20, 2018 to December 22, 2018.
+Schedule from August 23, 2018 to December 22, 2018.
 Real-time schedule from realtimemap.grt.ca
 News from www.grt.ca
 ----------
