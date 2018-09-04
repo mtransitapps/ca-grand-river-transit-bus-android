@@ -1,4 +1,4 @@
-100,0,'Fairview Pk',1
+100,0,'Fairway Sta',1
 101,0,'The Boardwalk',1
 200,0,'Charles Terminal',2
 201,0,'Westheights',2
@@ -17,7 +17,7 @@
 900,0,'Conestoga Mall',9
 901,0,'UW',9
 1001,0,'Conestoga College',10
-1000,0,'Fairview Pk',10
+1000,0,'Fairway Sta',10
 1100,0,'Charles Terminal',11
 1101,0,'Forest Gln',11
 1200,0,'Conestoga Mall',12
@@ -30,10 +30,10 @@
 2000,0,'Stanley Pk',20
 2001,0,'The Boardwalk',20
 2100,0,'Arthur / Church',21
-2101,0,'Conestoga Mall',21
+2101,0,'Conestoga Sta',21
 2200,0,'Charles Terminal',22
 2201,0,'Highland Hls',22
-2301,0,'Fairview Pk',23
+2301,0,'Fairway Sta',23
 2300,0,'Stanley Pk',23
 2603,0,'Forest Gln',26
 2604,0,'South',26
@@ -41,18 +41,18 @@
 2701,0,'Quinte / Morrison',27
 2901,0,'The Boardwalk',29
 2900,0,'University / King',29
-3100,0,'Clair Hls',31
-3101,0,'Conestoga Mall',31
-3301,0,'Forest Gln',33
-3300,0,'Huron Vlg',33
+3101,0,'Conestoga Sta',31
+3100,0,'Sundew',31
+3300,0,'Forest Gln',33
+3301,0,'Sunrise Ctr',33
 3401,0,'Charles Terminal',34
 3400,0,'Shirley / Victoria',34
 5100,0,'Ainslie Terminal',51
 5101,0,'Fisher Mills / Melran',51
 5201,0,'Ainslie Terminal',52
-5200,0,'Fairview Pk',52
+5200,0,'Fairway Sta',52
 5300,0,'Ainslie Terminal',53
-5301,0,'Cambridge Ctr',53
+5301,0,'Cambridge Ctr Sta',53
 5402,0,'Ainslie Terminal',54
 5401,0,'Lisbon Pines',54
 5501,0,'Ainslie Terminal',55
@@ -67,7 +67,7 @@
 5904,0,'Christopher / Myers',59
 6002,0,'Cambridge Ctr',60
 6001,0,'Saginaw / Burnett',60
-6100,0,'Cambridge Ctr',61
+6100,0,'Cambridge Ctr Sta',61
 6101,0,'Conestoga College',61
 6201,0,'Ainslie Terminal',62
 6202,0,'Woodside',62
@@ -86,32 +86,30 @@
 7602,0,'Pioneer Pk',76
 7702,0,'New Hamburg',77
 7701,0,'The Boardwalk',77
-7801,0,'Family Ctr',78
-7802,0,'Forest Gln',78
 9104,0,'Charles Terminal',91
 9103,0,'UW',91
 9201,0,'CCW',92
 9200,0,'CW',92
 11001,0,'Conestoga College',110
-11000,0,'Fairview Pk',110
+11000,0,'Fairway Sta',110
 11101,0,'Ainslie Terminal',111
 11100,0,'Conestoga College',111
 11601,0,'Conestoga College',116
 11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
 20000,0,'Conestoga Mall',200
-20101,0,'Conestoga Mall',201
+20101,0,'Conestoga Sta',201
 20100,0,'Forest Gln',201
-20201,0,'Conestoga Mall',202
+20201,0,'Conestoga Sta',202
 20200,0,'The Boardwalk',202
-20301,0,'Cambridge Ctr',203
-20300,0,'Sportsworld',203
+20301,0,'Cambridge Ctr Sta',203
+20300,0,'Conestoga College',203
 20400,0,'Lackner',204
 20401,0,'The Boardwalk',204
 20500,0,'Ottawa / River',205
 20501,0,'Sunrise Ctr',205
-980101,0,'GCI AM',9801
-985101,0,'GCI PM Northview',9851
+980101,0,'Test Sign 1',9801
+985101,0,'Test Sign 2',9851
 990301,0,'St Mary''s',9903
 990300,0,'UW',9903
 990400,0,'Eastwood',9904
