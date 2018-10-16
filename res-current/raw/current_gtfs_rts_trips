@@ -35,14 +35,14 @@
 2201,0,'Highland Hls',22
 2301,0,'Fairway Sta',23
 2300,0,'Stanley Pk',23
-2603,0,'Forest Gln',26
-2604,0,'South',26
-2702,0,'Fairview Pk',27
-2701,0,'Quinte / Morrison',27
+2600,0,'Forest Gln',26
+2601,0,'Groff',26
+2701,0,'Fairway Sta',27
+2700,0,'Quinte / Morrison',27
 2901,0,'The Boardwalk',29
 2900,0,'University / King',29
+3100,0,'Columbia / Sundew',31
 3101,0,'Conestoga Sta',31
-3100,0,'Sundew',31
 3300,0,'Forest Gln',33
 3301,0,'Sunrise Ctr',33
 3401,0,'Charles Terminal',34
@@ -53,43 +53,43 @@
 5200,0,'Fairway Sta',52
 5300,0,'Ainslie Terminal',53
 5301,0,'Cambridge Ctr Sta',53
-5402,0,'Ainslie Terminal',54
-5401,0,'Lisbon Pines',54
-5501,0,'Ainslie Terminal',55
-5502,0,'Grand Rdg / Oak Hl',55
-5601,0,'Cambridge Ctr',56
-5602,0,'Rose / Argyle',56
-5701,0,'Ainslie Terminal',57
-5702,0,'Blair Rd',57
-5804,0,'Ainslie Terminal',58
-5803,0,'Elgin / Avenue',58
-5903,0,'Ainslie Terminal',59
-5904,0,'Christopher / Myers',59
-6002,0,'Cambridge Ctr',60
-6001,0,'Saginaw / Burnett',60
+5402000,0,'Ainslie Terminal',54
+5401000,0,'Lisbon Pines',54
+5501000,0,'Ainslie Terminal',55
+5502000,0,'Grand Rdg / Oak Hl',55
+5601000,0,'Cambridge Ctr',56
+5602000,0,'Rose / Argyle',56
+5701000,0,'Ainslie Terminal',57
+5702000,0,'Blair Rd',57
+5804000,0,'Ainslie Terminal',58
+5803000,0,'Elgin / Avenue',58
+5903000,0,'Ainslie Terminal',59
+5904000,0,'Christopher / Myers',59
+6002000,0,'Cambridge Ctr',60
+6001000,0,'Saginaw / Burnett',60
 6100,0,'Cambridge Ctr Sta',61
 6101,0,'Conestoga College',61
-6201,0,'Ainslie Terminal',62
-6202,0,'Woodside',62
-6302,0,'Ainslie Terminal',63
-6301,0,'Cambridge Ctr',63
-6401,0,'Cambridge Ctr',64
-6402,0,'Dover / Rose',64
+6201000,0,'Ainslie Terminal',62
+6202000,0,'Woodside',62
+6302000,0,'Ainslie Terminal',63
+6301000,0,'Cambridge Ctr',63
+6401000,0,'Cambridge Ctr',64
+6402000,0,'Dover / Rose',64
 6700,0,'Lovell Ind',67
-7201,0,'Boxwood / Maple Grv',72
-7202,0,'Sportsworld',72
+7201000,0,'Boxwood / Maple Grv',72
+7202000,0,'Sportsworld',72
 7301,0,'Conservation / Rideau River',73
 7300,0,'Northfield Sta',73
-7502,0,'Cambridge Ctr',75
-7501,0,'Saginaw',75
+7502000,0,'Cambridge Ctr',75
+7501000,0,'Saginaw',75
 7601,0,'Conestoga College',76
-7602,0,'Pioneer Pk',76
-7702,0,'New Hamburg',77
-7701,0,'The Boardwalk',77
-9104,0,'Charles Terminal',91
-9103,0,'UW',91
-9201,0,'CCW',92
-9200,0,'CW',92
+7600,0,'Pioneer Pk Plz',76
+7701,0,'New Hamburg',77
+7700,0,'The Boardwalk',77
+9104000,0,'Charles Terminal',91
+9103000,0,'UW',91
+9209000,0,'CCW',92
+9206000,0,'CW',92
 11001,0,'Conestoga College',110
 11000,0,'Fairway Sta',110
 11101,0,'Ainslie Terminal',111
@@ -104,20 +104,20 @@
 20200,0,'The Boardwalk',202
 20301,0,'Cambridge Ctr Sta',203
 20300,0,'Conestoga College',203
-20400,0,'Lackner',204
+20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk',204
-20500,0,'Ottawa / River',205
+20500,0,'Ottawa / Lackner',205
 20501,0,'Sunrise Ctr',205
 980101,0,'Test Sign 1',9801
 980201,0,'Conestoga College',9802
 985101,0,'Test Sign 2',9851
-990301,0,'St Mary''s',9903
-990300,0,'UW',9903
+990304000,0,'St Mary''s',9903
+990303000,0,'UW',9903
 990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
-995101,0,'Fairview',9951
-995100,0,'Forest Gln',9951
+995101000,0,'Fairview',9951
+995103000,0,'Forest Gln',9951
 995200,0,'ECI-F1 Express',9952
 995300,0,'ECI-F2 Express',9953
 995400,0,'ECI-F3 Express',9954
