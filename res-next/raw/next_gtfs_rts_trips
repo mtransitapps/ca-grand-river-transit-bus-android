@@ -86,6 +86,16 @@
 7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
 7700,0,'The Boardwalk',77
+9104000,0,'Charles Terminal',91
+9103000,0,'UW',91
+9209000,0,'CCW',92
+9206000,0,'CW',92
+11001,0,'Conestoga College',110
+11000,0,'Fairway Sta',110
+11101,0,'Ainslie Terminal',111
+11100,0,'Conestoga College',111
+11601,0,'Conestoga College',116
+11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
 20000,0,'Conestoga Mall',200
 20101,0,'Conestoga Sta',201
@@ -93,11 +103,24 @@
 20201,0,'Conestoga Sta',202
 20200,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
-20300,0,'Sportsworld Sta',203
+20300,0,'Conestoga College',203
 20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
 20501,0,'Sunrise Ctr Sta',205
+980101,0,'Test Sign 1',9801
+980201,0,'Conestoga College',9802
+985101,0,'Test Sign 2',9851
+990304000,0,'St Mary''s',9903
+990303000,0,'UW',9903
+990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
+995101000,0,'Fairview',9951
+995103000,0,'Forest Gln',9951
+995200,0,'ECI-F1 Express',9952
+995300,0,'ECI-F2 Express',9953
+995400,0,'ECI-F3 Express',9954
+996300,0,'ECI-Downtown 1',9963
+996400,0,'ECI-Downtown 2',9964
 998301,0,'Special',9983
