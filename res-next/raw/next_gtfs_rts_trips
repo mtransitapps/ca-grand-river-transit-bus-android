@@ -5,23 +5,23 @@
 301,0,'Charles Terminal',3
 300,0,'Forest Gln',3
 401,0,'Charles Terminal',4
-400,0,'The Boardwalk',4
+400,0,'The Boardwalk Sta',4
 500,0,'Bridgeport',5
 501,0,'The Boardwalk Sta',5
 601,0,'Charles Terminal',6
 600,0,'Conestoga Sta',6
-701,0,'Fairview Pk',7
-700,0,'UW / Conestoga Mall',7
-801,0,'Fairview Pk',8
+701,0,'Fairway Sta',7
+700,0,'UW / Conestoga Sta',7
+801,0,'Fairway Sta',8
 800,0,'University / King',8
-900,0,'Conestoga Mall',9
+900,0,'Conestoga Sta',9
 901,0,'UW',9
 1001,0,'Conestoga College',10
 1000,0,'Fairway Sta',10
 1100,0,'Charles Terminal',11
 1101,0,'Forest Gln',11
-1200,0,'Conestoga Mall',12
-1201,0,'Fairview Pk',12
+1200,0,'Conestoga Sta',12
+1201,0,'Fairway Sta',12
 1301,0,'The Boardwalk Sta',13
 1300,0,'UW',13
 1400,0,'Waterloo Ind',14
@@ -39,7 +39,7 @@
 2601,0,'Groff',26
 2701,0,'Fairway Sta',27
 2700,0,'Quinte / Morrison',27
-2901,0,'The Boardwalk',29
+2901,0,'The Boardwalk Sta',29
 2900,0,'University / King',29
 3100,0,'Columbia / Sundew',31
 3101,0,'Conestoga Sta',31
@@ -119,7 +119,7 @@
 990400,0,'Eastwood',9904
 993100,0,'Huron Ind',9931
 993200,0,'Northfield Ind',9932
-995101000,0,'Fairview',9951
+995101000,0,'Fairway Sta',9951
 995103000,0,'Forest Gln',9951
 995200,0,'ECI-F1 Express',9952
 995300,0,'ECI-F2 Express',9953
