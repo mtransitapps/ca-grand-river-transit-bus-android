@@ -108,7 +108,8 @@
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
 20501,0,'Sunrise Ctr Sta',205
-90100,0,'Flex Trinity-Freeport',901
+90101000,0,'Freeport',901
+90102000,0,'Trinity',901
 90201000,0,'East',902
 90202000,0,'West',902
 980101,0,'Test Sign 1',9801
