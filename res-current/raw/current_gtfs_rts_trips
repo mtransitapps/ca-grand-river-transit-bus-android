@@ -1,5 +1,5 @@
 100,0,'Fairway Sta',1
-101,0,'The Boardwalk',1
+101,0,'The Boardwalk Sta',1
 200,0,'Charles Terminal',2
 201,0,'Westheights',2
 301,0,'Charles Terminal',3
@@ -23,7 +23,7 @@
 1200,0,'Conestoga Sta',12
 1201,0,'Fairway Sta',12
 1301,0,'The Boardwalk Sta',13
-1300,0,'UW',13
+1300,0,'UW Sta',13
 1400,0,'Waterloo Ind',14
 1600,0,'Conestoga College',16
 1601,0,'Forest Gln',16
@@ -44,7 +44,7 @@
 3100,0,'Columbia / Sundew',31
 3101,0,'Conestoga Sta',31
 3300,0,'Forest Gln',33
-3301,0,'Sunrise Ctr',33
+3301,0,'Sunrise Ctr Sta',33
 3401,0,'Charles Terminal',34
 3400,0,'Shirley / Victoria',34
 5100,0,'Ainslie Terminal',51
