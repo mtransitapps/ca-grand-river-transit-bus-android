@@ -606,7 +606,7 @@
 1644,'1644','King / Hofstetter',43.425748,-80.422584
 1645,'1645','3189 King St. E.',43.426758,-80.42659
 1646,'1646','King / Fairway',43.428266,-80.431097
-1647,'1647','Morrison / Grand River Hosp – Freeport',43.426025,-80.413402
+1647,'1647','Morrison / Grand River Hosp - Freeport Campus',43.426025,-80.413402
 1648,'1648','Morrison / Grand River Blvd.',43.427849,-80.41446
 1649,'1649','Morrison / Path To Morrison Pk',43.429984,-80.416379
 1650,'1650','Morrison / Grand River Blvd.',43.432091,-80.414604
@@ -1536,7 +1536,7 @@
 2785,'2785','University Ave. / King',43.475826,-80.52545
 2786,'2786','University Ave. / Regina',43.476663,-80.52328
 2787,'2787','University Ave. / Weber',43.477642,-80.520527
-2788,'2788','University Ave. / Conestoga College – Waterloo',43.479299,-80.516198
+2788,'2788','University Ave. / Conestoga College - Waterloo',43.479299,-80.516198
 2793,'2793','Lincoln / Mayfield',43.479191,-80.507766
 2794,'2794','Lincoln / Bluevale',43.48201,-80.505814
 2795,'2795','Lincoln / University Ave.',43.483323,-80.507621
@@ -2517,6 +2517,12 @@
 5024,'5024','Mausser / Lorne',43.434382,-80.493218
 5027,'5027','Mausser / Lorne',43.434612,-80.49299
 5028,'5028','Mausser / Stirling',43.433908,-80.495755
+5029,'5029','Queenston / Westminster',43.394973,-80.359388
+5030,'5030','Queenston / Lowther',43.393549,-80.356667
+5031,'5031','Dolph / King',43.393024,-80.353233
+5032,'5032','Duke / Lowther',43.395267,-80.3546
+5033,'5033','Duke / Westminster',43.396696,-80.357361
+5034,'5034','Waterloo St. / King',43.397371,-80.361015
 5052,'5052','Hoffman / Highland',43.430282,-80.487515
 5053,'5053','Highland / Hoffman',43.430597,-80.487545
 5060,'5060','Regina / Young',43.468529,-80.521969
