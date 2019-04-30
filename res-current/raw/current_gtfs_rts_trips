@@ -88,12 +88,8 @@
 7700,0,'The Boardwalk',77
 9104000,0,'Charles Terminal',91
 9103000,0,'UW',91
-9209000,0,'CCW',92
-9206000,0,'CW',92
 11001,0,'Conestoga College',110
 11000,0,'Fairway Sta',110
-11101,0,'Ainslie Terminal',111
-11100,0,'Conestoga College',111
 11601,0,'Conestoga College',116
 11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
@@ -103,7 +99,7 @@
 20201,0,'Conestoga Sta',202
 20200,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
-20300,0,'Conestoga College',203
+20300,0,'Sportsworld Sta',203
 20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
