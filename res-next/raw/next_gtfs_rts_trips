@@ -1,0 +1,106 @@
+100,0,'Fairway Sta',1
+101,0,'The Boardwalk Sta',1
+200,0,'Stanley Pk',2
+201,0,'Westheights / Driftwood',2
+300,0,'Frederick Sta',3
+301,0,'Sunrise Ctr Sta',3
+400,0,'Frederick Sta',4
+401,0,'The Boardwalk Sta',4
+500,0,'Bridgeport',5
+501,0,'The Boardwalk Sta',5
+600,0,'Conestoga Sta',6
+601,0,'Fairway Sta',6
+701,0,'Fairway Sta',7
+700,0,'UW / Conestoga Sta',7
+801,0,'Fairway Sta',8
+800,0,'University / King',8
+900,0,'Conestoga Sta',9
+901,0,'UW Sta',9
+1001,0,'Conestoga College',10
+1000,0,'Fairway Sta',10
+1201,0,'Fairway Sta',12
+1200,0,'University / King',12
+1301,0,'The Boardwalk Sta',13
+1300,0,'UW Sta',13
+1401,0,'Bathurst',14
+1601,0,'Conestoga College',16
+1600,0,'Waterloo Public Sq Sta',16
+1900,0,'Northfield Sta / St Jacobs Mkt',19
+1901,0,'UW Sta',19
+2000,0,'Stanley Pk',20
+2001,0,'The Boardwalk Sta',20
+2100,0,'Arthur / Church',21
+2101,0,'Conestoga Sta',21
+2200,0,'Block Line Sta',22
+2201,0,'Sunrise Ctr Sta',22
+2301,0,'Fairway Sta',23
+2300,0,'Stanley Pk',23
+2600,0,'Block Line Sta',26
+2601,0,'Trillium / Washburn',26
+2701,0,'Fairway Sta',27
+2700,0,'Quinte / Morrison',27
+2801,0,'Fairway Sta',28
+2800,0,'Stanley Pk',28
+2900,0,'Conestoga Sta',29
+2901,0,'The Boardwalk Sta',29
+3101,0,'Columbia / Sundew',31
+3100,0,'Conestoga Sta',31
+3300,0,'Block Line Sta',33
+3301,0,'Sunrise Ctr Sta',33
+3401,0,'Central Sta',34
+3400,0,'Victoria / Lackner',34
+5100,0,'Ainslie Terminal',51
+5101,0,'Fisher Mills / Melran',51
+5201,0,'Ainslie Terminal',52
+5200,0,'Fairway Sta',52
+5300,0,'Ainslie Terminal',53
+5301,0,'Cambridge Ctr Sta',53
+5402000,0,'Ainslie Terminal',54
+5401000,0,'Littles Corners',54
+5501000,0,'Ainslie Terminal',55
+5502000,0,'Grand Rdg / Oak Hl',55
+5601000,0,'Cambridge Ctr',56
+5602000,0,'Rose / Argyle',56
+5701000,0,'Ainslie Terminal',57
+5702000,0,'Blair Rd',57
+5804000,0,'Ainslie Terminal',58
+5803000,0,'Elgin / Avenue',58
+5903000,0,'Ainslie Terminal',59
+5904000,0,'Christopher / Myers',59
+6002000,0,'Cambridge Ctr',60
+6001000,0,'Saginaw / Burnett',60
+6100,0,'Cambridge Ctr Sta',61
+6101,0,'Conestoga College',61
+6201000,0,'Ainslie Terminal',62
+6202000,0,'Woodside',62
+6302000,0,'Ainslie Terminal',63
+6301000,0,'Cambridge Ctr',63
+6401000,0,'Cambridge Ctr',64
+6402000,0,'Dover / Rose',64
+6700,0,'Lovell Ind',67
+7301,0,'Conservation / Rideau River',73
+7300,0,'Northfield Sta',73
+7502000,0,'Cambridge Ctr',75
+7501000,0,'Saginaw',75
+7601,0,'Conestoga College',76
+7600,0,'Pioneer Pk Plz',76
+7701,0,'New Hamburg',77
+7700,0,'The Boardwalk Sta',77
+11001,0,'Conestoga College',110
+11000,0,'Fairway Sta',110
+20101,0,'Conestoga College',201
+20100,0,'Conestoga Sta',201
+20200,0,'Conestoga Sta',202
+20201,0,'The Boardwalk Sta',202
+20301,0,'Cambridge Ctr Sta',203
+20300,0,'Sportsworld Sta',203
+20400,0,'Ottawa / Lackner',204
+20401,0,'The Boardwalk Sta',204
+20500,0,'Ottawa / Lackner',205
+20501,0,'Sunrise Ctr Sta',205
+30201,0,'Ainslie Terminal',302
+30200,0,'Fairway Sta',302
+90101000,0,'Freeport',901
+90102000,0,'Trinity',901
+90202000,0,'Hespeler Vlg',902
+90201000,0,'Residences',902
