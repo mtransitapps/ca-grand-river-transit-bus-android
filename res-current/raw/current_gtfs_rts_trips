@@ -24,9 +24,12 @@
 1201,0,'Fairway Sta',12
 1301,0,'The Boardwalk Sta',13
 1300,0,'UW Sta',13
+1401,0,'Bathurst',14
 1400,0,'Waterloo Ind',14
 1600,0,'Conestoga College',16
 1601,0,'Forest Gln',16
+1900,0,'Northfield Sta / St Jacobs Mkt',19
+1901,0,'UW Sta',19
 2000,0,'Stanley Pk',20
 2001,0,'The Boardwalk Sta',20
 2100,0,'Arthur / Church',21
@@ -36,9 +39,11 @@
 2301,0,'Fairway Sta',23
 2300,0,'Stanley Pk',23
 2600,0,'Forest Gln',26
-2601,0,'Groff',26
+2601,0,'Trillium / Washburn',26
 2701,0,'Fairway Sta',27
 2700,0,'Quinte / Morrison',27
+2801,0,'Fairway Sta',28
+2800,0,'Stanley Pk',28
 2901,0,'The Boardwalk Sta',29
 2900,0,'University / King',29
 3100,0,'Columbia / Sundew',31
@@ -85,7 +90,7 @@
 7601,0,'Conestoga College',76
 7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
-7700,0,'The Boardwalk',77
+7700,0,'The Boardwalk Sta',77
 9104000,0,'Charles Terminal',91
 9103000,0,'UW',91
 11001,0,'Conestoga College',110
@@ -94,8 +99,8 @@
 11600,0,'Forest Gln',116
 20001,0,'Ainslie Terminal',200
 20000,0,'Conestoga Sta',200
-20101,0,'Conestoga Sta',201
-20100,0,'Forest Gln',201
+20101,0,'Conestoga College',201
+20100,0,'Conestoga Sta',201
 20201,0,'Conestoga Sta',202
 20200,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
@@ -104,6 +109,8 @@
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
 20501,0,'Sunrise Ctr Sta',205
+30201,0,'Ainslie Terminal',302
+30200,0,'Fairway Sta',302
 90101000,0,'Freeport',901
 90102000,0,'Trinity',901
 90202000,0,'Hespeler Vlg',902
