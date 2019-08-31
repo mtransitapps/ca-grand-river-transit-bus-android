@@ -35,20 +35,24 @@
 2201,0,'Sunrise Ctr Sta',22
 2301,0,'Fairway Sta',23
 2300,0,'Stanley Pk',23
-2600,0,'Block Line Sta',26
-2601,0,'Trillium / Washburn',26
+2601,0,'Block Line Sta',26
+2600,0,'Trillium / Washburn',26
 2701,0,'Fairway Sta',27
 2700,0,'Quinte / Morrison',27
 2801,0,'Fairway Sta',28
 2800,0,'Stanley Pk',28
-2900,0,'Conestoga Sta',29
 2901,0,'The Boardwalk Sta',29
-3100,0,'Columbia / Sundew',31
-3101,0,'Conestoga Sta',31
+2900,0,'University / King',29
+3101,0,'Columbia / Sundew',31
+3100,0,'Conestoga Sta',31
 3300,0,'Block Line Sta',33
 3301,0,'Sunrise Ctr Sta',33
 3401,0,'Central Sta',34
 3400,0,'Victoria / Lackner',34
+3600,0,'Conestoga College',36
+3601,0,'Robert Ferrie / Forest Crk',36
+5000,0,'Cambridge Ctr Sta',50
+5001,0,'Franklin / Grn Gt',50
 5100,0,'Ainslie Terminal',51
 5101,0,'Fisher Mills / Melran',51
 5201,0,'Ainslie Terminal',52
@@ -57,12 +61,12 @@
 5301,0,'Cambridge Ctr Sta',53
 5402000,0,'Ainslie Terminal',54
 5401000,0,'Littles Corners',54
-5501000,0,'Ainslie Terminal',55
-5502000,0,'Grand Rdg / Oak Hl',55
+5500,0,'Ainslie Terminal',55
+5501,0,'Cedar / Grand Rdg',55
 5601000,0,'Cambridge Ctr',56
 5602000,0,'Rose / Argyle',56
-5701000,0,'Ainslie Terminal',57
-5702000,0,'Blair Rd',57
+5700,0,'Ainslie Terminal',57
+5701,0,'Conestoga College',57
 5804000,0,'Ainslie Terminal',58
 5803000,0,'Elgin / Avenue',58
 5903000,0,'Ainslie Terminal',59
@@ -77,9 +81,10 @@
 6301000,0,'Cambridge Ctr',63
 6401000,0,'Cambridge Ctr',64
 6402000,0,'Dover / Rose',64
-6700,0,'Lovell Ind',67
-7201000,0,'Boxwood / Maple Grv',72
-7202000,0,'Sportsworld',72
+6701,0,'Cambridge Ctr Sta',67
+6700,0,'Sportsworld Sta',67
+7200,0,'Loblaws Distribution Ctr',72
+7201,0,'Sportsworld Sta',72
 7301,0,'Conservation / Rideau River',73
 7300,0,'Northfield Sta',73
 7502000,0,'Cambridge Ctr',75
@@ -95,14 +100,18 @@
 20201,0,'Conestoga Sta',202
 20200,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
-20300,0,'Sportsworld Sta',203
+20300,0,'Conestoga College',203
 20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
 20501,0,'Sunrise Ctr Sta',205
+20600,0,'Fairway Sta',206
+20601,0,'Southwood SS',206
 30201,0,'Ainslie Terminal',302
 30200,0,'Fairway Sta',302
 90101000,0,'Freeport',901
 90102000,0,'Trinity',901
 90202000,0,'Hespeler Vlg',902
 90201000,0,'Residences',902
+980101,0,'Ainslie Terminal',9801
+985101,0,'GCI',9851
