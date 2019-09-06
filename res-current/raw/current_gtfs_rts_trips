@@ -55,8 +55,6 @@
 5001,0,'Franklin / Grn Gt',50
 5100,0,'Ainslie Terminal',51
 5101,0,'Fisher Mills / Melran',51
-5201,0,'Ainslie Terminal',52
-5200,0,'Fairway Sta',52
 5300,0,'Ainslie Terminal',53
 5301,0,'Cambridge Ctr Sta',53
 5402000,0,'Ainslie Terminal',54
@@ -75,8 +73,6 @@
 6001000,0,'Saginaw / Burnett',60
 6100,0,'Cambridge Ctr Sta',61
 6101,0,'Conestoga College',61
-6201000,0,'Ainslie Terminal',62
-6202000,0,'Woodside',62
 6302000,0,'Ainslie Terminal',63
 6301000,0,'Cambridge Ctr',63
 6401000,0,'Cambridge Ctr',64
@@ -111,7 +107,5 @@
 30200,0,'Fairway Sta',302
 90101000,0,'Freeport',901
 90102000,0,'Trinity',901
-90202000,0,'Hespeler Vlg',902
-90201000,0,'Residences',902
 980101,0,'Ainslie Terminal',9801
 985101,0,'GCI',9851
