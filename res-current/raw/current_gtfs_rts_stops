@@ -78,6 +78,7 @@
 1090,'1090','University Ave. / University Of Waterloo',43.469279,-80.538619
 1092,'1092','Union / Weber',43.465173,-80.505466
 1093,'1093','Columbia / Phillip',43.476816,-80.540812
+1094,'1094','Columbia / U.W. - Optometry',43.475516,-80.544382
 1095,'1095','Ira Needles / Victoria',43.429185,-80.553306
 1096,'1096','Columbia / U.W. - Vlg 1',43.473156,-80.55099
 1097,'1097','Columbia / U.W. - Ron Eydt Vlg',43.47157,-80.555391
@@ -480,8 +481,6 @@
 1535,'1535','Dobbie / Clyde',43.373206,-80.285341
 1536,'1536','Clyde / Grand River Conservation Authority',43.37341,-80.286387
 1537,'1537','Clyde / Bluerock',43.372564,-80.290681
-1538,'1538','Franklin / Clyde',43.371672,-80.295449
-1540,'1540','Franklin / Ave',43.381107,-80.299186
 1541,'1541','Franklin / Robson',43.385241,-80.300805
 1542,'1542','Franklin / Saginaw',43.392355,-80.302303
 1543,'1543','Franklin / Lindsay',43.396334,-80.303653
@@ -1092,7 +1091,6 @@
 2305,'2305','Rittenhouse / Erinbrook',43.40952,-80.487094
 2306,'2306','Rittenhouse / Path To Rittenhouse Pk',43.408002,-80.491372
 2307,'2307','Rittenhouse / Erinbrook',43.40785,-80.496183
-2308,'2308','Conestoga College Blvd. / Homer Watson',43.38747,-80.411959
 2309,'2309','Stirling / Highland',43.436367,-80.49081
 2310,'2310','Cherry Blossom / Barnes',43.415728,-80.384565
 2311,'2311','Stirling / Highland',43.436426,-80.490972
@@ -1952,6 +1950,7 @@
 3559,'3559','Frederick / Turner',43.463495,-80.459587
 3560,'3560','Frederick / Victoria',43.465475,-80.458256
 3561,'3561','Halifax / Confederation',43.461771,-80.445463
+3562,'3562','Fountain / Linden',43.388369,-80.378455
 3564,'3564','Victoria / Belmont',43.443013,-80.51194
 3565,'3565','Victoria / West',43.446088,-80.505019
 3566,'3566','Victoria / Iron Horse Trl',43.445068,-80.506585
