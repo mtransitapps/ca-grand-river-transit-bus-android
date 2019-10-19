@@ -1089,9 +1089,7 @@
 2305,'2305','Rittenhouse / Erinbrook',43.40952,-80.487094
 2306,'2306','Rittenhouse / Path To Rittenhouse Pk',43.408002,-80.491372
 2307,'2307','Rittenhouse / Erinbrook',43.40785,-80.496183
-2309,'2309','Stirling / Highland',43.436367,-80.49081
 2310,'2310','Cherry Blossom / Barnes',43.415728,-80.384565
-2311,'2311','Stirling / Highland',43.436426,-80.490972
 2312,'2312','Cherry Blossom / Fountain',43.412631,-80.37513
 2313,'2313','Bishop / Mary',43.392515,-80.339491
 2316,'2316','Loblaws Distribution Ctr',43.429058,-80.379026
@@ -1171,8 +1169,6 @@
 2398,'2398','Homer Watson / Bleams',43.410267,-80.461582
 2399,'2399','Beasley / Homer Watson',43.402018,-80.457601
 2400,'2400','Krug / Becker',43.454294,-80.467711
-2401,'2401','Highland / Stirling',43.436632,-80.491305
-2402,'2402','Highland / Stirling',43.435979,-80.491015
 2403,'2403','Krug / East',43.452687,-80.472558
 2404,'2404','Krug / Lydia',43.451932,-80.474752
 2405,'2405','Krug / Samuel',43.451043,-80.477306
@@ -1491,7 +1487,6 @@
 2815,'2815','Davenport / Path To Redfox',43.496504,-80.515777
 2817,'2817','Lexington / Davenport',43.493005,-80.512391
 2819,'2819','Lexington / Lee',43.496575,-80.507192
-2820,'2820','Highland / Spadina',43.438686,-80.49307
 2821,'2821','Lee / Dunvegan',43.493241,-80.504449
 2822,'2822','Westheights / Autumn Hl',43.420425,-80.529522
 2824,'2824','Westheights / Path To Trailview Pk',43.424542,-80.530073
@@ -1640,6 +1635,10 @@
 3056,'3056','Hoffman / Kehl',43.431411,-80.484703
 3057,'3057','Hoffman / Highland',43.430557,-80.487082
 3058,'3058','Highland / Heiman',43.432933,-80.488817
+3059,'3059','Heiman / Kehl (Temporary Stop)',43.434332,-80.487309
+3060,'3060','Heiman / Mill (Temporary Stop)',43.435422,-80.485695
+3061,'3061','Heiman / Kehl (Temporary Stop)',43.434574,-80.487147
+3062,'3062','Heiman / Highland (Temporary Stop)',43.433465,-80.48901
 3063,'3063','Hoffman / Highland',43.430529,-80.486873
 3064,'3064','Hoffman / Kehl',43.43125,-80.484927
 3065,'3065','Hoffman / Meinzinger',43.431969,-80.482697
@@ -1665,7 +1664,7 @@
 3098,'3098','Greenbrook / Forest Hl',43.428528,-80.502679
 3099,'3099','Greenbrook / Lakeside',43.428891,-80.499118
 3100,'3100','Greenbrook / Stirling',43.42951,-80.496666
-3105,'3105','Highland / Spadina',43.438669,-80.492822
+3102,'3102','Stirling / Mausser',43.433667,-80.495952
 3110,'3110','Victoria / Joseph',43.450558,-80.500278
 3111,'3111','Victoria / Bramm',43.449512,-80.501432
 3112,'3112','Victoria / Henry',43.4478,-80.503312
@@ -2396,15 +2395,17 @@
 5008,'5008','Queenston / Waterloo St.',43.396367,-80.362149
 5012,'5012','Speedsville / Eagle',43.404986,-80.347407
 5013,'5013','Sunrise Ctr Sta',43.414641,-80.517152
+5015,'5015','Spadina / Highland (Temporary Stop)',43.438943,-80.492758
+5016,'5016','Spadina / Highland (Temporary Stop)',43.438855,-80.492426
 5019,'5019','Activa / David Bergey',43.405284,-80.518164
 5020,'5020','Activa / Berry Moss',43.405325,-80.516926
 5021,'5021','Activa / Bush Clover',43.410059,-80.50993
 5022,'5022','Benton / St George',43.44658,-80.49032
-5023,'5023','639 Stirling Ave. S. (Temporary Stop)',43.432833,-80.496008
 5024,'5024','Mausser / Lorne (Temporary Stop)',43.434382,-80.493218
 5025,'5025','Columbia / Laurel Trl (U.W. Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (U.W. Sta)',43.476114,-80.542722
 5027,'5027','Mausser / Lorne (Temporary Stop)',43.434612,-80.49299
+5028,'5028','Mausser / Stirling (Temporary Stop)',43.433908,-80.495755
 5029,'5029','Queenston / Westminster',43.394973,-80.359388
 5030,'5030','Queenston / Lowther',43.393549,-80.356667
 5031,'5031','Queenston / Dolph',43.392397,-80.354488
