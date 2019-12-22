@@ -41,8 +41,8 @@
 2700,0,'Quinte / Morrison',27
 2801,0,'Fairway Sta',28
 2800,0,'Stanley Pk',28
+2900,0,'Conestoga Sta',29
 2901,0,'The Boardwalk Sta',29
-2900,0,'University / King',29
 3101,0,'Columbia / Sundew',31
 3100,0,'Conestoga Sta',31
 3300,0,'Block Line Sta',33
@@ -93,8 +93,8 @@
 11000,0,'Fairway Sta',110
 20101,0,'Conestoga College',201
 20100,0,'Conestoga Sta',201
-20201,0,'Conestoga Sta',202
-20200,0,'The Boardwalk Sta',202
+20200,0,'Conestoga Sta',202
+20201,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
 20300,0,'Conestoga College',203
 20400,0,'Ottawa / Lackner',204
