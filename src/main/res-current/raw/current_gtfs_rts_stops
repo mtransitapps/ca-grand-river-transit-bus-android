@@ -20,7 +20,6 @@
 1019,'1019','River / Bradley',43.445723,-80.441426
 1020,'1020','Maple Grv / Boxwood',43.427063,-80.364376
 1021,'1021','Maple Grv / Boxwood',43.426855,-80.363843
-1022,'1022','Huron / Strasburg',43.392897,-80.465131
 1023,'1023','Victoria / Margaret',43.456329,-80.489504
 1025,'1025','Block Line / Country Hl',43.417036,-80.476022
 1026,'1026','Oldfield / Batterswood',43.450825,-80.429724
@@ -139,10 +138,6 @@
 1150,'1150','Cedarbrae / Path To Heasley Pk',43.487946,-80.550089
 1151,'1151','Kingswood / Flint',43.423068,-80.482351
 1152,'1152','Cedarbrae / Sprucehill',43.489613,-80.548061
-1155,'1155','Albert / Weber',43.491552,-80.537559
-1156,'1156','Albert / Longwood',43.490533,-80.539508
-1157,'1157','Albert / Quiet',43.487633,-80.541571
-1158,'1158','Hazel / Albert',43.485723,-80.539087
 1159,'1159','Hazel / Tamarack',43.484962,-80.536647
 1160,'1160','Hazel / Smallwood',43.483265,-80.534703
 1161,'1161','Hazel / Austin',43.481575,-80.533084
@@ -158,9 +153,6 @@
 1172,'1172','Hazel / Austin',43.481538,-80.532924
 1173,'1173','Hazel / Smallwood',43.483094,-80.534309
 1174,'1174','Hazel / Blythwood',43.485671,-80.537294
-1175,'1175','Hazel / Albert',43.485734,-80.539433
-1176,'1176','Albert / Greenbrier',43.488146,-80.541394
-1177,'1177','Albert / Longwood',43.490541,-80.539174
 1178,'1178','Weber / Albert',43.492038,-80.537641
 1180,'1180','Ira Needles / Highland',43.423466,-80.552844
 1181,'1181','Cedarbrae / Mt Anne',43.490028,-80.546104
@@ -494,8 +486,7 @@
 1535,'1535','Dobbie / Clyde',43.373206,-80.285341
 1536,'1536','Clyde / Grand River Conservation Authority',43.37341,-80.286387
 1537,'1537','Clyde / Bluerock',43.372564,-80.290681
-1538,'1538','Franklin / Clyde',43.371672,-80.295449
-1540,'1540','Franklin / Ave',43.381107,-80.299186
+1540,'1540','Franklin / Ave',43.379161,-80.29839
 1541,'1541','Franklin / Robson',43.385241,-80.300805
 1542,'1542','Franklin / Saginaw',43.392355,-80.302303
 1543,'1543','Franklin / Lindsay',43.396334,-80.303653
@@ -639,7 +630,6 @@
 1726,'1726','Doon Vly / Pinnacle',43.39001,-80.413746
 1727,'1727','Doon Vly / Conestoga College Blvd.',43.39081,-80.410186
 1728,'1728','Conestoga College Blvd. / Homer Watson',43.388366,-80.411447
-1731,'1731','Conestoga College Doon Campus - Recreation Ctr',43.389629,-80.408074
 1732,'1732','Conestoga College Doon Campus - Door 3',43.390289,-80.403511
 1734,'1734','Doon Vly / Orchard Mill',43.391204,-80.409812
 1735,'1735','Doon Vly / Pinnacle',43.390215,-80.413489
@@ -691,10 +681,6 @@
 1806,'1806','Strasburg / Battler',43.398637,-80.467544
 1807,'1807','Strasburg / Huron Hts Secondary School',43.394623,-80.46795
 1808,'1808','Strasburg / Huron',43.392592,-80.466782
-1809,'1809','Battler / Old Huron',43.395961,-80.461443
-1810,'1810','Old Huron / Maxwell',43.397206,-80.457937
-1811,'1811','Biehn / Carlyle',43.396014,-80.455503
-1812,'1812','Biehn / Maxwell',43.394394,-80.455555
 1820,'1820','Black Walnut / Biehn',43.393131,-80.455158
 1821,'1821','Black Walnut / Black Walnut Pl.',43.392519,-80.453361
 1822,'1822','Black Walnut / Pioneer',43.391354,-80.45068
@@ -709,11 +695,6 @@
 1832,'1832','Black Walnut / Pioneer',43.39151,-80.451185
 1833,'1833','Black Walnut / Carlyle',43.392791,-80.453581
 1834,'1834','Black Walnut / Biehn',43.393249,-80.455269
-1835,'1835','Biehn / Carlyle',43.395473,-80.455372
-1836,'1836','Biehn / Old Huron',43.397159,-80.455629
-1837,'1837','Old Huron / Maxwell',43.39726,-80.458134
-1838,'1838','Old Huron / Battler',43.395921,-80.460579
-1839,'1839','Huron / Strasburg',43.392641,-80.46572
 1840,'1840','Strasburg / Huron Hts Secondary School',43.394875,-80.467849
 1841,'1841','Strasburg / Battler',43.398699,-80.467297
 1842,'1842','Strasburg / Trillium',43.400944,-80.46787
@@ -986,8 +967,6 @@
 2121,'2121','Chalmers / Mcnaughton',43.360867,-80.300998
 2122,'2122','Mcnaughton / Lincoln',43.360276,-80.302918
 2123,'2123','Mcnaughton / Oak',43.359968,-80.305649
-2124,'2124','Mcnaughton / Shade',43.360646,-80.307579
-2125,'2125','Main / Harris',43.358881,-80.310486
 2127,'2127','Crombie / Grand',43.350925,-80.317178
 2128,'2128','Middleton / Francis',43.348247,-80.318096
 2129,'2129','1st / Caen',43.346889,-80.319777
@@ -1124,7 +1103,6 @@
 2301,'2301','Main / Lowrey',43.356283,-80.300779
 2302,'2302','Main / Cathay',43.356531,-80.303109
 2303,'2303','Main / Arthur White',43.356811,-80.306228
-2304,'2304','Main / Spruce',43.357146,-80.307976
 2305,'2305','Rittenhouse / Erinbrook',43.40952,-80.487094
 2306,'2306','Rittenhouse / Path To Rittenhouse Pk',43.408002,-80.491372
 2307,'2307','Rittenhouse / Erinbrook',43.40785,-80.496183
@@ -1204,12 +1182,10 @@
 2384,'2384','Ottawa / Old Chicopee',43.452164,-80.440172
 2385,'2385','Trillium / Beasley',43.401812,-80.459872
 2386,'2386','Beasley / Homer Watson',43.40179,-80.457719
-2387,'2387','Homer Watson / Bleams',43.410449,-80.461418
 2389,'2389','Confederation / Lorraine',43.460341,-80.442367
 2390,'2390','Grand Rdg / Cedar',43.348819,-80.341531
 2391,'2391','Grand Rdg / Harwood',43.346244,-80.339619
 2392,'2392','Grand Rdg / Wedgewood',43.342956,-80.337841
-2393,'2393','Eagle / King',43.398783,-80.363043
 2394,'2394','Lorraine / Birkshire',43.457762,-80.448843
 2395,'2395','Krug / River',43.458329,-80.458306
 2396,'2396','Krug / Sherwood',43.457495,-80.460934
@@ -1324,7 +1300,6 @@
 2515,'2515','Ring Rd. / U.W. - South Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd. / U.W. - Environment 3',43.467787,-80.543587
 2518,'2518','Ring Rd. / U.W. - University Club',43.47273,-80.547989
-2519,'2519','Ring Rd. / U.W. - B. C. Matthews Hall',43.473929,-80.546237
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
@@ -1516,8 +1491,6 @@
 2786,'2786','University Ave. / Regina',43.476663,-80.52328
 2787,'2787','University Ave. / Weber',43.477642,-80.520527
 2788,'2788','University Ave. / Conestoga College - Waterloo',43.479299,-80.516198
-2789,'2789','Eagle / William',43.400036,-80.361878
-2790,'2790','Eagle / Path To Westminster',43.401893,-80.359626
 2791,'2791','Eagle / Providence',43.405675,-80.341443
 2792,'2792','Eagle / Industrial',43.407018,-80.333546
 2793,'2793','Lincoln / Mayfield',43.479191,-80.507766
@@ -1591,7 +1564,6 @@
 2888,'2888','Block Line / Laurentian',43.412766,-80.491494
 2898,'2898','Ottawa / Pinedale',43.419848,-80.504677
 2899,'2899','Coronation / Oliver',43.377713,-80.326172
-2900,'2900','Coronation / Goldie',43.375428,-80.322311
 2901,'2901','Ottawa / Howland',43.420969,-80.497577
 2902,'2902','Elmsdale / Ottawa',43.422179,-80.49417
 2903,'2903','Elmsdale / Chandler',43.424036,-80.496675
@@ -1704,10 +1676,6 @@
 3056,'3056','Hoffman / Kehl',43.431411,-80.484703
 3057,'3057','Hoffman / Highland',43.430557,-80.487082
 3058,'3058','Highland / Heiman',43.432933,-80.488817
-3059,'3059','Heiman / Kehl (Temporary Stop)',43.434332,-80.487309
-3060,'3060','Heiman / Mill (Temporary Stop)',43.435422,-80.485695
-3061,'3061','Heiman / Kehl (Temporary Stop)',43.434574,-80.487147
-3062,'3062','Heiman / Highland (Temporary Stop)',43.433465,-80.48901
 3063,'3063','Hoffman / Highland',43.430529,-80.486873
 3064,'3064','Hoffman / Kehl',43.43125,-80.484927
 3065,'3065','Hoffman / Meinzinger',43.431969,-80.482697
@@ -1998,7 +1966,6 @@
 3495,'3495','Fairway Sta',43.421447,-80.441669
 3497,'3497','Fairway Sta',43.421754,-80.44159
 3498,'3498','Fairway Sta',43.42193,-80.441631
-3499,'3499','Fairway Sta',43.422106,-80.441683
 3500,'3500','Westheights / Path To Brk Grn',43.422346,-80.529181
 3501,'3501','Westheights / Path To Brk Grn',43.4221,-80.529435
 3502,'3502','Fischer-Hallman / Path To Bush Clover',43.410383,-80.504799
@@ -2159,7 +2126,6 @@
 3737,'3737','Parkvale / Woodbine',43.388897,-80.485718
 3738,'3738','Woodbine / Sophia',43.386649,-80.484588
 3739,'3739','Woodbine / Huron',43.383529,-80.483417
-3742,'3742','Fountain / Comdev Soccer Dome',43.409289,-80.373226
 3743,'3743','William / Caroline',43.46108,-80.521894
 3744,'3744','Wellington / Weber',43.457111,-80.495053
 3745,'3745','Conservation / Waterton',43.491411,-80.577977
@@ -2236,8 +2202,6 @@
 3839,'3839','Arthur / Scotch Line',43.567084,-80.561475
 3840,'3840','Arthur / Gerrat',43.554066,-80.555243
 3841,'3841','King / Lobsinger',43.515438,-80.557593
-3843,'3843','Huron / Templewood',43.3941,-80.464602
-3844,'3844','Huron / Templewood',43.394542,-80.464012
 3845,'3845','Conestoga / Conestoga Transit Garage',43.394522,-80.316689
 3847,'3847','610 King St. N.',43.503583,-80.535698
 3848,'3848','600 King St. N.',43.50343,-80.535123
@@ -2272,7 +2236,6 @@
 3882,'3882','Davenport / Conestoga Mall',43.49834,-80.524049
 3884,'3884','728 Arthur St. S.',43.561598,-80.558679
 3885,'3885','728 Arthur St. S.',43.56113,-80.558683
-3887,'3887','Phillip / Columbia',43.476409,-80.539399
 3888,'3888','Conestoga College Cambridge Campus',43.385284,-80.398103
 3890,'3890','Fischer-Hallman / Columbia',43.467368,-80.565646
 3891,'3891','Fischer-Hallman / Highland',43.431587,-80.525376
@@ -2312,14 +2275,11 @@
 3930,'3930','Jamieson / Townline',43.424957,-80.285721
 3931,'3931','Jamieson / Lardner',43.423526,-80.287294
 3932,'3932','Jamieson / Patton',43.421787,-80.288574
-3934,'3934','Fountain / Marmel',43.403758,-80.36999
 3935,'3935','Cherry Blossom / Fountain',43.412811,-80.375104
 3936,'3936','Cherry Blossom / Saltsman',43.414206,-80.379932
 3937,'3937','Cherry Blossom / Barnes',43.415805,-80.384201
 3939,'3939','Maple Grv / Cherry Blossom',43.416532,-80.387183
 3940,'3940','Cherry Blossom / Saltsman',43.414008,-80.379971
-3941,'3941','Fountain / Comdev Soccer Field',43.408685,-80.373207
-3942,'3942','Fountain / Marmel',43.403834,-80.370293
 3943,'3943','University Ave. / Phillip',43.472149,-80.535716
 3945,'3945','University Ave. / Sunview',43.47339,-80.532245
 3949,'3949','Laurelwood / Fischer-Hallman',43.474796,-80.572541
@@ -2465,38 +2425,21 @@
 4099,'4099','Bridgeport Rd. / Albert',43.467471,-80.524761
 4100,'4100','Maple Grv / Beaverdale',43.434509,-80.336236
 4101,'4101','Maple Grv / Beaverdale',43.434099,-80.336785
+4103,'4103','Maple Grv / Compass',43.43096,-80.345038
 4104,'4104','Preston Pkwy. / Shantz Hl',43.399339,-80.37547
 4105,'4105','Southwood / St Andrews',43.34446,-80.331306
 4106,'4106','St Andrews / Stanley',43.346403,-80.328768
 4107,'4107','King / Fairway',43.428144,-80.43143
 4108,'4108','Townline / Cambridge Gurdwara',43.400424,-80.274613
 4109,'4109','3227 King St. E.',43.42639,-80.425444
-4110,'4110','King / Grand River Hosp - Freeport Campus',43.423359,-80.411406
-5006,'5006','Duke / Waterloo St.',43.398132,-80.359989
-5008,'5008','Queenston / Waterloo St.',43.396367,-80.362149
 5012,'5012','Speedsville / Eagle',43.404986,-80.347407
 5013,'5013','Sunrise Ctr Sta',43.414641,-80.517152
-5015,'5015','Spadina / Highland (Temporary Stop)',43.438943,-80.492758
-5016,'5016','Spadina / Highland (Temporary Stop)',43.438855,-80.492426
-5019,'5019','Activa / David Bergey',43.405284,-80.518164
-5020,'5020','Activa / Berry Moss',43.405325,-80.516926
-5021,'5021','Activa / Bush Clover',43.410059,-80.50993
 5022,'5022','Benton / St George',43.44658,-80.49032
-5024,'5024','Mausser / Lorne (Temporary Stop)',43.434382,-80.493218
 5025,'5025','Columbia / Laurel Trl (U.W. Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (U.W. Sta)',43.476114,-80.542722
-5027,'5027','Mausser / Lorne (Temporary Stop)',43.434612,-80.49299
-5028,'5028','Mausser / Stirling (Temporary Stop)',43.433908,-80.495755
-5029,'5029','Queenston / Westminster',43.394973,-80.359388
-5030,'5030','Queenston / Lowther',43.393549,-80.356667
 5031,'5031','Queenston / Dolph',43.392397,-80.354488
-5032,'5032','Duke / Lowther',43.395267,-80.3546
-5033,'5033','Duke / Westminster',43.396696,-80.357361
 5035,'5035','Queenston / Union',43.391268,-80.352172
 5037,'5037','Sunrise Ctr Sta',43.414439,-80.517504
-5040,'5040','Broadview / Weber',43.435255,-80.449414
-5041,'5041','Broadview / Prospect',43.436421,-80.448561
-5042,'5042','Kenneth / Franklin',43.44151,-80.447277
 5046,'5046','Weber / Albert',43.49186,-80.537468
 5047,'5047','Blythwood / Hazel',43.485888,-80.537406
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
@@ -2547,6 +2490,4 @@
 7063,'7063','Trinity Vlg',43.429522,-80.441356
 7064,'7064','Grand River Hosp - Freeport Campus',43.425691,-80.410937
 7137,'7137','Toyota Cambridge Gt 2',43.419436,-80.37559
-7138,'7138','Heroux Devtek / Goddard',43.42535,-80.358281
 7139,'7139','Toyota Cambridge Gt 1',43.416679,-80.374048
-7140,'7140','Maple Grv / Speedsville',43.428792,-80.356067
