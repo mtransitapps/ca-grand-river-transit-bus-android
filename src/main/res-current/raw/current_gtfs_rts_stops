@@ -530,7 +530,7 @@
 1594,'1594','Coronation / Oriole',43.385668,-80.339283
 1595,'1595','Coronation / Blue Heron',43.383615,-80.336132
 1596,'1596','720 Coronation Blvd.',43.380659,-80.33114
-1597,'1597','Coronation / Cambridge Memorial Hosp',43.378432,-80.327424
+1597,'1597','Coronation / Cambridge Memorial Hosp',43.37935,-80.329054
 1600,'1600','Delta Sta',43.37289,-80.318037
 1601,'1601','Dundas / Hopeton',43.370454,-80.313935
 1602,'1602','Dundas / Cambridge St.',43.367389,-80.30886
@@ -1080,7 +1080,7 @@
 2245,'2245','Grand / South Sq',43.358501,-80.317624
 2246,'2246','St Andrews / George',43.356541,-80.318213
 2249,'2249','Cedar / Westgate Ctr',43.351556,-80.329362
-2250,'2250','Southwood / Southwood Secondary School',43.349759,-80.336217
+2250,'2250','Southwood / Cedar',43.349759,-80.336217
 2254,'2254','Grand Rdg / Mark',43.341554,-80.335961
 2255,'2255','Grand Rdg / St Andrews',43.340733,-80.334144
 2256,'2256','Grand Rdg / Stirling Macgregor',43.338886,-80.332413
@@ -1731,7 +1731,7 @@
 3103,'3103','Stirling / Lorne',43.435332,-80.493789
 3105,'3105','Highland / Spadina',43.438669,-80.492822
 3110,'3110','Victoria / Joseph',43.450558,-80.500278
-3111,'3111','Victoria / Bramm',43.449512,-80.501432
+3111,'3111','Victoria / Bramm',43.449144,-80.501832
 3112,'3112','Victoria / Henry',43.4478,-80.503312
 3113,'3113','Victoria / Patricia',43.44433,-80.508729
 3114,'3114','Victoria / Belmont',43.443013,-80.512298
@@ -2308,7 +2308,7 @@
 3937,'3937','Cherry Blossom / Barnes',43.415805,-80.384201
 3939,'3939','Maple Grv / Cherry Blossom',43.416532,-80.387183
 3940,'3940','Cherry Blossom / Saltsman',43.414008,-80.379971
-3941,'3941','Fountain / Comdev Soccer Field',43.408685,-80.373207
+3941,'3941','Fountain / Comdev Soccer Dome',43.408685,-80.373207
 3942,'3942','Fountain / Marmel',43.403834,-80.370293
 3943,'3943','University Ave. / Phillip',43.472149,-80.535716
 3945,'3945','University Ave. / Sunview',43.47339,-80.532245
