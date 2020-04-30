@@ -89,8 +89,6 @@
 7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
 7700,0,'The Boardwalk Sta',77
-11001,0,'Conestoga College',110
-11000,0,'Fairway Sta',110
 20101,0,'Conestoga College',201
 20100,0,'Conestoga Sta',201
 20200,0,'Conestoga Sta',202
@@ -107,5 +105,3 @@
 30200,0,'Fairway Sta',302
 90101000,0,'Freeport',901
 90102000,0,'Trinity',901
-980101,0,'Ainslie Terminal',9801
-985101,0,'GCI',9851
