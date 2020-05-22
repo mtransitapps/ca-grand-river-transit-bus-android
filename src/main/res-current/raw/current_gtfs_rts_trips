@@ -10,8 +10,8 @@
 501,0,'The Boardwalk Sta',5
 600,0,'Conestoga Sta',6
 601,0,'Fairway Sta',6
+700,0,'Conestoga Sta',7
 701,0,'Fairway Sta',7
-700,0,'UW / Conestoga Sta',7
 801,0,'Fairway Sta',8
 800,0,'University / King',8
 900,0,'Conestoga Sta',9
@@ -81,12 +81,8 @@
 6700,0,'Sportsworld Sta',67
 7200,0,'Loblaws Distribution Ctr',72
 7201,0,'Sportsworld Sta',72
-7301,0,'Conservation / Rideau River',73
-7300,0,'Northfield Sta',73
 7502000,0,'Cambridge Ctr',75
 7501000,0,'Saginaw',75
-7601,0,'Conestoga College',76
-7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
 7700,0,'The Boardwalk Sta',77
 20101,0,'Conestoga College',201
@@ -103,5 +99,3 @@
 20601,0,'Southwood / Cedar',206
 30201,0,'Ainslie Terminal',302
 30200,0,'Fairway Sta',302
-90101000,0,'Freeport',901
-90102000,0,'Trinity',901
