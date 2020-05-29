@@ -1085,10 +1085,12 @@
 2306,'2306','Rittenhouse / Path To Rittenhouse Pk',43.408002,-80.491372
 2307,'2307','Rittenhouse / Erinbrook',43.40785,-80.496183
 2308,'2308','Conestoga College Blvd. / Homer Watson',43.38747,-80.411959
+2310,'2310','Cherry Blossom / Barnes',43.415728,-80.384565
 2312,'2312','Cherry Blossom / Fountain',43.412631,-80.37513
 2313,'2313','Bishop / Mary',43.392515,-80.339491
 2316,'2316','Loblaws Distribution Ctr',43.429058,-80.379026
 2317,'2317','Maple Grv / Fountain (West Side)',43.423989,-80.381074
+2318,'2318','Maple Grv / Cherry Blossom',43.416556,-80.387604
 2319,'2319','Weber / Queen',43.451861,-80.487051
 2320,'2320','Queen / Kitchener Central Library',43.453209,-80.486397
 2327,'2327','Bishop / Mary',43.392407,-80.339159
@@ -1230,8 +1232,6 @@
 2480,'2480','Morrison / Grand River Hosp - Freeport Campus',43.426065,-80.413528
 2481,'2481','River / King',43.425651,-80.419258
 2482,'2482','Dundas / Chalmers',43.362947,-80.301336
-2483,'2483','Dundas / Elgin',43.360871,-80.297875
-2484,'2484','Dundas / Monroe',43.359158,-80.295071
 2485,'2485','Dundas / Main',43.357128,-80.291809
 2486,'2486','Dundas / Franklin',43.355095,-80.288415
 2487,'2487','Grn Gt / Ferncliffe',43.356637,-80.282256
@@ -1259,7 +1259,6 @@
 2514,'2514','Columbia / Lester',43.477964,-80.53744
 2515,'2515','Ring Rd. / U.W. - South Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd. / U.W. - Environment 3',43.467787,-80.543587
-2518,'2518','Ring Rd. / U.W. - University Club',43.47273,-80.547989
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
@@ -1563,9 +1562,6 @@
 2972,'2972','Fischer-Hallman / Forest Hts C. I.',43.425789,-80.521245
 2975,'2975','Fitzgerald / Chester',43.352617,-80.282734
 2976,'2976','Dundas / Franklin',43.354563,-80.286956
-2977,'2977','Dundas / Main',43.357238,-80.291567
-2978,'2978','Dundas / Monroe',43.359382,-80.295194
-2979,'2979','Dundas / Elgin',43.361154,-80.298069
 2980,'2980','Dundas / Maple Bush',43.353479,-80.285296
 2981,'2981','Fischer-Hallman / Queens',43.428211,-80.523413
 2982,'2982','Fischer-Hallman / Forest Hts C. I.',43.42616,-80.521786
@@ -2173,6 +2169,7 @@
 3932,'3932','Jamieson / Patton',43.421787,-80.288574
 3935,'3935','Cherry Blossom / Fountain',43.412811,-80.375104
 3936,'3936','Cherry Blossom / Saltsman',43.414206,-80.379932
+3937,'3937','Cherry Blossom / Barnes',43.415805,-80.384201
 3939,'3939','Maple Grv / Cherry Blossom',43.416532,-80.387183
 3940,'3940','Cherry Blossom / Saltsman',43.414008,-80.379971
 3943,'3943','University Ave. / Phillip',43.472149,-80.535716
@@ -2319,7 +2316,6 @@
 5004,'5004','Weber / Borden (Temporary Stop)',43.445961,-80.471598
 5005,'5005','Weber / Borden (Temporary Stop)',43.445746,-80.471582
 5006,'5006','Duke / Waterloo St.',43.398132,-80.359989
-5007,'5007','Maple Grv / Cherry Blossom (Temporary Stop)',43.417164,-80.387212
 5008,'5008','Queenston / Waterloo St.',43.396367,-80.362149
 5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
 5010,'5010','Duke / Dolph (Temporary Stop)',43.394055,-80.351974
@@ -2343,6 +2339,8 @@
 5041,'5041','Broadview / Prospect',43.436421,-80.448561
 5042,'5042','Franklin / Ross (Temporary Stop)',43.442383,-80.447276
 5049,'5049','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
+5050,'5050','Dundas / Elgin (Temporary Stop)',43.361767,-80.299356
+5051,'5051','Elgin / Dundas (Temporary Stop)',43.360236,-80.297851
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
