@@ -149,6 +149,7 @@
 1165,'1165','King / University Ave. (North Side)',43.476319,-80.525075
 1166,'1166','University Ave. / King',43.476025,-80.525782
 1167,'1167','Hazel / Wilfrid Laurier University',43.475513,-80.528259
+1168,'1168','Hazel / Hickory',43.47788,-80.530034
 1169,'1169','90 Vondrau Dr.',43.431713,-80.375538
 1170,'1170','Conestoga / Lena',43.39244,-80.315306
 1171,'1171','Hazel / Columbia',43.479569,-80.531344
@@ -156,9 +157,6 @@
 1173,'1173','Hazel / Smallwood',43.483094,-80.534309
 1174,'1174','Hazel / Blythwood',43.485671,-80.537294
 1175,'1175','Hazel / Albert',43.485734,-80.539433
-1176,'1176','Albert / Greenbrier',43.488146,-80.541394
-1177,'1177','Albert / Longwood',43.490541,-80.539174
-1178,'1178','Weber / Albert',43.492038,-80.537641
 1180,'1180','Ira Needles / Highland',43.423466,-80.552844
 1181,'1181','Cedarbrae / Mt Anne',43.490028,-80.546104
 1182,'1182','Cedarbrae / Sprucehill',43.489819,-80.547738
@@ -199,8 +197,6 @@
 1219,'1219','Northland / Rupert',43.506595,-80.534454
 1220,'1220','Northland / Bathurst',43.50587,-80.535618
 1232,'1232','Bismark / Westmount Mews',43.370765,-80.328325
-1233,'1233','Blair / Bismark',43.371378,-80.332516
-1234,'1234','Blair / Clearview',43.372277,-80.333511
 1235,'1235','Queen / Rooshill',43.424266,-80.323211
 1236,'1236','Queen / Harvey',43.429874,-80.313783
 1237,'1237','Queen / Hungerford',43.433437,-80.307355
@@ -440,7 +436,6 @@
 1490,'1490','Franklin / Bishop',43.399158,-80.30477
 1491,'1491','Franklin / Elgin',43.391193,-80.302193
 1492,'1492','Franklin / Glamis',43.385586,-80.301196
-1493,'1493','Franklin / Path To The Greenway',43.383275,-80.300259
 1496,'1496','Clyde / Franklin',43.371608,-80.293274
 1497,'1497','Clyde / Bluerock',43.372534,-80.290212
 1498,'1498','Clyde / Grand River Conservation Authority',43.373136,-80.287082
@@ -480,9 +475,6 @@
 1535,'1535','Dobbie / Clyde',43.373206,-80.285341
 1536,'1536','Clyde / Grand River Conservation Authority',43.37341,-80.286387
 1537,'1537','Clyde / Bluerock',43.372564,-80.290681
-1538,'1538','Franklin / Clyde',43.371672,-80.295449
-1540,'1540','Franklin / Ave',43.379161,-80.29839
-1541,'1541','Franklin / Robson',43.385241,-80.300805
 1542,'1542','Franklin / Saginaw',43.392355,-80.302303
 1543,'1543','Franklin / Lindsay',43.396334,-80.303653
 1544,'1544','Franklin / Bishop',43.398923,-80.304463
@@ -743,8 +735,8 @@
 1891,'1891','King / College',43.451504,-80.493728
 1892,'1892','King / Francis',43.452289,-80.496119
 1893,'1893','Central Sta',43.452855,-80.497931
-1894,'1894','Duke / Francis',43.453296,-80.495375
-1895,'1895','Duke / Francis',43.453598,-80.495363
+1894,'1894','Duke / Francis',43.453598,-80.495363
+1895,'1895','Duke / Francis',43.453296,-80.495375
 1896,'1896','King / Wellington',43.454544,-80.503257
 1897,'1897','King / Agnes',43.455072,-80.504801
 1898,'1898','King / Kitchener Collegiate Institute',43.455989,-80.507723
@@ -1106,7 +1098,6 @@
 2337,'2337','Victoria / Path To Rothsay',43.469532,-80.447389
 2338,'2338','Highland / Path To Charles Best',43.435017,-80.490182
 2339,'2339','Lackner / Victoria',43.470941,-80.440885
-2340,'2340','Blair / Bismark',43.371182,-80.332498
 2341,'2341','Blair / Clearview',43.372528,-80.333984
 2342,'2342','Blair / Leslie',43.37392,-80.336882
 2343,'2343','Blair / Princess',43.374933,-80.340409
@@ -2055,7 +2046,6 @@
 3802,'3802','Conestoga College Blvd. / Pinnacle',43.385484,-80.412867
 3803,'3803','Conestoga College Blvd. / Conestoga Residence',43.384395,-80.411236
 3804,'3804','Conestoga College Blvd. / Conestoga Residence',43.384241,-80.410978
-3805,'3805','Blair / Esther',43.373864,-80.336239
 3806,'3806','Bishop / Hespeler Rd.',43.395099,-80.324427
 3807,'3807','Farmers Mkt Rd. / King',43.510661,-80.549376
 3808,'3808','King / Printery',43.528045,-80.555335
@@ -2323,7 +2313,6 @@
 5013,'5013','Sunrise Ctr Sta',43.414641,-80.517152
 5015,'5015','Seabrook / Valencia (Temporary Stop)',43.387483,-80.488232
 5016,'5016','Seabrook / Corsica (Temporary Stop)',43.387299,-80.488607
-5017,'5017','Franklin / Ave (Temporary Stop)',43.38107,-80.29944
 5018,'5018','Highland / Stirling (Temporary Stop)',43.436422,-80.49133
 5022,'5022','Benton / St George',43.44658,-80.49032
 5025,'5025','Columbia / Laurel Trl (U.W. Sta)',43.475694,-80.543283
@@ -2341,6 +2330,7 @@
 5049,'5049','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
 5050,'5050','Dundas / Elgin (Temporary Stop)',43.361767,-80.299356
 5051,'5051','Elgin / Dundas (Temporary Stop)',43.360236,-80.297851
+5052,'5052','651 Albert St. (Temporary Stop)',43.490955,-80.538585
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
