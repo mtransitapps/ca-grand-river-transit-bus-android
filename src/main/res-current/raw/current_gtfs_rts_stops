@@ -197,6 +197,8 @@
 1219,'1219','Northland / Rupert',43.506595,-80.534454
 1220,'1220','Northland / Bathurst',43.50587,-80.535618
 1232,'1232','Bismark / Westmount Mews',43.370765,-80.328325
+1233,'1233','Blair / Bismark',43.371378,-80.332516
+1234,'1234','Blair / Clearview',43.372277,-80.333511
 1235,'1235','Queen / Rooshill',43.424266,-80.323211
 1236,'1236','Queen / Harvey',43.429874,-80.313783
 1237,'1237','Queen / Hungerford',43.433437,-80.307355
@@ -414,6 +416,12 @@
 1462,'1462','Hespeler Rd. / Jaffray',43.377238,-80.319018
 1463,'1463','Block Line Sta',43.423325,-80.463465
 1464,'1464','Water / Galt Collegiate Institute',43.369809,-80.317472
+1465,'1465','Ainslie / Simcoe',43.364802,-80.314381
+1466,'1466','Ainslie / Pk Hl',43.362703,-80.314158
+1467,'1467','Ainslie / Dickson',43.359981,-80.313683
+1468,'1468','Ainslie / Dickson',43.360322,-80.313494
+1469,'1469','Ainslie / Colborne',43.361889,-80.313525
+1470,'1470','Ainslie / Pk Hl',43.363684,-80.314085
 1471,'1471','Ainslie / Simcoe',43.36556,-80.31457
 1472,'1472','Water / Galt Collegiate Institute',43.368698,-80.316892
 1473,'1473','Water / Dayton',43.370638,-80.317549
@@ -822,9 +830,6 @@
 1980,'1980','Erbsville / Brandenburg',43.451329,-80.572188
 1981,'1981','Erbsville / Chablis',43.450035,-80.572765
 1982,'1982','Queen / Woodside',43.441701,-80.497316
-1983,'1983','Erb / Erbsville Ct.',43.448019,-80.566044
-1984,'1984','Erb / Gateview',43.450834,-80.557832
-1985,'1985','Gateview / Westvale',43.450049,-80.557613
 1986,'1986','Westvale / Heather Hl',43.448493,-80.558367
 1987,'1987','Victoria / Edna',43.460814,-80.474929
 1988,'1988','Westvale / Edenvalley',43.445863,-80.560152
@@ -1098,6 +1103,7 @@
 2337,'2337','Victoria / Path To Rothsay',43.469532,-80.447389
 2338,'2338','Highland / Path To Charles Best',43.435017,-80.490182
 2339,'2339','Lackner / Victoria',43.470941,-80.440885
+2340,'2340','Blair / Bismark',43.371182,-80.332498
 2341,'2341','Blair / Clearview',43.372528,-80.333984
 2342,'2342','Blair / Leslie',43.37392,-80.336882
 2343,'2343','Blair / Princess',43.374933,-80.340409
@@ -1324,6 +1330,10 @@
 2621,'2621','King / Fairway',43.428907,-80.433217
 2622,'2622','King / Morgan',43.429511,-80.435175
 2623,'2623','Weber / Hwy 8',43.430611,-80.437216
+2624,'2624','Franklin / Prospect',43.43607,-80.446878
+2625,'2625','Franklin / Shuh',43.437874,-80.445798
+2626,'2626','Franklin / Trafalgar',43.440146,-80.446383
+2627,'2627','Franklin / Kenneth',43.441229,-80.446855
 2628,'2628','Franklin / Dalewood',43.443232,-80.447714
 2629,'2629','Franklin / Bradley',43.444658,-80.448344
 2630,'2630','Franklin / Dreger',43.446482,-80.449477
@@ -1483,6 +1493,9 @@
 2855,'2855','Franklin / Bradley',43.444587,-80.448481
 2856,'2856','Franklin / Dalewood',43.443359,-80.447948
 2857,'2857','Franklin / Kenneth',43.441753,-80.447246
+2858,'2858','Franklin / Trafalgar',43.43975,-80.446375
+2859,'2859','Franklin / Shuh',43.437866,-80.445959
+2860,'2860','Franklin / Prospect',43.435891,-80.447077
 2861,'2861','Weber / Kinzie',43.431916,-80.438921
 2862,'2862','King / Kingsbury',43.429258,-80.434881
 2863,'2863','Strasburg / Strasburg Transit Garage',43.425349,-80.490289
@@ -1978,7 +1991,6 @@
 3682,'3682','Hazel / Wilfrid Laurier University',43.475344,-80.528333
 3683,'3683','University Ave. / University Of Waterloo',43.468939,-80.53914
 3685,'3685','Erbsville / Westside Marketplace',43.4479,-80.572632
-3687,'3687','Erb / Erbsville Ct.',43.448332,-80.565666
 3689,'3689','Erbsville / Westside Marketplace',43.447999,-80.572483
 3690,'3690','Erbsville / Royal Beech',43.451364,-80.571865
 3691,'3691','Erbsville / Path To Erbsville Ct.',43.453282,-80.571927
@@ -2046,6 +2058,7 @@
 3802,'3802','Conestoga College Blvd. / Pinnacle',43.385484,-80.412867
 3803,'3803','Conestoga College Blvd. / Conestoga Residence',43.384395,-80.411236
 3804,'3804','Conestoga College Blvd. / Conestoga Residence',43.384241,-80.410978
+3805,'3805','Blair / Esther',43.373864,-80.336239
 3806,'3806','Bishop / Hespeler Rd.',43.395099,-80.324427
 3807,'3807','Farmers Mkt Rd. / King',43.510661,-80.549376
 3808,'3808','King / Printery',43.528045,-80.555335
@@ -2248,7 +2261,6 @@
 4053,'4053','Westmount / Erb',43.459679,-80.537098
 4054,'4054','University Ave. / Bridge',43.489225,-80.494564
 4055,'4055','University Ave. / Bridge',43.489495,-80.493411
-4056,'4056','Erb / Fischer-Hallman',43.452344,-80.554144
 4057,'4057','Lincoln / Weber',43.471269,-80.513586
 4058,'4058','Lincoln / Weber',43.471264,-80.513238
 4059,'4059','Lincoln / Ellis',43.474433,-80.509799
@@ -2263,7 +2275,6 @@
 4068,'4068','Westvale / Thorndale',43.444077,-80.559561
 4069,'4069','Westvale / Edenvalley',43.446066,-80.560092
 4070,'4070','Westvale / Heather Hl',43.448411,-80.55822
-4071,'4071','Erb / Beechwood',43.45159,-80.55631
 4072,'4072','Columbia / King',43.481692,-80.527075
 4073,'4073','King / Columbia',43.482448,-80.526106
 4074,'4074','Hagey / University Of Waterloo',43.475116,-80.546437
@@ -2324,13 +2335,14 @@
 5033,'5033','Duke / Westminster',43.396696,-80.357361
 5035,'5035','Queenston / Union',43.391268,-80.352172
 5037,'5037','Sunrise Ctr Sta',43.414439,-80.517504
-5040,'5040','Broadview / Weber',43.435255,-80.449414
-5041,'5041','Broadview / Prospect',43.436421,-80.448561
-5042,'5042','Franklin / Ross (Temporary Stop)',43.442383,-80.447276
 5049,'5049','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
 5050,'5050','Dundas / Elgin (Temporary Stop)',43.361767,-80.299356
 5051,'5051','Elgin / Dundas (Temporary Stop)',43.360236,-80.297851
 5052,'5052','651 Albert St. (Temporary Stop)',43.490955,-80.538585
+5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
+5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
+5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
+5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
