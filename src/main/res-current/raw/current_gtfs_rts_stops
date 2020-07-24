@@ -1362,7 +1362,9 @@
 2644,'2644','Glenmorris / 1st',43.346396,-80.321659
 2647,'2647','55 Pinebush Rd.',43.408521,-80.324368
 2648,'2648','30 Pinebush Rd.',43.408808,-80.324299
+2649,'2649','Weber / Fairview',43.446823,-80.475909
 2650,'2650','Eagle / Concession',43.404763,-80.34694
+2651,'2651','Weber / Cameron',43.447951,-80.478433
 2654,'2654','Margaret / Ctr In The Sq',43.454683,-80.485741
 2656,'2656','Margaret / Victoria',43.456787,-80.48922
 2657,'2657','Margaret / Wellington',43.458991,-80.4906
@@ -1461,8 +1463,6 @@
 2791,'2791','Eagle / Providence',43.405675,-80.341443
 2792,'2792','Eagle / Industrial',43.407018,-80.333546
 2793,'2793','Lincoln / Mayfield',43.479191,-80.507766
-2794,'2794','Lincoln / Bluevale',43.48201,-80.505814
-2795,'2795','Lincoln / University Ave.',43.483323,-80.507621
 2800,'2800','Lee / Dunvegan',43.493511,-80.504434
 2801,'2801','Lee / Dansbury',43.494485,-80.504686
 2803,'2803','Lexington / Dunvegan',43.494563,-80.510362
@@ -1485,8 +1485,6 @@
 2822,'2822','Westheights / Autumn Hl',43.420425,-80.529522
 2824,'2824','Westheights / Path To Trailview Pk',43.424542,-80.530073
 2825,'2825','Greenbrook / Stonybrook',43.425204,-80.512
-2826,'2826','Lincoln / Bluevale',43.48259,-80.506762
-2827,'2827','Lincoln / Mayfield',43.479748,-80.507527
 2828,'2828','Greenbrook / Graystone',43.427957,-80.507822
 2829,'2829','Highland / Ruby',43.440145,-80.495959
 2830,'2830','Highland / Ruby',43.440287,-80.496021
@@ -1500,6 +1498,7 @@
 2840,'2840','Margaret / Victoria',43.455957,-80.488833
 2841,'2841','Margaret / Ctr In The Sq',43.454539,-80.485669
 2842,'2842','Weber / Frederick',43.45139,-80.486338
+2845,'2845','Weber / Fairview',43.44696,-80.476526
 2850,'2850','Ottawa / Hwy 7',43.445441,-80.463414
 2851,'2851','Ottawa / Nottingham',43.447695,-80.458228
 2853,'2853','Franklin / Ottawa',43.448208,-80.450697
@@ -2330,6 +2329,8 @@
 4109,'4109','3227 King St. E.',43.42639,-80.425444
 4110,'4110','King / Grand River Hosp - Freeport Campus',43.423359,-80.411406
 5003,'5003','Duke / Scott (Temporary Stop)',43.449486,-80.484922
+5004,'5004','Weber / Borden (Temporary Stop)',43.445961,-80.471598
+5005,'5005','Weber / Borden (Temporary Stop)',43.445746,-80.471582
 5006,'5006','Duke / Waterloo St.',43.398132,-80.359989
 5008,'5008','Queenston / Waterloo St.',43.396367,-80.362149
 5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
@@ -2356,10 +2357,11 @@
 5057,'5057','Greenbrook / Lakeside (Temporary Stop)',43.428947,-80.499159
 5058,'5058','Lakeside / Greenbrook (Temporary Stop)',43.42906,-80.498988
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
-5061,'5061','Victoria / Hermie (Temporary Stop)',43.458174,-80.483404
+5061,'5061','Victoria / Lancaster (Temporary Stop)',43.458844,-80.481502
 5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
 5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
 5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
+5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
