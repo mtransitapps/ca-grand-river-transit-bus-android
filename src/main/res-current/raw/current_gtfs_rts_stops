@@ -764,6 +764,7 @@
 1920,'1920','Northfield / Wissler',43.505207,-80.525554
 1921,'1921','Victoria / Kitchener Rail Sta',43.454957,-80.493641
 1922,'1922','Pk / Union',43.456616,-80.515865
+1923,'1923','Victoria / Lancaster',43.45859,-80.482151
 1924,'1924','Victoria / Lancaster',43.458805,-80.482176
 1925,'1925','Bridge / Eastbridge',43.503574,-80.509199
 1926,'1926','Eastbridge / Cabot',43.504478,-80.505342
@@ -966,9 +967,6 @@
 2161,'2161','Rich / Lincoln',43.358562,-80.302469
 2162,'2162','Pollock / Lincoln',43.357963,-80.301587
 2163,'2163','Pollock / Chalmers',43.358404,-80.300126
-2164,'2164','Pollock / Elgin',43.358885,-80.297788
-2165,'2165','Elgin / Dundas',43.360841,-80.298123
-2166,'2166','Elgin / Linnwood',43.362014,-80.298603
 2167,'2167','Elgin / Manchester',43.365029,-80.29984
 2168,'2168','Elgin / Marion',43.366555,-80.300439
 2169,'2169','Alison / Elgin',43.368166,-80.300334
@@ -1130,7 +1128,7 @@
 2356,'2356','Weber / Randall',43.500607,-80.552903
 2357,'2357','Weber / Golden Eagle',43.498896,-80.551699
 2358,'2358','Queen / Kitchener Central Library',43.45338,-80.486346
-2360,'2360','Dundas / Gore',43.363172,-80.301452
+2359,'2359','Weber / Scott',43.450436,-80.484344
 2361,'2361','Krug / Samuel',43.450961,-80.477121
 2362,'2362','Krug / Lydia',43.451867,-80.474493
 2363,'2363','Krug / East',43.45265,-80.472287
@@ -1241,7 +1239,6 @@
 2479,'2479','Morrison / Grand River Blvd.',43.428016,-80.414745
 2480,'2480','Morrison / Grand River Hosp - Freeport Campus',43.426065,-80.413528
 2481,'2481','River / King',43.425651,-80.419258
-2482,'2482','Dundas / Chalmers',43.362947,-80.301336
 2485,'2485','Dundas / Main',43.357128,-80.291809
 2486,'2486','Dundas / Franklin',43.355095,-80.288415
 2487,'2487','Grn Gt / Ferncliffe',43.356637,-80.282256
@@ -1359,6 +1356,7 @@
 2649,'2649','Weber / Fairview',43.446823,-80.475909
 2650,'2650','Eagle / Concession',43.404763,-80.34694
 2651,'2651','Weber / Cameron',43.447951,-80.478433
+2653,'2653','Weber / Cedar',43.449288,-80.4814
 2654,'2654','Margaret / Ctr In The Sq',43.454683,-80.485741
 2656,'2656','Margaret / Victoria',43.456787,-80.48922
 2657,'2657','Margaret / Wellington',43.458991,-80.4906
@@ -1492,6 +1490,8 @@
 2840,'2840','Margaret / Victoria',43.455957,-80.488833
 2841,'2841','Margaret / Ctr In The Sq',43.454539,-80.485669
 2842,'2842','Weber / Frederick',43.45139,-80.486338
+2843,'2843','Weber / Cedar',43.449071,-80.48129
+2844,'2844','Weber / Madison',43.448516,-80.480059
 2845,'2845','Weber / Fairview',43.44696,-80.476526
 2850,'2850','Ottawa / Hwy 7',43.445441,-80.463414
 2851,'2851','Ottawa / Nottingham',43.447695,-80.458228
@@ -2320,7 +2320,6 @@
 4108,'4108','Townline / Cambridge Gurdwara',43.400424,-80.274613
 4109,'4109','3227 King St. E.',43.42639,-80.425444
 4110,'4110','King / Grand River Hosp - Freeport Campus',43.423359,-80.411406
-5003,'5003','Duke / Scott (Temporary Stop)',43.449486,-80.484922
 5004,'5004','Weber / Borden (Temporary Stop)',43.445961,-80.471598
 5005,'5005','Weber / Borden (Temporary Stop)',43.445746,-80.471582
 5006,'5006','Duke / Waterloo St. (Temporary Stop)',43.398132,-80.359989
@@ -2339,9 +2338,6 @@
 5032,'5032','Duke / Lowther (Temporary Stop)',43.395267,-80.3546
 5033,'5033','Duke / Westminster (Temporary Stop)',43.396696,-80.357361
 5035,'5035','Queenston / Union (Temporary Stop)',43.391268,-80.352172
-5049,'5049','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
-5050,'5050','Dundas / Elgin (Temporary Stop)',43.361767,-80.299356
-5051,'5051','Elgin / Dundas (Temporary Stop)',43.360236,-80.297851
 5052,'5052','651 Albert St. (Temporary Stop)',43.490955,-80.538585
 5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
 5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
@@ -2350,12 +2346,12 @@
 5057,'5057','Greenbrook / Lakeside (Temporary Stop)',43.428947,-80.499159
 5058,'5058','Lakeside / Greenbrook (Temporary Stop)',43.42906,-80.498988
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
-5061,'5061','Victoria / Lancaster (Temporary Stop)',43.458844,-80.481502
 5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
 5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
 5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
 5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
 5066,'5066','King / Stirling (Temporary Stop)',43.444195,-80.476962
+5068,'5068','Chalmers / Dundas (Temporary Stop)',43.362871,-80.301627
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
