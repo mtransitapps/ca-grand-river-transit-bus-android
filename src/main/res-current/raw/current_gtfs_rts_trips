@@ -35,8 +35,8 @@
 2201,0,'Sunrise Ctr Sta',22
 2301,0,'Fairway Sta',23
 2300,0,'Stanley Pk',23
-2601,0,'Block Line Sta',26
-2600,0,'Trillium / Washburn',26
+2600,0,'Block Line Sta',26
+2601,0,'Trillium / Washburn',26
 2701,0,'Fairway Sta',27
 2700,0,'Quinte / Morrison',27
 2801,0,'Fairway Sta',28
@@ -81,16 +81,22 @@
 6700,0,'Sportsworld Sta',67
 7200,0,'Loblaws Distribution Ctr',72
 7201,0,'Sportsworld Sta',72
+7301,0,'Conservation / Rideau River',73
+7300,0,'Northfield Sta',73
 7502000,0,'Cambridge Ctr',75
 7501000,0,'Saginaw',75
+7601,0,'Conestoga College',76
+7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
 7700,0,'The Boardwalk Sta',77
+11001,0,'Conestoga College',110
+11000,0,'Fairway Sta',110
 20101,0,'Conestoga College',201
 20100,0,'Conestoga Sta',201
 20200,0,'Conestoga Sta',202
 20201,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
-20300,0,'Sportsworld Sta',203
+20300,0,'Conestoga College',203
 20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
@@ -99,3 +105,7 @@
 20601,0,'Southwood / Cedar',206
 30201,0,'Ainslie Terminal',302
 30200,0,'Fairway Sta',302
+90101000,0,'Freeport',901
+90102000,0,'Trinity',901
+980101,0,'Ainslie Terminal',9801
+985101,0,'GCI',9851
