@@ -82,6 +82,7 @@
 1090,'1090','University Ave. / University Of Waterloo',43.469279,-80.538619
 1092,'1092','Union / Weber',43.465173,-80.505466
 1093,'1093','Columbia / Phillip',43.476816,-80.540812
+1094,'1094','Columbia / U.W. - Optometry',43.475516,-80.544382
 1095,'1095','Ira Needles / Victoria',43.429185,-80.553306
 1096,'1096','Columbia / U.W. - Vlg 1',43.473156,-80.55099
 1097,'1097','Columbia / U.W. - Ron Eydt Vlg',43.47157,-80.555391
@@ -197,7 +198,6 @@
 1218,'1218','Rupert / Bathurst',43.508971,-80.536597
 1219,'1219','Northland / Rupert',43.506595,-80.534454
 1220,'1220','Northland / Bathurst',43.50587,-80.535618
-1223,'1223','University Of Waterloo Sta',43.474023,-80.540433
 1232,'1232','Bismark / Westmount Mews',43.370765,-80.328325
 1235,'1235','Queen / Rooshill',43.424266,-80.323211
 1236,'1236','Queen / Harvey',43.429874,-80.313783
@@ -223,7 +223,6 @@
 1257,'1257','Northfield Sta',43.497645,-80.54404
 1258,'1258','Franklin / Thomas',43.424341,-80.310053
 1259,'1259','Franklin / Edward',43.427023,-80.309849
-1260,'1260','University Of Waterloo Sta',43.474034,-80.541205
 1265,'1265','Winston / Cooper',43.422128,-80.292845
 1266,'1266','Winston / Darren',43.421322,-80.297795
 1267,'1267','Winston / Path To Erindale',43.421761,-80.301929
@@ -740,7 +739,6 @@
 1884,'1884','King / Stirling',43.444179,-80.476735
 1885,'1885','King / Pandora',43.445188,-80.478765
 1886,'1886','King / Cameron',43.446079,-80.480636
-1887,'1887','King / Kitchener Mkt',43.447344,-80.483579
 1893,'1893','Central Sta',43.452855,-80.497931
 1894,'1894','Duke / Francis',43.453598,-80.495363
 1895,'1895','Duke / Francis',43.453296,-80.495375
@@ -1243,8 +1241,6 @@
 2454,'2454','Wellington / King',43.454507,-80.502924
 2455,'2455','551 Parkside Dr.',43.494485,-80.544509
 2456,'2456','Weber / Parkside',43.492707,-80.544091
-2457,'2457','King / Water',43.451734,-80.494752
-2458,'2458','King / Gaukel',43.451158,-80.492903
 2462,'2462','Weber / Wellington',43.456966,-80.495042
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771
 2464,'2464','Weber / Guelph',43.461263,-80.499468
@@ -1311,11 +1307,7 @@
 2542,'2542','King / Kitchener-Waterloo Collegiate',43.455954,-80.508272
 2543,'2543','King / Agnes',43.455019,-80.50538
 2544,'2544','King / Wellington',43.454391,-80.503209
-2561,'2561','Frederick Sta (King / Benton)',43.449249,-80.487976
-2562,'2562','King / Queen',43.449864,-80.489391
 2564,'2564','King / Kitchener Mkt',43.447425,-80.483591
-2565,'2565','King / Cameron',43.446089,-80.48092
-2567,'2567','King / Stirling',43.444298,-80.477216
 2568,'2568','King / Borden',43.442842,-80.473916
 2569,'2569','King / Ottawa',43.441942,-80.471885
 2570,'2570','King / Sydney',43.440958,-80.469521
@@ -1483,8 +1475,6 @@
 2791,'2791','Eagle / Providence',43.405675,-80.341443
 2792,'2792','Eagle / Industrial',43.407018,-80.333546
 2793,'2793','Lincoln / Mayfield',43.479191,-80.507766
-2794,'2794','Lincoln / Bluevale',43.48201,-80.505814
-2795,'2795','Lincoln / University Ave.',43.483323,-80.507621
 2800,'2800','Lee / Dunvegan',43.493511,-80.504434
 2801,'2801','Lee / Dansbury',43.494485,-80.504686
 2803,'2803','Lexington / Dunvegan',43.494563,-80.510362
@@ -1507,8 +1497,6 @@
 2822,'2822','Westheights / Autumn Hl',43.420425,-80.529522
 2824,'2824','Westheights / Path To Trailview Pk',43.424542,-80.530073
 2825,'2825','Greenbrook / Stonybrook',43.425204,-80.512
-2826,'2826','Lincoln / Bluevale',43.48259,-80.506762
-2827,'2827','Lincoln / Mayfield',43.479748,-80.507527
 2828,'2828','Greenbrook / Graystone',43.427957,-80.507822
 2829,'2829','Highland / Ruby',43.440145,-80.495959
 2830,'2830','Highland / Ruby',43.440287,-80.496021
@@ -1979,7 +1967,6 @@
 3574,'3574','River / Gibson',43.455042,-80.446977
 3575,'3575','Frederick / Weber',43.451182,-80.486142
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
-3579,'3579','King / Pandora',43.445207,-80.479099
 3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave. / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
@@ -2025,6 +2012,7 @@
 3664,'3664','University Ave. / Countrystone Pk',43.43893,-80.554386
 3665,'3665','University Ave. / Pastern',43.491948,-80.490954
 3667,'3667','Fischer-Hallman / Bleams',43.402251,-80.496634
+3668,'3668','Fischer-Hallman / Rockwood',43.404086,-80.497331
 3671,'3671','University Ave. / Pastern',43.491851,-80.491288
 3672,'3672','Bridge / University Ave.',43.489713,-80.494137
 3673,'3673','Bridge / Crimson',43.492897,-80.497736
@@ -2060,7 +2048,6 @@
 3727,'3727','King / Martin Grv',43.510267,-80.542983
 3728,'3728','King / Bridge',43.51006,-80.543034
 3729,'3729','Sawmill / Arthur',43.543368,-80.547944
-3730,'3730','King / Scott',43.448199,-80.485487
 3731,'3731','Fairway / River',43.43478,-80.428145
 3733,'3733','Huron / Parkvale',43.389173,-80.471626
 3734,'3734','Parkvale / Huron Natural Area',43.389999,-80.474559
@@ -2179,9 +2166,7 @@
 3882,'3882','Davenport / Conestoga Mall',43.49834,-80.524049
 3884,'3884','728 Arthur St. S.',43.561598,-80.558679
 3885,'3885','728 Arthur St. S.',43.56113,-80.558683
-3887,'3887','Phillip / Columbia',43.476409,-80.539399
 3888,'3888','Conestoga College Cambridge Campus',43.385284,-80.398103
-3889,'3889','Phillip / Columbia',43.476497,-80.539751
 3890,'3890','Fischer-Hallman / Columbia',43.467368,-80.565646
 3891,'3891','Fischer-Hallman / Highland',43.431587,-80.525376
 3892,'3892','Fischer-Hallman / Highland',43.431308,-80.52544
@@ -2398,17 +2383,17 @@
 5032,'5032','Duke / Lowther (Temporary Stop)',43.395267,-80.3546
 5033,'5033','Duke / Westminster (Temporary Stop)',43.396696,-80.357361
 5035,'5035','Queenston / Union (Temporary Stop)',43.391268,-80.352172
-5049,'5049','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
 5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
 5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
 5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
 5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
 5057,'5057','Greenbrook / Lakeside (Temporary Stop)',43.428947,-80.499159
 5058,'5058','Lakeside / Greenbrook (Temporary Stop)',43.42906,-80.498988
-5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
 5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
 5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
 5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
+5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
+5066,'5066','King / Stirling (Temporary Stop)',43.444195,-80.476962
 5068,'5068','Chalmers / Dundas (Temporary Stop)',43.362871,-80.301627
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
