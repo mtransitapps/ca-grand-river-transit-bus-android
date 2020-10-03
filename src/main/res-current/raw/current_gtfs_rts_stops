@@ -140,6 +140,7 @@
 1151,'1151','Kingswood / Flint',43.423068,-80.482351
 1152,'1152','Cedarbrae / Sprucehill',43.489613,-80.548061
 1155,'1155','Albert / Weber',43.491552,-80.537559
+1156,'1156','Albert / Longwood',43.490533,-80.539508
 1157,'1157','Albert / Quiet',43.487633,-80.541571
 1158,'1158','Hazel / Albert',43.485723,-80.539087
 1159,'1159','Hazel / Tamarack',43.484962,-80.536647
@@ -444,6 +445,9 @@
 1490,'1490','Franklin / Bishop',43.399158,-80.30477
 1491,'1491','Franklin / Elgin',43.391193,-80.302193
 1492,'1492','Franklin / Glamis',43.385586,-80.301196
+1493,'1493','Franklin / Path To The Greenway',43.383275,-80.300259
+1494,'1494','Franklin / Ave',43.380062,-80.299
+1495,'1495','Franklin / Athlone',43.375251,-80.297093
 1496,'1496','Clyde / Franklin',43.371608,-80.293274
 1497,'1497','Clyde / Bluerock',43.372534,-80.290212
 1498,'1498','Clyde / Grand River Conservation Authority',43.373136,-80.287082
@@ -484,6 +488,10 @@
 1535,'1535','Dobbie / Clyde',43.373206,-80.285341
 1536,'1536','Clyde / Grand River Conservation Authority',43.37341,-80.286387
 1537,'1537','Clyde / Bluerock',43.372564,-80.290681
+1538,'1538','Franklin / Clyde',43.371672,-80.295449
+1539,'1539','Franklin / Hilborn',43.375728,-80.297149
+1540,'1540','Franklin / Ave',43.379161,-80.29839
+1541,'1541','Franklin / Robson',43.385241,-80.300805
 1542,'1542','Franklin / Saginaw',43.392355,-80.302303
 1543,'1543','Franklin / Lindsay',43.396334,-80.303653
 1544,'1544','Franklin / Bishop',43.398923,-80.304463
@@ -538,7 +546,6 @@
 1620,'1620','King / Concession',43.387911,-80.342518
 1621,'1621','King / Brower',43.388776,-80.344225
 1622,'1622','King / Bishop',43.389969,-80.346607
-1624,'1624','King / Dolph',43.393175,-80.352919
 1627,'1627','King / Eagle',43.39886,-80.363884
 1628,'1628','King / Fountain',43.39995,-80.368012
 1630,'1630','Preston Pkwy. / Fountain',43.390986,-80.375501
@@ -739,6 +746,12 @@
 1884,'1884','King / Stirling',43.444179,-80.476735
 1885,'1885','King / Pandora',43.445188,-80.478765
 1886,'1886','King / Cameron',43.446079,-80.480636
+1887,'1887','King / Kitchener Mkt',43.447344,-80.483579
+1888,'1888','Frederick Sta (King / Frederick)',43.449135,-80.48737
+1889,'1889','King / Queen',43.449708,-80.4887
+1890,'1890','King / Ontario',43.450437,-80.49061
+1891,'1891','King / College',43.451504,-80.493728
+1892,'1892','King / Francis',43.452289,-80.496119
 1893,'1893','Central Sta',43.452855,-80.497931
 1894,'1894','Duke / Francis',43.453598,-80.495363
 1895,'1895','Duke / Francis',43.453296,-80.495375
@@ -1241,6 +1254,8 @@
 2454,'2454','Wellington / King',43.454507,-80.502924
 2455,'2455','551 Parkside Dr.',43.494485,-80.544509
 2456,'2456','Weber / Parkside',43.492707,-80.544091
+2457,'2457','King / Water',43.451734,-80.494752
+2458,'2458','King / Gaukel',43.451158,-80.492903
 2462,'2462','Weber / Wellington',43.456966,-80.495042
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771
 2464,'2464','Weber / Guelph',43.461263,-80.499468
@@ -1307,7 +1322,11 @@
 2542,'2542','King / Kitchener-Waterloo Collegiate',43.455954,-80.508272
 2543,'2543','King / Agnes',43.455019,-80.50538
 2544,'2544','King / Wellington',43.454391,-80.503209
+2561,'2561','Frederick Sta (King / Benton)',43.449249,-80.487976
+2562,'2562','King / Queen',43.449864,-80.489391
 2564,'2564','King / Kitchener Mkt',43.447425,-80.483591
+2565,'2565','King / Cameron',43.446089,-80.48092
+2567,'2567','King / Stirling',43.444298,-80.477216
 2568,'2568','King / Borden',43.442842,-80.473916
 2569,'2569','King / Ottawa',43.441942,-80.471885
 2570,'2570','King / Sydney',43.440958,-80.469521
@@ -1967,6 +1986,7 @@
 3574,'3574','River / Gibson',43.455042,-80.446977
 3575,'3575','Frederick / Weber',43.451182,-80.486142
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
+3579,'3579','King / Pandora',43.445207,-80.479099
 3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave. / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
@@ -2011,7 +2031,6 @@
 3663,'3663','University Ave. / Countrystone',43.437509,-80.558402
 3664,'3664','University Ave. / Countrystone Pk',43.43893,-80.554386
 3665,'3665','University Ave. / Pastern',43.491948,-80.490954
-3667,'3667','Fischer-Hallman / Bleams',43.402251,-80.496634
 3668,'3668','Fischer-Hallman / Rockwood',43.404086,-80.497331
 3671,'3671','University Ave. / Pastern',43.491851,-80.491288
 3672,'3672','Bridge / University Ave.',43.489713,-80.494137
@@ -2048,6 +2067,7 @@
 3727,'3727','King / Martin Grv',43.510267,-80.542983
 3728,'3728','King / Bridge',43.51006,-80.543034
 3729,'3729','Sawmill / Arthur',43.543368,-80.547944
+3730,'3730','King / Scott',43.448199,-80.485487
 3731,'3731','Fairway / River',43.43478,-80.428145
 3733,'3733','Huron / Parkvale',43.389173,-80.471626
 3734,'3734','Parkvale / Huron Natural Area',43.389999,-80.474559
@@ -2356,6 +2376,7 @@
 4099,'4099','Bridgeport Rd. / Albert',43.467471,-80.524761
 4100,'4100','Maple Grv / Beaverdale',43.434509,-80.336236
 4101,'4101','Maple Grv / Beaverdale',43.434099,-80.336785
+4103,'4103','Maple Grv / Compass',43.43096,-80.345038
 4104,'4104','Preston Pkwy. / Shantz Hl',43.399339,-80.37547
 4105,'4105','Southwood / St Andrews',43.34446,-80.331306
 4106,'4106','St Andrews / Stanley',43.346403,-80.328768
@@ -2371,7 +2392,6 @@
 5008,'5008','Queenston / Waterloo St. (Temporary Stop)',43.396367,-80.362149
 5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
 5010,'5010','Duke / Dolph (Temporary Stop)',43.394055,-80.351974
-5011,'5011','Frederick Sta (King / Frederick)',43.448909,-80.486863
 5015,'5015','Seabrook / Valencia (Temporary Stop)',43.387483,-80.488232
 5016,'5016','Seabrook / Corsica (Temporary Stop)',43.387299,-80.488607
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
@@ -2389,12 +2409,13 @@
 5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
 5057,'5057','Greenbrook / Lakeside (Temporary Stop)',43.428947,-80.499159
 5058,'5058','Lakeside / Greenbrook (Temporary Stop)',43.42906,-80.498988
+5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
 5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
 5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
 5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
 5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
-5066,'5066','King / Stirling (Temporary Stop)',43.444195,-80.476962
 5068,'5068','Chalmers / Dundas (Temporary Stop)',43.362871,-80.301627
+5069,'5069','Duke / Bishop (Temporary Stop)',43.391184,-80.346452
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
