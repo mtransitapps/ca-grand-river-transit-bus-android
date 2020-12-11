@@ -160,6 +160,9 @@
 1173,'1173','Hazel / Smallwood',43.483094,-80.534309
 1174,'1174','Hazel / Blythwood',43.485671,-80.537294
 1175,'1175','Hazel / Albert',43.485734,-80.539433
+1176,'1176','Albert / Greenbrier',43.488146,-80.541394
+1177,'1177','Albert / Longwood',43.490541,-80.539174
+1178,'1178','Weber / Albert',43.492038,-80.537641
 1180,'1180','Ira Needles / Highland',43.423466,-80.552844
 1181,'1181','Cedarbrae / Mt Anne',43.490028,-80.546104
 1182,'1182','Cedarbrae / Sprucehill',43.489819,-80.547738
@@ -342,6 +345,7 @@
 1383,'1383','Munch / Sekura',43.383192,-80.317803
 1384,'1384','Hespeler Rd. / Munch',43.383323,-80.320222
 1385,'1385','Queen Sta (Charles / Benton)',43.448033,-80.487779
+1386,'1386','Charles / Stirling',43.443929,-80.478414
 1387,'1387','Charles / Stirling',43.443771,-80.478679
 1388,'1388','Borden Sta',43.442372,-80.4747
 1390,'1390','Borden Sta',43.442344,-80.47431
@@ -1258,6 +1262,7 @@
 2456,'2456','Weber / Parkside',43.492707,-80.544091
 2457,'2457','King / Water',43.451734,-80.494752
 2458,'2458','King / Gaukel',43.451158,-80.492903
+2460,'2460','Weber / Parkside',43.492922,-80.544273
 2462,'2462','Weber / Wellington',43.456966,-80.495042
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771
 2464,'2464','Weber / Guelph',43.461263,-80.499468
@@ -1345,6 +1350,7 @@
 2576,'2576','4th / Connaught',43.431361,-80.454606
 2577,'2577','Connaught / 6th',43.430569,-80.452809
 2578,'2578','Connaught / Franklin',43.429875,-80.450628
+2579,'2579','Queen Sta (Charles / Benton)',43.448338,-80.487879
 2580,'2580','Connaught / Woodhaven',43.428522,-80.446378
 2581,'2581','Traynor / Connaught',43.427821,-80.444902
 2582,'2582','Greenfield / Traynor',43.425582,-80.445478
@@ -1549,7 +1555,6 @@
 2844,'2844','Weber / Madison',43.448516,-80.480059
 2845,'2845','Weber / Fairview',43.44696,-80.476526
 2847,'2847','Weber / Borden',43.44553,-80.47094
-2848,'2848','Weber / Onward',43.445129,-80.46988
 2850,'2850','Ottawa / Hwy 7',43.445441,-80.463414
 2851,'2851','Ottawa / Nottingham',43.447695,-80.458228
 2853,'2853','Franklin / Ottawa',43.448208,-80.450697
@@ -1578,6 +1583,7 @@
 2899,'2899','Coronation / Oliver',43.377713,-80.326172
 2900,'2900','Coronation / Goldie',43.375428,-80.322311
 2901,'2901','Ottawa / Howland',43.420969,-80.497577
+2902,'2902','Elmsdale / Ottawa',43.422179,-80.49417
 2903,'2903','Elmsdale / Chandler',43.424036,-80.496675
 2904,'2904','Chandler / Bonfield',43.424641,-80.4952
 2905,'2905','Strasburg / Strasburg Transit Garage',43.425005,-80.49017
@@ -1589,8 +1595,11 @@
 2916,'2916','Stirling / Kaufman Pk',43.442282,-80.482022
 2917,'2917','Charles / Kent',43.443188,-80.477653
 2918,'2918','Charles / Kent',43.443352,-80.477511
+2919,'2919','Charles / Cameron Hts Collegiate Institute',43.445248,-80.481208
+2920,'2920','Kitchener Mkt Sta',43.446425,-80.483624
 2921,'2921','Ottawa / King',43.442129,-80.471169
 2922,'2922','Ottawa / Midland',43.449429,-80.448297
+2923,'2923','River / Stanley Pk Mall',43.449213,-80.443378
 2924,'2924','Kitchener Mkt Sta',43.446282,-80.483798
 2925,'2925','Charles / Cameron Hts Collegiate Institute',43.444439,-80.480077
 2926,'2926','Ottawa / Midland',43.449726,-80.447984
@@ -2050,6 +2059,7 @@
 3663,'3663','University Ave. / Countrystone',43.437509,-80.558402
 3664,'3664','University Ave. / Countrystone Pk',43.43893,-80.554386
 3665,'3665','University Ave. / Pastern',43.491948,-80.490954
+3667,'3667','Fischer-Hallman / Bleams',43.402251,-80.496634
 3668,'3668','Fischer-Hallman / Rockwood',43.404086,-80.497331
 3671,'3671','University Ave. / Pastern',43.491851,-80.491288
 3672,'3672','Bridge / University Ave.',43.489713,-80.494137
@@ -2397,6 +2407,7 @@
 4099,'4099','Bridgeport Rd. / Albert',43.467471,-80.524761
 4100,'4100','Maple Grv / Beaverdale',43.434509,-80.336236
 4101,'4101','Maple Grv / Beaverdale',43.434099,-80.336785
+4102,'4102','Maple Grv / Compass',43.431138,-80.345255
 4103,'4103','Maple Grv / Compass',43.43096,-80.345038
 4104,'4104','Shantz Hl / Preston Pkwy.',43.399242,-80.375072
 4105,'4105','Southwood / St Andrews',43.34446,-80.331306
@@ -2431,6 +2442,11 @@
 5057,'5057','Greenbrook / Lakeside (Temporary Stop)',43.428947,-80.499159
 5058,'5058','Lakeside / Greenbrook (Temporary Stop)',43.42906,-80.498988
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
+5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
+5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
+5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
+5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
+5068,'5068','Chalmers / Dundas (Temporary Stop)',43.362871,-80.301627
 5069,'5069','Duke / Bishop (Temporary Stop)',43.391184,-80.346452
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
