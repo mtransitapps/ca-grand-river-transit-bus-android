@@ -749,7 +749,6 @@
 1874,'1874','Weber / Euler',43.435603,-80.450984
 1875,'1875','Weber / Wilfred',43.436279,-80.453054
 1876,'1876','Weber / Ross',43.437125,-80.454739
-1877,'1877','Montgomery / Weber (Temporary Stop)',43.437745,-80.45874
 1878,'1878','King / Montgomery',43.437502,-80.460247
 1879,'1879','Kitchener City Hall Sta',43.452332,-80.491737
 1880,'1880','King / Rockway Ctr',43.439836,-80.466293
@@ -1392,7 +1391,6 @@
 2606,'2606','Eckert / Dixon',43.434625,-80.45921
 2607,'2607','Blair / Pk Hl',43.362683,-80.321516
 2608,'2608','Pk Hl / George',43.362703,-80.319062
-2609,'2609','Montgomery / Weber (Temporary Stop)',43.438057,-80.458337
 2610,'2610','Weber / Wilfred',43.43639,-80.453621
 2611,'2611','Weber / Dellroy',43.435577,-80.451145
 2612,'2612','Weber / Franklin',43.434307,-80.4474
@@ -2058,6 +2056,7 @@
 3579,'3579','King / Pandora',43.445207,-80.479099
 3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
+3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
 3594,'3594','New Bedford / Starboard',43.51061,-80.504294
 3595,'3595','New Bedford / Eastbridge',43.511072,-80.500925
@@ -2473,8 +2472,6 @@
 4147,'4147','Bishop / Hespeler Rd',43.395341,-80.3233
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
-5004,'5004','Weber / Borden (Temporary Stop)',43.445961,-80.471598
-5005,'5005','Weber / Borden (Temporary Stop)',43.445746,-80.471582
 5006,'5006','Duke / Waterloo St (Temporary Stop)',43.398132,-80.359989
 5008,'5008','Queenston / Waterloo St (Temporary Stop)',43.396367,-80.362149
 5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
@@ -2488,17 +2485,9 @@
 5032,'5032','Duke / Lowther (Temporary Stop)',43.395267,-80.3546
 5033,'5033','Duke / Westminster (Temporary Stop)',43.396696,-80.357361
 5035,'5035','Queenston / Union (Temporary Stop)',43.391268,-80.352172
-5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
-5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
-5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
-5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
-5057,'5057','Greenbrook / Lakeside (Temporary Stop)',43.428947,-80.499159
-5058,'5058','Lakeside / Greenbrook (Temporary Stop)',43.42906,-80.498988
 5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
 5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
 5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
-5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
-5068,'5068','Chalmers / Dundas (Temporary Stop)',43.362871,-80.301627
 5069,'5069','Duke / Bishop (Temporary Stop)',43.391184,-80.346452
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
