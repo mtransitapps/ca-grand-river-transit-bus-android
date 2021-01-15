@@ -83,12 +83,12 @@
 1090,'1090','University Ave / University Of Waterloo',43.469279,-80.538619
 1092,'1092','Union / Weber',43.465173,-80.505466
 1093,'1093','Columbia / Phillip',43.476816,-80.540812
-1094,'1094','Columbia / U.W - Optometry',43.475516,-80.544382
+1094,'1094','Columbia / UW - Optometry',43.475516,-80.544382
 1095,'1095','Ira Needles / Victoria',43.429185,-80.553306
-1096,'1096','Columbia / U.W - Vlg 1',43.473156,-80.55099
-1097,'1097','Columbia / U.W - Ron Eydt Vlg',43.47157,-80.555391
+1096,'1096','Columbia / UW - Vlg 1',43.473156,-80.55099
+1097,'1097','Columbia / UW - Ron Eydt Vlg',43.47157,-80.555391
 1098,'1098','Columbia / Old Post',43.470128,-80.559605
-1099,'1099','Columbia / U.W - Columbia Lk Vlg',43.469592,-80.561084
+1099,'1099','Columbia / UW - Columbia Lk Vlg',43.469592,-80.561084
 1100,'1100','450 Columbia St W',43.466991,-80.568294
 1101,'1101','Ira Needles / Victoria',43.429414,-80.553171
 1102,'1102','Columbia / Gatestone',43.465334,-80.572942
@@ -106,10 +106,10 @@
 1114,'1114','Fischer-Hallman / Gatestone',43.470677,-80.568997
 1115,'1115','Fischer-Hallman / Columbia',43.468554,-80.567133
 1116,'1116','Columbia / Fischer-Hallman',43.467987,-80.564974
-1117,'1117','Columbia / U.W - Columbia Lk Vlg',43.469091,-80.561788
+1117,'1117','Columbia / UW - Columbia Lk Vlg',43.469091,-80.561788
 1118,'1118','Columbia / Old Post',43.469858,-80.559694
-1119,'1119','Columbia / U.W - Ron Eydt Vlg',43.471381,-80.555467
-1120,'1120','Columbia / U.W - Vlg 1',43.473163,-80.550483
+1119,'1119','Columbia / UW - Ron Eydt Vlg',43.471381,-80.555467
+1120,'1120','Columbia / UW - Vlg 1',43.473163,-80.550483
 1121,'1121','Chesapeake / Chesapeake Cres',43.510993,-80.513805
 1123,'1123','University Of Waterloo Sta',43.472642,-80.541207
 1125,'1125','Conestoga Sta',43.498025,-80.528566
@@ -832,7 +832,6 @@
 1959,'1959','King / William',43.461682,-80.521531
 1960,'1960','Willis Way Sta',43.462148,-80.523192
 1961,'1961','Erb / Father David Bauer',43.464131,-80.525999
-1962,'1962','Erb / Wells',43.463213,-80.528132
 1963,'1963','Erb / Avondale',43.462258,-80.530328
 1964,'1964','Erb / Roslin',43.461465,-80.532194
 1965,'1965','Erb / Dietz',43.460171,-80.535153
@@ -859,7 +858,6 @@
 1986,'1986','Westvale / Heather Hl',43.448493,-80.558367
 1987,'1987','Victoria / Edna',43.460814,-80.474929
 1988,'1988','Westvale / Edenvalley',43.445863,-80.560152
-1989,'1989','Victoria / Natchez',43.469229,-80.448953
 1990,'1990','Old Zeller / Zeller',43.45412,-80.411792
 1991,'1991','Old Zeller / Path To Pebblecreek Ct',43.452806,-80.40775
 1992,'1992','Fischer-Hallman / Thorndale',43.448678,-80.550034
@@ -1168,7 +1166,6 @@
 2344,'2344','Natchez / Halifax',43.464507,-80.445308
 2345,'2345','Natchez / Matthew',43.465728,-80.446372
 2346,'2346','Natchez / Rothsay',43.467952,-80.448318
-2347,'2347','Victoria / Natchez',43.468479,-80.451119
 2348,'2348','Victoria / Forfar',43.46736,-80.454492
 2349,'2349','Block Line Sta',43.422746,-80.462426
 2350,'2350','Frederick / Turner',43.464181,-80.459284
@@ -1323,16 +1320,16 @@
 2512,'2512','Columbia / Hazel',43.480075,-80.531527
 2513,'2513','Columbia / Albert',43.478783,-80.535035
 2514,'2514','Columbia / Lester',43.477964,-80.53744
-2515,'2515','Ring Rd / U.W - South Campus Hall',43.468593,-80.54028
-2516,'2516','Ring Rd / U.W - Environment 3',43.467787,-80.543587
-2518,'2518','Ring Rd / U.W - University Club',43.47273,-80.547989
+2515,'2515','Ring Rd / UW - South Campus Hall',43.468593,-80.54028
+2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
+2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
 2524,'2524','Columbia / Hazel',43.480027,-80.53113
 2525,'2525','Columbia / Holly',43.480784,-80.529071
 2526,'2526','Columbia / King',43.481709,-80.526381
-2530,'2530','Ring Rd / U.W - Quantum Nano Ctr',43.470719,-80.54447
+2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / University Of Waterloo',43.474512,-80.547288
 2532,'2532','King / Hickory',43.478347,-80.525517
 2533,'2533','King / University Ave (South Side)',43.475428,-80.524983
@@ -1740,7 +1737,6 @@
 3103,'3103','Stirling / Lorne',43.435332,-80.493789
 3105,'3105','Highland / Spadina',43.438669,-80.492822
 3110,'3110','Victoria / Joseph',43.450558,-80.500278
-3111,'3111','Victoria / Bramm',43.449144,-80.501832
 3112,'3112','Victoria / Henry',43.4478,-80.503312
 3113,'3113','Victoria / Patricia',43.44433,-80.508729
 3114,'3114','Victoria / Belmont',43.443013,-80.512298
@@ -2162,13 +2158,13 @@
 3748,'3748','Lexington / Dearborn Blvd',43.489981,-80.516954
 3749,'3749','Lexington / Bridge',43.498016,-80.505041
 3750,'3750','University Ave / New Bedford',43.510841,-80.4975
-3752,'3752','University Ave / R.I.M Pk',43.517873,-80.502667
+3752,'3752','University Ave / RI.M Pk',43.517873,-80.502667
 3757,'3757','Frobisher / Bridge',43.511915,-80.523274
 3758,'3758','Frobisher / Superior',43.510245,-80.524401
 3759,'3759','Frobisher / Mcmurray',43.507544,-80.526575
 3760,'3760','Frobisher / Superior',43.509912,-80.52449
 3764,'3764','Lexington / Lee',43.497196,-80.506493
-3765,'3765','University Ave / R.I.M Pk',43.517319,-80.502299
+3765,'3765','University Ave / RI.M Pk',43.517319,-80.502299
 3766,'3766','University Ave / New Bedford',43.510688,-80.497752
 3768,'3768','Lexington / Bridge',43.498486,-80.504554
 3769,'3769','Lexington / Dearborn Blvd',43.490208,-80.516945
@@ -2323,7 +2319,6 @@
 3957,'3957','Doon South / Forest Edge',43.383026,-80.426978
 3958,'3958','Doon South / Winding Wood',43.384623,-80.425975
 3959,'3959','Doon South / Windrush',43.387304,-80.423554
-3960,'3960','330 Pinebush Rd',43.413264,-80.298614
 3961,'3961','Doon Vlg / Anvil',43.390701,-80.43866
 3962,'3962','Doon Mills / Apple Rdg',43.387065,-80.43522
 3963,'3963','Doon Mills / Pine Vly',43.386094,-80.431849
@@ -2459,7 +2454,6 @@
 4099,'4099','Bridgeport Rd / Albert',43.467471,-80.524761
 4100,'4100','Maple Grv / Beaverdale',43.434509,-80.336236
 4101,'4101','Maple Grv / Beaverdale',43.434099,-80.336785
-4102,'4102','Maple Grv / Compass (Future Stop)',43.431138,-80.345255
 4103,'4103','Maple Grv / Compass',43.43096,-80.345038
 4104,'4104','Shantz Hl / Preston Pkwy',43.399242,-80.375072
 4105,'4105','Southwood / St Andrews',43.34446,-80.331306
@@ -2477,8 +2471,8 @@
 5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
 5010,'5010','Duke / Dolph (Temporary Stop)',43.394055,-80.351974
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
-5025,'5025','Columbia / Laurel Trl (U.W Sta)',43.475694,-80.543283
-5026,'5026','Columbia / Laurel Trl (U.W Sta)',43.476114,-80.542722
+5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
+5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5029,'5029','Queenston / Westminster (Temporary Stop)',43.394973,-80.359388
 5030,'5030','Queenston / Lowther (Temporary Stop)',43.393414,-80.356403
 5031,'5031','Queenston / Dolph (Temporary Stop)',43.392397,-80.354488
