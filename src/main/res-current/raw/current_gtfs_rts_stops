@@ -2319,6 +2319,7 @@
 3957,'3957','Doon South / Forest Edge',43.383026,-80.426978
 3958,'3958','Doon South / Winding Wood',43.384623,-80.425975
 3959,'3959','Doon South / Windrush',43.387304,-80.423554
+3960,'3960','330 Pinebush Rd',43.413264,-80.298614
 3961,'3961','Doon Vlg / Anvil',43.390701,-80.43866
 3962,'3962','Doon Mills / Apple Rdg',43.387065,-80.43522
 3963,'3963','Doon Mills / Pine Vly',43.386094,-80.431849
@@ -2466,23 +2467,9 @@
 4147,'4147','Bishop / Hespeler Rd',43.395341,-80.3233
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
-5006,'5006','Duke / Waterloo St (Temporary Stop)',43.398132,-80.359989
-5008,'5008','Queenston / Waterloo St (Temporary Stop)',43.396367,-80.362149
-5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
-5010,'5010','Duke / Dolph (Temporary Stop)',43.394055,-80.351974
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
-5029,'5029','Queenston / Westminster (Temporary Stop)',43.394973,-80.359388
-5030,'5030','Queenston / Lowther (Temporary Stop)',43.393414,-80.356403
-5031,'5031','Queenston / Dolph (Temporary Stop)',43.392397,-80.354488
-5032,'5032','Duke / Lowther (Temporary Stop)',43.395267,-80.3546
-5033,'5033','Duke / Westminster (Temporary Stop)',43.396696,-80.357361
-5035,'5035','Queenston / Union (Temporary Stop)',43.391268,-80.352172
-5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
-5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
-5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
-5069,'5069','Duke / Bishop (Temporary Stop)',43.391184,-80.346452
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
