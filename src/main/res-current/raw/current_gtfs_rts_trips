@@ -1,12 +1,12 @@
 100,0,'Fairway Sta',1
 101,0,'The Boardwalk Sta',1
-200,0,'Charles Term',2
+200,0,'Stanley Pk',2
 201,0,'Westheights / Driftwood',2
 300,0,'Frederick Sta',3
 301,0,'Sunrise Ctr Sta',3
 400,0,'Frederick Sta',4
 401,0,'The Boardwalk Sta',4
-500,0,'Bridgeport',5
+500,0,'Daniel / Bloomingdale',5
 501,0,'The Boardwalk Sta',5
 600,0,'Conestoga Sta',6
 601,0,'Fairway Sta',6
@@ -22,10 +22,10 @@
 1200,0,'University / King',12
 1301,0,'The Boardwalk Sta',13
 1300,0,'UW Sta',13
-1401,0,'Bathurst',14
-1601,0,'Forest Gln',16
+1401,0,'Conestoga Sta',14
+1601,0,'Conestoga College',16
 1600,0,'Waterloo Public Sq Sta',16
-1900,0,'Northfield Sta / St Jacobs Mkt',19
+1900,0,'St Jacobs Mkt',19
 1901,0,'UW - Nano',19
 2000,0,'Stanley Pk',20
 2001,0,'The Boardwalk Sta',20
@@ -54,37 +54,29 @@
 5000,0,'Cambridge Ctr Sta',50
 5001,0,'Franklin / Grn Gt',50
 5100,0,'Ainslie Term',51
-5101,0,'Fisher Mills / Melran',51
+5101,0,'Guelph / Fisher Mills / Jamieson / Cooper',51
 5300,0,'Ainslie Term',53
 5301,0,'Cambridge Ctr Sta',53
-5402000,0,'Ainslie Term',54
-5401000,0,'Littles Corners',54
+5400,0,'Ainslie Term',54
 5500,0,'Ainslie Term',55
 5501,0,'Cedar / Grand Rdg',55
-5601000,0,'Cambridge Ctr',56
-5602000,0,'Rose / Argyle',56
+5600,0,'Cambridge Ctr Sta',56
 5700,0,'Ainslie Term',57
 5701,0,'Conestoga College',57
-5804000,0,'Ainslie Term',58
-5803000,0,'Elgin / Avenue',58
-5903000,0,'Ainslie Term',59
-5904000,0,'Christopher / Myers',59
-6002000,0,'Cambridge Ctr',60
-6001000,0,'Saginaw / Burnett',60
+5800,0,'Ainslie Term',58
+5900,0,'Ainslie Term',59
+6000,0,'Cambridge Ctr Sta',60
 6100,0,'Cambridge Ctr Sta',61
 6101,0,'Conestoga College',61
-6302000,0,'Ainslie Term',63
-6301000,0,'Cambridge Ctr',63
-6401000,0,'Cambridge Ctr',64
-6402000,0,'Dover / Rose',64
+6300,0,'Ainslie Term',63
+6400,0,'Cambridge Ctr Sta',64
 6701,0,'Cambridge Ctr Sta',67
 6700,0,'Sportsworld Sta',67
 7200,0,'Loblaws Distribution Ctr',72
 7201,0,'Sportsworld Sta',72
 7301,0,'Conservation / Rideau River',73
 7300,0,'Northfield Sta',73
-7502000,0,'Cambridge Ctr',75
-7501000,0,'Saginaw',75
+7500,0,'Cambridge Ctr Sta',75
 7601,0,'Conestoga College',76
 7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
@@ -103,6 +95,6 @@
 20601,0,'Southwood / Cedar',206
 30201,0,'Ainslie Term',302
 30200,0,'Fairway Sta',302
-90101000,0,'Freeport',901
-90102000,0,'Trinity',901
+90101,0,'Grand River Hosp - Freeport Campus',901
+90100,0,'Trinity Vlg',901
 980101,0,'Ainslie Term',9801
