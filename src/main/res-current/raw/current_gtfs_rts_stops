@@ -32,15 +32,15 @@
 1032,'1032','Lennox Lewis / Activa Sportsplex',43.42291,-80.468877
 1033,'1033','Block Line / Hanover',43.419023,-80.4666
 1034,'1034','The Boardwalk / Medical Ctr',43.440144,-80.565631
-1035,'1035','Maple Grv / Fountain (East Side)',43.424587,-80.378274
-1036,'1036','Maple Grv / Fountain (East Side)',43.424389,-80.378124
+1035,'1035','Maple Grv / Fountain (E Side)',43.424587,-80.378274
+1036,'1036','Maple Grv / Fountain (E Side)',43.424389,-80.378124
 1037,'1037','The Boardwalk / Medical Ctr',43.440242,-80.56548
 1038,'1038','Fairway / Idle Crk',43.441428,-80.418085
 1039,'1039','Fairway / Old Chicopee',43.43677,-80.426298
 1040,'1040','330 The Boardwalk',43.437843,-80.562983
 1041,'1041','Fairway / Morgan',43.430207,-80.431957
-1042,'1042','Fairway / King (East Side)',43.428821,-80.432155
-1043,'1043','Fairway / King (West Side)',43.427546,-80.432883
+1042,'1042','Fairway / King (E Side)',43.428821,-80.432155
+1043,'1043','Fairway / King (W Side)',43.427546,-80.432883
 1044,'1044','Fairway / Wabanaki',43.423306,-80.43623
 1047,'1047','Fairway / Hwy 8',43.424022,-80.434552
 1048,'1048','Fairway / King',43.428883,-80.431858
@@ -80,7 +80,7 @@
 1086,'1086','Frederick / Region Of Waterloo Headquarters',43.452399,-80.484438
 1088,'1088','Frederick Sta (Frederick / King)',43.449417,-80.487668
 1089,'1089','Queen Sta (Benton / Charles)',43.448576,-80.488354
-1090,'1090','University Ave / University Of Waterloo',43.469279,-80.538619
+1090,'1090','University Ave / U Of Waterloo',43.469279,-80.538619
 1092,'1092','Union / Weber',43.465173,-80.505466
 1093,'1093','Columbia / Phillip',43.476816,-80.540812
 1094,'1094','Columbia / UW - Optometry',43.475516,-80.544382
@@ -92,7 +92,7 @@
 1100,'1100','450 Columbia St W',43.466991,-80.568294
 1101,'1101','Ira Needles / Victoria',43.429414,-80.553171
 1102,'1102','Columbia / Gatestone',43.465334,-80.572942
-1103,'1103','Maple Grv / Fountain (West Side)',43.424055,-80.379919
+1103,'1103','Maple Grv / Fountain (W Side)',43.424055,-80.379919
 1104,'1104','Columbia / Cavendish',43.464006,-80.576783
 1105,'1105','Columbia / Erbsville',43.462463,-80.580775
 1106,'1106','Erbsville / Willow Wood',43.465168,-80.584193
@@ -111,7 +111,7 @@
 1119,'1119','Columbia / UW - Ron Eydt Vlg',43.471381,-80.555467
 1120,'1120','Columbia / UW - Vlg 1',43.473163,-80.550483
 1121,'1121','Chesapeake / Chesapeake Cres',43.510993,-80.513805
-1123,'1123','University Of Waterloo Sta',43.472642,-80.541207
+1123,'1123','U Of Waterloo Sta',43.472642,-80.541207
 1125,'1125','Conestoga Sta',43.498025,-80.528566
 1126,'1126','Conestoga Sta',43.498289,-80.529109
 1127,'1127','Conestoga Sta',43.498036,-80.528999
@@ -149,9 +149,9 @@
 1161,'1161','Hazel / Austin',43.481575,-80.533084
 1162,'1162','Hazel / Waterloo Collegiate Institute',43.478946,-80.531039
 1163,'1163','Hazel / Hickory',43.477898,-80.530219
-1165,'1165','King / University Ave (North Side)',43.476319,-80.525075
+1165,'1165','King / University Ave (N Side)',43.476319,-80.525075
 1166,'1166','University Ave / King',43.476025,-80.525782
-1167,'1167','Hazel / Wilfrid Laurier University',43.475513,-80.528259
+1167,'1167','Hazel / Wilfrid Laurier U',43.475513,-80.528259
 1168,'1168','Hazel / Hickory',43.47788,-80.530034
 1169,'1169','90 Vondrau Dr',43.431713,-80.375538
 1170,'1170','Conestoga / Lena',43.39244,-80.315306
@@ -181,16 +181,16 @@
 1195,'1195','Northlake / Skylark',43.494509,-80.556657
 1196,'1196','Northfield / Skylark',43.493525,-80.555935
 1197,'1197','Northfield / Northgate',43.494353,-80.553554
-1198,'1198','Northfield / Weber (West Side)',43.495643,-80.54971
-1199,'1199','Northfield / Weber (East Side)',43.496232,-80.548259
+1198,'1198','Northfield / Weber (W Side)',43.495643,-80.54971
+1199,'1199','Northfield / Weber (E Side)',43.496232,-80.548259
 1200,'1200','Northfield / Parkside',43.496944,-80.546213
 1201,'1201','Northfield / Conestogo',43.500188,-80.536994
 1202,'1202','Northfield / King',43.501393,-80.533612
 1203,'1203','Ira Needles / Highland',43.423491,-80.552556
 1204,'1204','Davenport / Northfield',43.502516,-80.528074
 1205,'1205','Davenport / Old Abbey',43.49994,-80.52562
-1206,'1206','Davenport / Northfield (South Side)',43.503138,-80.528267
-1207,'1207','Davenport / Northfield (North Side)',43.503915,-80.528718
+1206,'1206','Davenport / Northfield (S Side)',43.503138,-80.528267
+1207,'1207','Davenport / Northfield (N Side)',43.503915,-80.528718
 1208,'1208','Frobisher / Davenport',43.505357,-80.529214
 1209,'1209','151 Frobisher Dr',43.506055,-80.527997
 1210,'1210','Frobisher / Mcmurray',43.507085,-80.526702
@@ -285,7 +285,7 @@
 1321,'1321','Bishop / Hespeler Rd',43.39499,-80.325759
 1322,'1322','Ind / Bishop',43.394785,-80.329244
 1323,'1323','1367 Ind Rd',43.396499,-80.329768
-1325,'1325','Pinebush Sta (West Side)',43.407797,-80.328623
+1325,'1325','Pinebush Sta (W Side)',43.407797,-80.328623
 1326,'1326','Pinebush / Conestoga',43.409041,-80.321561
 1327,'1327','Pinebush / High Rdg',43.409912,-80.316911
 1328,'1328','Bishop / Cowansview',43.397357,-80.309169
@@ -385,7 +385,7 @@
 1425,'1425','Langs / Hespeler Rd',43.401151,-80.327605
 1426,'1426','Hespeler Rd / Langs',43.401042,-80.326027
 1427,'1427','480 Hespeler Rd',43.397452,-80.32488
-1428,'1428','Westmount / Ottawa (North Side)',43.420956,-80.501882
+1428,'1428','Westmount / Ottawa (N Side)',43.420956,-80.501882
 1429,'1429','Langs / Ind',43.400418,-80.331589
 1430,'1430','Langs / Trico',43.399634,-80.336093
 1431,'1431','Langs / Walter',43.398847,-80.340263
@@ -413,8 +413,8 @@
 1453,'1453','Dunbar / Briarwood',43.389917,-80.32668
 1454,'1454','Dunbar / Hespeler Rd',43.390343,-80.32407
 1455,'1455','King / Westminster',43.39607,-80.358569
-1456,'1456','Smartcentres Cambridge - North',43.411698,-80.323622
-1457,'1457','Smartcentres Cambridge - South',43.410245,-80.32291
+1456,'1456','Smartcentres Cambridge - N',43.411698,-80.323622
+1457,'1457','Smartcentres Cambridge - S',43.410245,-80.32291
 1458,'1458','Block Line Sta',43.422098,-80.462311
 1459,'1459','588 Hespeler Rd',43.404401,-80.327111
 1460,'1460','160 Hespeler Rd',43.381161,-80.319962
@@ -439,8 +439,8 @@
 1479,'1479','Hespeler Rd / Sheldon',43.401271,-80.325702
 1480,'1480','561 Hespeler Rd',43.402901,-80.326228
 1481,'1481','Ottawa / Courtland',43.437341,-80.476672
-1482,'1482','Smartcentres Cambridge - South',43.410379,-80.322748
-1483,'1483','Smartcentres Cambridge - North',43.411678,-80.324672
+1482,'1482','Smartcentres Cambridge - S',43.410379,-80.322748
+1483,'1483','Smartcentres Cambridge - N',43.411678,-80.324672
 1484,'1484','Franklin / Holiday Inn Dr',43.418386,-80.310761
 1485,'1485','Franklin / Pinebush',43.411113,-80.308486
 1486,'1486','580 Hespeler Rd',43.403211,-80.326735
@@ -462,7 +462,7 @@
 1502,'1502','100 Savage Dr',43.366548,-80.286283
 1503,'1503','Franklin / Hilltop',43.364746,-80.291895
 1504,'1504','Franklin / Mclaren',43.361247,-80.290248
-1505,'1505','Main / South Cambridge Ctr',43.357898,-80.289679
+1505,'1505','Main / S Cambridge Ctr',43.357898,-80.289679
 1506,'1506','Main / Dundas',43.357321,-80.292951
 1507,'1507','Main / Elgin',43.356592,-80.296802
 1508,'1508','Concession / Scrimger',43.355844,-80.301216
@@ -483,7 +483,7 @@
 1525,'1525','Concession / Peck',43.355293,-80.303913
 1526,'1526','Concession / Scrimger',43.35572,-80.301551
 1527,'1527','Main / Alexander',43.357049,-80.293564
-1528,'1528','Main / South Cambridge Ctr',43.357718,-80.289731
+1528,'1528','Main / S Cambridge Ctr',43.357718,-80.289731
 1529,'1529','Franklin / Mclaren',43.361711,-80.290317
 1530,'1530','Franklin / Savage',43.364962,-80.291769
 1531,'1531','55 Savage Dr',43.365935,-80.288944
@@ -740,8 +740,8 @@
 1864,'1864','Strasburg / Bleams',43.40764,-80.475024
 1865,'1865','Strasburg / Old Country',43.411049,-80.476069
 1866,'1866','163 Thaler Ave',43.434146,-80.431117
-1867,'1867','Homer Watson / Doon South',43.389686,-80.42198
-1868,'1868','Homer Watson / Doon South',43.389776,-80.421403
+1867,'1867','Homer Watson / Doon S',43.389686,-80.42198
+1868,'1868','Homer Watson / Doon S',43.389776,-80.421403
 1870,'1870','Weber / Kinzie',43.432476,-80.439312
 1871,'1871','Weber / Fergus',43.43367,-80.442192
 1872,'1872','Weber / Arlington',43.433645,-80.444564
@@ -912,8 +912,8 @@
 2042,'2042','Zeller / Janet',43.452735,-80.420972
 2043,'2043','Zeller / Lackner',43.450013,-80.4236
 2045,'2045','Robert Ferrie / Tilts Trl',43.378928,-80.438858
-2046,'2046','Doon South / Robert Ferrie',43.378071,-80.433192
-2047,'2047','Doon South / Thomas Slee',43.375523,-80.434225
+2046,'2046','Doon S / Robert Ferrie',43.378071,-80.433192
+2047,'2047','Doon S / Thomas Slee',43.375523,-80.434225
 2048,'2048','Thomas Slee / Path To Watermill',43.374923,-80.432216
 2049,'2049','Thomas Slee / Frontier',43.37516,-80.427187
 2050,'2050','Thomas Slee / Robert Ferrie',43.375972,-80.424506
@@ -1022,9 +1022,9 @@
 2173,'2173','Hilltop / Franklin',43.364343,-80.29227
 2174,'2174','Franklin / Grn Gt',43.356877,-80.28626
 2175,'2175','Franklin / Dundas',43.355058,-80.287131
-2176,'2176','Dundas / South Cambridge Ctr',43.355752,-80.289124
+2176,'2176','Dundas / S Cambridge Ctr',43.355752,-80.289124
 2177,'2177','Elgin / Elliott',43.354938,-80.295908
-2178,'2178','Elgin / South',43.353702,-80.295404
+2178,'2178','Elgin / S',43.353702,-80.295404
 2179,'2179','Elgin / Woolley',43.350661,-80.294201
 2180,'2180','Elgin / Champlain',43.348186,-80.293235
 2181,'2181','Champlain / Brierdale',43.347039,-80.296987
@@ -1033,7 +1033,7 @@
 2184,'2184','Christopher / Ballantyne',43.350423,-80.301205
 2185,'2185','Christopher / Elliott',43.353953,-80.30262
 2186,'2186','Main / Water',43.359035,-80.315075
-2187,'2187','North Sq / Grand',43.359222,-80.317838
+2187,'2187','N Sq / Grand',43.359222,-80.317838
 2188,'2188','George / Blair',43.361497,-80.318725
 2189,'2189','George / Hobson',43.363585,-80.318665
 2190,'2190','George / James',43.36657,-80.320853
@@ -1077,10 +1077,10 @@
 2239,'2239','Glenview / Albert',43.347102,-80.310311
 2240,'2240','Albert / Ballantyne',43.348709,-80.311033
 2241,'2241','Ballantyne / Mckay',43.349487,-80.307076
-2242,'2242','Mckay / South',43.350929,-80.307393
+2242,'2242','Mckay / S',43.350929,-80.307393
 2243,'2243','Ctr / Elliott',43.3528,-80.308581
 2244,'2244','Ctr / Concession',43.354054,-80.308949
-2245,'2245','Grand / South Sq',43.358501,-80.317624
+2245,'2245','Grand / S Sq',43.358501,-80.317624
 2246,'2246','Grand / St Andrews',43.356615,-80.317602
 2249,'2249','Cedar / Westgate Ctr',43.351556,-80.329362
 2250,'2250','Southwood / Cedar',43.349759,-80.336217
@@ -1091,8 +1091,8 @@
 2267,'2267','Cedar / Westgate Ctr',43.35156,-80.328411
 2268,'2268','Grand / Queens Sq',43.35859,-80.317499
 2269,'2269','Christopher / Elliott',43.354134,-80.302754
-2270,'2270','Christopher / South',43.352067,-80.301963
-2271,'2271','Ballantyne / East',43.350271,-80.302835
+2270,'2270','Christopher / S',43.352067,-80.301963
+2271,'2271','Ballantyne / E',43.350271,-80.302835
 2272,'2272','Ballantyne / Mcdonald',43.349915,-80.304912
 2273,'2273','Ballantyne / Mckay',43.349585,-80.306927
 2274,'2274','Mckay / Glenview',43.347799,-80.306503
@@ -1120,7 +1120,7 @@
 2296,'2296','Courtland / Walton',43.427774,-80.466789
 2297,'2297','Elgin / Elliott',43.354405,-80.295594
 2298,'2298','Elgin / Main',43.356436,-80.296409
-2299,'2299','South / Chalmers',43.353121,-80.297657
+2299,'2299','S / Chalmers',43.353121,-80.297657
 2300,'2300','Chalmers / Main',43.356028,-80.298931
 2301,'2301','Main / Lowrey',43.356283,-80.300779
 2302,'2302','Main / Cathay',43.356531,-80.303109
@@ -1136,14 +1136,14 @@
 2312,'2312','Cherry Blossom / Fountain',43.412631,-80.37513
 2313,'2313','Bishop / Mary',43.392515,-80.339491
 2316,'2316','Loblaws Distribution Ctr',43.429058,-80.379026
-2317,'2317','Maple Grv / Fountain (West Side)',43.423989,-80.381074
+2317,'2317','Maple Grv / Fountain (W Side)',43.423989,-80.381074
 2318,'2318','Maple Grv / Cherry Blossom',43.416556,-80.387604
 2319,'2319','Weber / Queen',43.451861,-80.487051
 2320,'2320','Queen / Kitchener Central Library',43.453209,-80.486397
 2321,'2321','Glenmorris / 2nd',43.345887,-80.321762
 2322,'2322','Glenmorris / 3rd',43.344757,-80.321706
-2323,'2323','West River / Culham',43.34158,-80.321576
-2324,'2324','Grand Rdg / West River',43.337584,-80.321891
+2323,'2323','W River / Culham',43.34158,-80.321576
+2324,'2324','Grand Rdg / W River',43.337584,-80.321891
 2325,'2325','Grand Rdg / Inverness',43.33675,-80.329689
 2326,'2326','Grand Rdg / Stirling Macgregor',43.338742,-80.332224
 2327,'2327','Bishop / Mary',43.392407,-80.339159
@@ -1181,9 +1181,9 @@
 2360,'2360','Dundas / Gore',43.363172,-80.301452
 2361,'2361','Krug / Samuel',43.450961,-80.477121
 2362,'2362','Krug / Lydia',43.451867,-80.474493
-2363,'2363','Krug / East',43.45265,-80.472287
-2364,'2364','Parkside / Waterloo Corporate Campus - North',43.49803,-80.549768
-2365,'2365','Parkside / Waterloo Corporate Campus - South',43.498028,-80.546744
+2363,'2363','Krug / E',43.45265,-80.472287
+2364,'2364','Parkside / Waterloo Corporate Campus - N',43.49803,-80.549768
+2365,'2365','Parkside / Waterloo Corporate Campus - S',43.498028,-80.546744
 2366,'2366','Krug / Becker',43.454212,-80.46749
 2367,'2367','Highland / Queen',43.440922,-80.497704
 2368,'2368','Highland / Queens',43.440974,-80.498372
@@ -1219,7 +1219,7 @@
 2400,'2400','Krug / Becker',43.454294,-80.467711
 2401,'2401','Highland / Stirling',43.436632,-80.491305
 2402,'2402','Highland / Stirling',43.435979,-80.491015
-2403,'2403','Krug / East',43.452687,-80.472558
+2403,'2403','Krug / E',43.452687,-80.472558
 2404,'2404','Krug / Lydia',43.451932,-80.474752
 2405,'2405','Krug / Samuel',43.451043,-80.477306
 2406,'2406','Highland / Heiman',43.432642,-80.48884
@@ -1320,7 +1320,7 @@
 2512,'2512','Columbia / Hazel',43.480075,-80.531527
 2513,'2513','Columbia / Albert',43.478783,-80.535035
 2514,'2514','Columbia / Lester',43.477964,-80.53744
-2515,'2515','Ring Rd / UW - South Campus Hall',43.468593,-80.54028
+2515,'2515','Ring Rd / UW - S Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
 2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
@@ -1330,9 +1330,9 @@
 2525,'2525','Columbia / Holly',43.480784,-80.529071
 2526,'2526','Columbia / King',43.481709,-80.526381
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
-2531,'2531','Columbia / University Of Waterloo',43.474512,-80.547288
+2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
 2532,'2532','King / Hickory',43.478347,-80.525517
-2533,'2533','King / University Ave (South Side)',43.475428,-80.524983
+2533,'2533','King / University Ave (S Side)',43.475428,-80.524983
 2534,'2534','Weber / Union',43.465385,-80.505732
 2535,'2535','King / Central',43.469804,-80.523742
 2536,'2536','Allen Sta',43.460267,-80.519377
@@ -1346,7 +1346,7 @@
 2544,'2544','King / Wellington',43.454391,-80.503209
 2561,'2561','Frederick Sta (King / Benton)',43.449249,-80.487976
 2562,'2562','King / Queen',43.449864,-80.489391
-2563,'2563','Weber / East',43.444603,-80.468013
+2563,'2563','Weber / E',43.444603,-80.468013
 2564,'2564','King / Kitchener Mkt',43.447425,-80.483591
 2565,'2565','King / Cameron',43.446089,-80.48092
 2566,'2566','Weber / Ottawa',43.444182,-80.46754
@@ -1409,13 +1409,13 @@
 2628,'2628','Franklin / Dalewood',43.443232,-80.447714
 2629,'2629','Franklin / Bradley',43.444658,-80.448344
 2630,'2630','Franklin / Dreger',43.446482,-80.449477
-2632,'2632','George / North Sq',43.359539,-80.31877
+2632,'2632','George / N Sq',43.359539,-80.31877
 2633,'2633','Ottawa / Nottingham',43.447688,-80.458723
 2634,'2634','Ottawa / The Aud',43.444945,-80.465235
 2635,'2635','Ottawa / Weber',43.4443,-80.467082
 2636,'2636','Weber / Borden',43.445601,-80.470704
-2641,'2641','Grand Rdg / West River',43.337522,-80.321563
-2642,'2642','West River / Culham',43.34131,-80.321419
+2641,'2641','Grand Rdg / W River',43.337522,-80.321563
+2642,'2642','W River / Culham',43.34131,-80.321419
 2643,'2643','Glenmorris / 3rd',43.344763,-80.321542
 2644,'2644','Glenmorris / 1st',43.346396,-80.321659
 2647,'2647','55 Pinebush Rd',43.408521,-80.324368
@@ -1444,7 +1444,7 @@
 2673,'2673','University Ave / Hemlock',43.47428,-80.530581
 2674,'2674','University Ave / Sunview',43.473264,-80.533148
 2675,'2675','University Ave / Phillip',43.472251,-80.536069
-2676,'2676','University Ave / University Of Waterloo',43.468418,-80.539416
+2676,'2676','University Ave / U Of Waterloo',43.468418,-80.539416
 2677,'2677','University Ave / Ring Rd',43.466181,-80.540571
 2678,'2678','Westmount / University Ave',43.463858,-80.540625
 2679,'2679','Westmount / Westcourt',43.462177,-80.539031
@@ -1495,7 +1495,7 @@
 2753,'2753','Courtland / Benton',43.445235,-80.491148
 2754,'2754','Queen / Courtland',43.445875,-80.493355
 2755,'2755','Queen / Homewood',43.442468,-80.496757
-2757,'2757','Highland / West',43.441312,-80.502055
+2757,'2757','Highland / W',43.441312,-80.502055
 2758,'2758','Highland / Patricia',43.440704,-80.505273
 2759,'2759','Belmont / Highland',43.440023,-80.507985
 2760,'2760','Belmont / Metzloff',43.441027,-80.509138
@@ -1655,7 +1655,7 @@
 2968,'2968','Franklin / Weber',43.434005,-80.448049
 2969,'2969','Fischer-Hallman / Ottawa',43.41657,-80.51088
 2971,'2971','Fischer-Hallman / Mcgarry',43.42342,-80.518818
-2972,'2972','Fischer-Hallman / Forest Hts C I',43.425789,-80.521245
+2972,'2972','Fischer-Hallman / Forest Hts CI',43.425789,-80.521245
 2975,'2975','Fitzgerald / Chester',43.352617,-80.282734
 2976,'2976','Dundas / Franklin',43.354563,-80.286956
 2977,'2977','Dundas / Main',43.357238,-80.291567
@@ -1663,7 +1663,7 @@
 2979,'2979','Dundas / Elgin',43.361154,-80.298069
 2980,'2980','Dundas / Maple Bush',43.353479,-80.285296
 2981,'2981','Fischer-Hallman / Queens',43.428211,-80.523413
-2982,'2982','Fischer-Hallman / Forest Hts C I',43.42616,-80.521786
+2982,'2982','Fischer-Hallman / Forest Hts CI',43.42616,-80.521786
 2983,'2983','Fischer-Hallman / Mcgarry',43.423557,-80.519299
 2985,'2985','Fischer-Hallman / Ottawa',43.416372,-80.511005
 2986,'2986','Fischer-Hallman / Queens',43.428585,-80.523337
@@ -1737,6 +1737,7 @@
 3103,'3103','Stirling / Lorne',43.435332,-80.493789
 3105,'3105','Highland / Spadina',43.438669,-80.492822
 3110,'3110','Victoria / Joseph',43.450558,-80.500278
+3111,'3111','Victoria / Bramm',43.449144,-80.501832
 3112,'3112','Victoria / Henry',43.4478,-80.503312
 3113,'3113','Victoria / Patricia',43.44433,-80.508729
 3114,'3114','Victoria / Belmont',43.443013,-80.512298
@@ -1780,14 +1781,14 @@
 3179,'3179','Westmount / Queens',43.433612,-80.510273
 3180,'3180','Westmount / Forest Hl',43.430926,-80.509043
 3181,'3181','Westmount / Stonybrook',43.425268,-80.504522
-3182,'3182','Westmount / Ottawa (North Side)',43.420638,-80.502089
-3183,'3183','Westmount / Ottawa (South Side)',43.419304,-80.501742
+3182,'3182','Westmount / Ottawa (N Side)',43.420638,-80.502089
+3183,'3183','Westmount / Ottawa (S Side)',43.419304,-80.501742
 3184,'3184','Westmount / Laurentian',43.416807,-80.501169
 3185,'3185','Westmount / Williamsburg',43.41276,-80.500214
 3189,'3189','Block Line / Westmount',43.411515,-80.498966
 3190,'3190','Westmount / Williamsburg',43.413219,-80.500136
 3191,'3191','Westmount / Laurentian',43.417049,-80.501007
-3192,'3192','Westmount / Ottawa (South Side)',43.419519,-80.501567
+3192,'3192','Westmount / Ottawa (S Side)',43.419519,-80.501567
 3193,'3193','Westmount / Stonybrook',43.425492,-80.504483
 3194,'3194','Westmount / Vlg',43.427472,-80.506122
 3195,'3195','Westmount / Forest Hl',43.431022,-80.508849
@@ -1834,7 +1835,7 @@
 3262,'3262','Churchill / Barrie',43.354797,-80.325094
 3263,'3263','Churchill / Berkley',43.354803,-80.32737
 3264,'3264','University Ave / Path To Countrystone Pl',43.44002,-80.551149
-3265,'3265','University Ave / Resurrection C S S',43.441176,-80.547371
+3265,'3265','University Ave / Resurrection CSS',43.441176,-80.547371
 3266,'3266','Westwood / Glasgow',43.442708,-80.539548
 3268,'3268','Westwood / Gallarno',43.442264,-80.535685
 3269,'3269','Westwood / Fernwood',43.445,-80.531153
@@ -1875,8 +1876,8 @@
 3321,'3321','Randall / Kumpf',43.503721,-80.544737
 3322,'3322','585 Kumpf Dr',43.501278,-80.542892
 3323,'3323','Kumpf / Northfield',43.498643,-80.543124
-3324,'3324','Parkside / Waterloo Corporate Campus - South',43.49838,-80.546773
-3325,'3325','Parkside / Waterloo Corporate Campus - North',43.498286,-80.549451
+3324,'3324','Parkside / Waterloo Corporate Campus - S',43.49838,-80.546773
+3325,'3325','Parkside / Waterloo Corporate Campus - N',43.498286,-80.549451
 3326,'3326','Weber / Golden Eagle',43.499016,-80.551381
 3327,'3327','Weber / Randall',43.501107,-80.552944
 3328,'3328','Swallow / Weber',43.502546,-80.554528
@@ -2008,7 +2009,7 @@
 3519,'3519','Concession / Trico',43.402368,-80.346573
 3520,'3520','Dover / Rose',43.393221,-80.3676
 3521,'3521','Rose / Westminster',43.390785,-80.363477
-3522,'3522','Laurel / North',43.401076,-80.354745
+3522,'3522','Laurel / N',43.401076,-80.354745
 3524,'3524','Fountain / Morningside',43.38572,-80.390864
 3525,'3525','Fountain / Blair',43.38539,-80.391399
 3526,'3526','Laurel / Westminster',43.399759,-80.354348
@@ -2038,7 +2039,7 @@
 3561,'3561','Halifax / Confederation',43.461771,-80.445463
 3562,'3562','Fountain / Linden',43.388369,-80.378455
 3564,'3564','Victoria / Belmont',43.443013,-80.51194
-3565,'3565','Victoria / West',43.446088,-80.505019
+3565,'3565','Victoria / W',43.446088,-80.505019
 3566,'3566','Victoria / Iron Horse Trl',43.445068,-80.506585
 3568,'3568','Fairway / Sims Est',43.439812,-80.420634
 3570,'3570','Fairway / Briarmeadow',43.439831,-80.42093
@@ -2058,15 +2059,15 @@
 3595,'3595','New Bedford / Eastbridge',43.511072,-80.500925
 3598,'3598','New Bedford / Starboard',43.510664,-80.504442
 3599,'3599','New Bedford / Chesapeake',43.510066,-80.505672
-3600,'3600','Pinebush Sta (East Side)',43.408051,-80.327116
+3600,'3600','Pinebush Sta (E Side)',43.408051,-80.327116
 3606,'3606','Weber / Erb',43.468616,-80.511153
 3607,'3607','Bleams / Fallowfield',43.411068,-80.456924
 3608,'3608','Bleams / Fallowfield',43.411009,-80.457802
 3609,'3609','Coronation / Highland',43.382533,-80.334317
 3612,'3612','Langlaw / Schroeder',43.336574,-80.301092
 3618,'3618','Courtland / Stirling',43.441316,-80.484767
-3619,'3619','University Ave / Wilfrid Laurier University',43.475233,-80.527903
-3620,'3620','University Ave / Wilfrid Laurier University',43.475123,-80.527557
+3619,'3619','University Ave / Wilfrid Laurier U',43.475233,-80.527903
+3620,'3620','University Ave / Wilfrid Laurier U',43.475123,-80.527557
 3621,'3621','University Ave / King',43.475766,-80.526365
 3622,'3622','Lexington / Dearborn Pl',43.487015,-80.518239
 3623,'3623','Hazel / Columbia',43.480084,-80.531909
@@ -2077,7 +2078,7 @@
 3631,'3631','University Ave / Westmount',43.464122,-80.54139
 3632,'3632','Huron / Fischer-Hallman',43.382511,-80.48769
 3633,'3633','Ludolph / Huron',43.381689,-80.494067
-3634,'3634','Ludolph / West Oak',43.383384,-80.494673
+3634,'3634','Ludolph / W Oak',43.383384,-80.494673
 3635,'3635','Ludolph / Olivia',43.384737,-80.495109
 3636,'3636','Seabrook / Fischer-Hallman',43.386819,-80.491245
 3637,'3637','Elm Rdg / Queens',43.426977,-80.527685
@@ -2110,8 +2111,8 @@
 3678,'3678','Dunvegan / Bairstow',43.493492,-80.508466
 3679,'3679','Bridge / Dansbury',43.495943,-80.50128
 3680,'3680','Bridge / Crimson',43.492771,-80.497805
-3682,'3682','Hazel / Wilfrid Laurier University',43.475344,-80.528333
-3683,'3683','University Ave / University Of Waterloo',43.468939,-80.53914
+3682,'3682','Hazel / Wilfrid Laurier U',43.475344,-80.528333
+3683,'3683','University Ave / U Of Waterloo',43.468939,-80.53914
 3685,'3685','Erbsville / Westside Marketplace',43.4479,-80.572632
 3687,'3687','Erb / Erbsville Ct',43.448332,-80.565666
 3689,'3689','Erbsville / Westside Marketplace',43.447999,-80.572483
@@ -2123,7 +2124,7 @@
 3695,'3695','Keats Way / Beckwith',43.456713,-80.564869
 3700,'3700','Seabrook / Fischer-Hallman',43.386949,-80.49129
 3701,'3701','Ludolph / Olivia',43.384735,-80.495246
-3702,'3702','Ludolph / West Oak',43.383301,-80.494812
+3702,'3702','Ludolph / W Oak',43.383301,-80.494812
 3703,'3703','Ludolph / Huron',43.381644,-80.494306
 3704,'3704','Huron / Fischer-Hallman',43.382127,-80.489271
 3705,'3705','Huron / Woodbine',43.382943,-80.48413
@@ -2196,7 +2197,7 @@
 3809,'3809','Sawmill / Parkside',43.544793,-80.550855
 3810,'3810','Arthur / Union',43.576841,-80.563039
 3811,'3811','Arthur / Earl Martin',43.580927,-80.562452
-3812,'3812','Arthur / South Field',43.58405,-80.562095
+3812,'3812','Arthur / S Field',43.58405,-80.562095
 3813,'3813','Arthur / Oriole',43.589045,-80.561439
 3814,'3814','Arthur / Brubacher',43.594525,-80.560718
 3815,'3815','Arthur / Pk',43.596693,-80.560095
@@ -2204,13 +2205,13 @@
 3817,'3817','Arthur / Church',43.599333,-80.558143
 3818,'3818','Church / Walker',43.600215,-80.559988
 3819,'3819','Snyder / Church',43.600064,-80.563305
-3820,'3820','Snyder / South',43.596905,-80.563724
+3820,'3820','Snyder / S',43.596905,-80.563724
 3821,'3821','Snyder / Woolwich Memorial Ctr',43.595688,-80.563889
 3822,'3822','Snyder / 2nd',43.593404,-80.564195
 3823,'3823','1st / Snyder',43.592339,-80.563385
 3824,'3824','Arthur / Howard',43.589432,-80.561561
 3825,'3825','Arthur / Whipporwill',43.584474,-80.562265
-3826,'3826','Arthur / South Parkwood',43.580784,-80.562788
+3826,'3826','Arthur / S Parkwood',43.580784,-80.562788
 3827,'3827','Arthur / Listowel',43.577283,-80.563222
 3828,'3828','Sawmill / Parkside',43.544066,-80.54909
 3829,'3829','King / Front',43.540598,-80.553475
@@ -2271,8 +2272,8 @@
 3895,'3895','Fischer-Hallman / Westmount',43.406717,-80.500091
 3896,'3896','Fischer-Hallman / Cotton Grass',43.407489,-80.501542
 3897,'3897','Belmont / Glasgow',43.451984,-80.517195
-3898,'3898','Columbia / University Of Waterloo',43.475009,-80.545981
-3899,'3899','Columbia / University Of Waterloo',43.474462,-80.546591
+3898,'3898','Columbia / U Of Waterloo',43.475009,-80.545981
+3899,'3899','Columbia / U Of Waterloo',43.474462,-80.546591
 3900,'3900','Lexington / Davenport',43.493051,-80.512576
 3901,'3901','330 The Boardwalk',43.437644,-80.562984
 3903,'3903','Ira Needles / Thorndale',43.442434,-80.56565
@@ -2316,16 +2317,16 @@
 3954,'3954','Doon Vlg / Anvil',43.390773,-80.438548
 3955,'3955','Doon Mills / Apple Rdg',43.387201,-80.43542
 3956,'3956','Doon Mills / Pine Vly',43.385947,-80.431444
-3957,'3957','Doon South / Forest Edge',43.383026,-80.426978
-3958,'3958','Doon South / Winding Wood',43.384623,-80.425975
-3959,'3959','Doon South / Windrush',43.387304,-80.423554
+3957,'3957','Doon S / Forest Edge',43.383026,-80.426978
+3958,'3958','Doon S / Winding Wood',43.384623,-80.425975
+3959,'3959','Doon S / Windrush',43.387304,-80.423554
 3960,'3960','330 Pinebush Rd',43.413264,-80.298614
 3961,'3961','Doon Vlg / Anvil',43.390701,-80.43866
 3962,'3962','Doon Mills / Apple Rdg',43.387065,-80.43522
 3963,'3963','Doon Mills / Pine Vly',43.386094,-80.431849
-3964,'3964','Doon South / Forest Edge',43.382675,-80.427092
-3965,'3965','Doon South / Winding Wood',43.384722,-80.425789
-3966,'3966','Doon South / Windrush',43.387212,-80.423296
+3964,'3964','Doon S / Forest Edge',43.382675,-80.427092
+3965,'3965','Doon S / Winding Wood',43.384722,-80.425789
+3966,'3966','Doon S / Windrush',43.387212,-80.423296
 3967,'3967','Pinebush / Conestoga',43.409213,-80.322118
 3968,'3968','Pinebush / Struck',43.410398,-80.315485
 3970,'3970','Pinebush / Wayne',43.411442,-80.309769
@@ -2352,8 +2353,8 @@
 3991,'3991','Thomas Slee / Robert Ferrie',43.375966,-80.424932
 3992,'3992','Thomas Slee / Terrington',43.375245,-80.427291
 3993,'3993','Thomas Slee / Path To Cranbrook',43.375059,-80.431531
-3994,'3994','Doon South / Thomas Slee',43.375284,-80.434151
-3995,'3995','Robert Ferrie / Doon South',43.378433,-80.433378
+3994,'3994','Doon S / Thomas Slee',43.375284,-80.434151
+3995,'3995','Robert Ferrie / Doon S',43.378433,-80.433378
 3996,'3996','Robert Ferrie / Tilts Trl',43.379017,-80.438967
 3997,'3997','Robert Ferrie / Forest Crk',43.378469,-80.441681
 3999,'3999','Doon Mills / Woodsmere',43.383044,-80.428792
@@ -2370,7 +2371,7 @@
 4013,'4013','Columbia / Cavendish',43.463893,-80.576576
 4014,'4014','Laurelwood / Sir John A Macdonald Secondary School',43.47029,-80.594731
 4015,'4015','Waterloo Public Sq Sta',43.463941,-80.522184
-4016,'4016','Bridge / Chesapeake (North)',43.509082,-80.517909
+4016,'4016','Bridge / Chesapeake (N)',43.509082,-80.517909
 4017,'4017','Columbia / Salzburg',43.460368,-80.582848
 4018,'4018','Columbia / Salzburg',43.460465,-80.582531
 4019,'4019','Columbia / St Moritz',43.453259,-80.584023
@@ -2389,9 +2390,9 @@
 4033,'4033','Bridge / University Ave',43.489259,-80.493634
 4034,'4034','Bridge / Dansbury',43.496208,-80.501262
 4035,'4035','Bridge / Eastbridge',43.503951,-80.509782
-4036,'4036','Bridge / Chesapeake (South)',43.505863,-80.511143
-4037,'4037','Bridge / Chesapeake (South)',43.506014,-80.510998
-4038,'4038','Bridge / Chesapeake (North)',43.508988,-80.518125
+4036,'4036','Bridge / Chesapeake (S)',43.505863,-80.511143
+4037,'4037','Bridge / Chesapeake (S)',43.506014,-80.510998
+4038,'4038','Bridge / Chesapeake (N)',43.508988,-80.518125
 4039,'4039','King / Weber (St Jacobs)',43.513992,-80.557162
 4040,'4040','King / Weber (St Jacobs)',43.514195,-80.557017
 4041,'4041','695 Saginaw Pkwy',43.392267,-80.279695
@@ -2427,8 +2428,8 @@
 4071,'4071','Erb / Beechwood',43.45159,-80.55631
 4072,'4072','Columbia / King',43.481692,-80.527075
 4073,'4073','King / Columbia',43.482448,-80.526106
-4074,'4074','Hagey / University Of Waterloo',43.475116,-80.546437
-4075,'4075','Hagey / University Of Waterloo',43.474953,-80.546736
+4074,'4074','Hagey / U Of Waterloo',43.475116,-80.546437
+4075,'4075','Hagey / U Of Waterloo',43.474953,-80.546736
 4076,'4076','Fischer-Hallman / Gatestone',43.470116,-80.568257
 4077,'4077','Fischer-Hallman / Path To Laurel Gt',43.472392,-80.570769
 4078,'4078','Fischer-Hallman / Laurelwood',43.473798,-80.571918
