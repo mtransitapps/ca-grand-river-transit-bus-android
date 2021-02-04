@@ -258,7 +258,7 @@
 1294,'1294','Holiday Inn Dr / Tri-City Ctr',43.417366,-80.3243
 1295,'1295','200 Holiday Inn Dr',43.416395,-80.321408
 1296,'1296','Fisher Mills / Scott',43.435358,-80.319992
-1297,'1297','Holiday Inn Dr / Jacob Hespeler Secondary School',43.417323,-80.315479
+1297,'1297','Holiday Inn Dr / Jacob Hespeler SS',43.417323,-80.315479
 1298,'1298','Holiday Inn Dr / Franklin',43.417983,-80.311422
 1299,'1299','Tannery / Queen',43.431584,-80.309254
 1300,'1300','Guelph / Sheffield',43.434443,-80.311532
@@ -276,7 +276,7 @@
 1312,'1312','Franklin / Thomas',43.424333,-80.310213
 1313,'1313','Victoria Pk Sta',43.450069,-80.492814
 1314,'1314','Highland / Westforest',43.425305,-80.54398
-1315,'1315','Holiday Inn Dr / Jacob Hespeler Secondary School',43.417204,-80.316631
+1315,'1315','Holiday Inn Dr / Jacob Hespeler SS',43.417204,-80.316631
 1316,'1316','200 Holiday Inn Dr',43.416504,-80.321543
 1317,'1317','Holiday Inn Dr / Heritage College',43.41751,-80.324274
 1318,'1318','Conestoga / Lena',43.392677,-80.315289
@@ -314,7 +314,7 @@
 1353,'1353','Bishop / Cowansview',43.397505,-80.309353
 1354,'1354','Grn Vista / Whittaker',43.394513,-80.294536
 1355,'1355','Burnett / Benn',43.384786,-80.29057
-1356,'1356','Saginaw / St Benedict Catholic Secondary School',43.391615,-80.300509
+1356,'1356','Saginaw / St Benedict Catholic SS',43.391615,-80.300509
 1357,'1357','Can-Amera / Franklin',43.393904,-80.303854
 1358,'1358','Dunbar / Conestoga',43.39138,-80.314832
 1359,'1359','Munch / Sekura',43.383199,-80.317507
@@ -367,7 +367,7 @@
 1407,'1407','Homuth / Frederick',43.388475,-80.357735
 1408,'1408','Rose / Lowther',43.3893,-80.360381
 1409,'1409','605 Hespeler Rd',43.404536,-80.326726
-1410,'1410','Rose / Preston High School',43.391403,-80.364471
+1410,'1410','Rose / Preston HS',43.391403,-80.364471
 1411,'1411','Argyle / Vine',43.393052,-80.363107
 1412,'1412','Argyle / Hamilton',43.394628,-80.361572
 1413,'1413','Hamilton / Westminster',43.394134,-80.360244
@@ -689,7 +689,7 @@
 1804,'1804','Strasburg / Mcintyre',43.404175,-80.473436
 1805,'1805','Strasburg / Trillium',43.401749,-80.468579
 1806,'1806','Strasburg / Battler',43.398637,-80.467544
-1807,'1807','Strasburg / Huron Hts Secondary School',43.394623,-80.46795
+1807,'1807','Strasburg / Huron Hts SS',43.394623,-80.46795
 1808,'1808','Strasburg / Huron',43.392592,-80.466782
 1809,'1809','Battler / Old Huron',43.395961,-80.461443
 1810,'1810','Old Huron / Maxwell',43.397206,-80.457937
@@ -714,7 +714,7 @@
 1837,'1837','Old Huron / Maxwell',43.39726,-80.458134
 1838,'1838','Old Huron / Battler',43.395921,-80.460579
 1839,'1839','Huron / Strasburg',43.392641,-80.46572
-1840,'1840','Strasburg / Huron Hts Secondary School',43.394875,-80.467849
+1840,'1840','Strasburg / Huron Hts SS',43.394875,-80.467849
 1841,'1841','Strasburg / Battler',43.398699,-80.467297
 1842,'1842','Strasburg / Trillium',43.400944,-80.46787
 1844,'1844','Strasburg / Mcintyre',43.404554,-80.473618
@@ -892,12 +892,12 @@
 2022,'2022','Bridge / Woolwich',43.482788,-80.484403
 2023,'2023','Bridge / Bridle',43.485412,-80.488414
 2024,'2024','Block Line / Fallowfield',43.418728,-80.466868
-2025,'2025','Block Line / St Marys High School',43.419994,-80.464732
+2025,'2025','Block Line / St Marys HS',43.419994,-80.464732
 2026,'2026','Block Line Sta',43.423602,-80.463395
 2027,'2027','Hayward / Courtland',43.426411,-80.466746
 2028,'2028','Fairway / Pebblecreek',43.4467,-80.409043
 2029,'2029','870 Fairway Rd N',43.444734,-80.4119
-2030,'2030','Fairway / Chicopee Public School',43.444533,-80.412611
+2030,'2030','Fairway / Chicopee Public S',43.444533,-80.412611
 2031,'2031','Fairway / Upper Mercer',43.446676,-80.408596
 2032,'2032','Old Zeller / Fairway',43.44845,-80.404614
 2033,'2033','Old Zeller / Watervale',43.451165,-80.406603
@@ -1108,7 +1108,7 @@
 2284,'2284','Langlaw / Enfield',43.336131,-80.303712
 2285,'2285','Christopher / Wheatland',43.338005,-80.299484
 2286,'2286','Christopher / Myers',43.340514,-80.300529
-2287,'2287','Myers / Monsignor Doyle Catholic Secondary School',43.341497,-80.297704
+2287,'2287','Myers / Monsignor Doyle Catholic SS',43.341497,-80.297704
 2288,'2288','Myers / Greenbrier',43.342227,-80.293501
 2289,'2289','Myers / Cheese Factory',43.342688,-80.290661
 2290,'2290','Cedar / Southgate',43.350826,-80.33365
@@ -1973,7 +1973,7 @@
 3471,'3471','Westheights / Driftwood',43.418479,-80.535375
 3472,'3472','Mcgarry / Meadowbrook',43.420578,-80.525416
 3473,'3473','Ira Needles / Penelope',43.417608,-80.55296
-3474,'3474','Block Line / St Marys High School',43.420062,-80.465066
+3474,'3474','Block Line / St Marys HS',43.420062,-80.465066
 3476,'3476','Ira Needles / Penelope',43.418388,-80.552656
 3477,'3477','Thaler / Kinzie',43.435413,-80.432633
 3478,'3478','Kinzie / Thaler',43.435724,-80.432433
@@ -2369,7 +2369,7 @@
 4011,'4011','Centennial / Forwell',43.471842,-80.433607
 4012,'4012','Columbia / Erbsville',43.461946,-80.581186
 4013,'4013','Columbia / Cavendish',43.463893,-80.576576
-4014,'4014','Laurelwood / Sir John A Macdonald Secondary School',43.47029,-80.594731
+4014,'4014','Laurelwood / Sir John A Macdonald SS',43.47029,-80.594731
 4015,'4015','Waterloo Public Sq Sta',43.463941,-80.522184
 4016,'4016','Bridge / Chesapeake (N)',43.509082,-80.517909
 4017,'4017','Columbia / Salzburg',43.460368,-80.582848
@@ -2492,7 +2492,7 @@
 7005,'7005','Snyders / Coachmans',43.404489,-80.663303
 7006,'7006','Snyders / Mill',43.403452,-80.671385
 7007,'7007','Snyders / Foundry',43.403611,-80.669199
-7008,'7008','Waterloo-Oxford District Secondary School',43.401234,-80.687378
+7008,'7008','Waterloo-Oxford District SS',43.401234,-80.687378
 7009,'7009','Waterloo St / Christner',43.39659,-80.705159
 7010,'7010','Waterloo St / Christner',43.397171,-80.70431
 7011,'7011','Waterloo St / Forrest',43.387628,-80.711347
