@@ -22,7 +22,7 @@
 1200,0,'University / King',12
 1301,0,'The Boardwalk Sta',13
 1300,0,'UW Sta',13
-1401,0,'Conestoga Sta',14
+1401,0,'Bathurst',14
 1601,0,'Conestoga College',16
 1600,0,'Waterloo Public Sq Sta',16
 1900,0,'Northfield Sta / St Jacobs Mkt',19
@@ -57,26 +57,26 @@
 5101,0,'Guelph / Fisher Mills / Jamieson / Cooper',51
 5300,0,'Ainslie Term',53
 5301,0,'Cambridge Ctr Sta',53
-5400,0,'Ainslie Term',54
+5400,0,'Lisbon Pines',54
 5500,0,'Ainslie Term',55
 5501,0,'Cedar / Grand Rdg',55
-5600,0,'Cambridge Ctr Sta',56
+5600,0,'Dunbar',56
 5700,0,'Ainslie Term',57
 5701,0,'Conestoga College',57
-5800,0,'Ainslie Term',58
-5900,0,'Ainslie Term',59
-6000,0,'Cambridge Ctr Sta',60
+5800,0,'Elmwood',58
+5900,0,'Christopher',59
+6000,0,'Northview Acres',60
 6100,0,'Cambridge Ctr Sta',61
 6101,0,'Conestoga College',61
-6300,0,'Ainslie Term',63
-6400,0,'Cambridge Ctr Sta',64
+6300,0,'Champlain',63
+6400,0,'Langs',64
 6701,0,'Cambridge Ctr Sta',67
 6700,0,'Sportsworld Sta',67
 7200,0,'Loblaws Distribution Ctr',72
 7201,0,'Sportsworld Sta',72
 7301,0,'Conservation / Rideau River',73
 7300,0,'Northfield Sta',73
-7500,0,'Cambridge Ctr Sta',75
+7500,0,'Saginaw',75
 7601,0,'Conestoga College',76
 7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
