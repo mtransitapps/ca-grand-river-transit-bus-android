@@ -687,6 +687,7 @@
 1793,'1793','Trillium / Adam Ferrie',43.402548,-80.462397
 1794,'1794','Trillium / Shoemaker',43.40172,-80.466245
 1804,'1804','Strasburg / Mcintyre',43.404175,-80.473436
+1805,'1805','Strasburg / Trillium',43.401749,-80.468579
 1806,'1806','Strasburg / Battler',43.398637,-80.467544
 1807,'1807','Strasburg / Huron Hts SS',43.394623,-80.46795
 1808,'1808','Strasburg / Huron',43.392592,-80.466782
@@ -715,6 +716,7 @@
 1839,'1839','Huron / Strasburg',43.392641,-80.46572
 1840,'1840','Strasburg / Huron Hts SS',43.394875,-80.467849
 1841,'1841','Strasburg / Battler',43.398699,-80.467297
+1842,'1842','Strasburg / Trillium',43.400944,-80.46787
 1844,'1844','Strasburg / Mcintyre',43.404554,-80.473618
 1845,'1845','Strasburg / Shoemaker',43.405981,-80.474384
 1846,'1846','Bleams / Century Hl',43.408893,-80.465614
@@ -2454,6 +2456,7 @@
 4099,'4099','Bridgeport Rd / Albert',43.467471,-80.524761
 4100,'4100','Maple Grv / Beaverdale',43.434509,-80.336236
 4101,'4101','Maple Grv / Beaverdale',43.434099,-80.336785
+4102,'4102','Maple Grv / Compass',43.431138,-80.345255
 4103,'4103','Maple Grv / Compass',43.43096,-80.345038
 4104,'4104','Shantz Hl / Preston Pkwy',43.399242,-80.375072
 4105,'4105','Southwood / St Andrews',43.34446,-80.331306
