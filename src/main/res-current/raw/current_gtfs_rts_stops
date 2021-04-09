@@ -112,7 +112,6 @@
 1120,'1120','Columbia / UW - Vlg 1',43.473163,-80.550483
 1121,'1121','Chesapeake / Chesapeake Cres',43.510993,-80.513805
 1123,'1123','U Of Waterloo Sta',43.472642,-80.541207
-1125,'1125','Conestoga Sta',43.498025,-80.528566
 1126,'1126','Conestoga Sta',43.498289,-80.529109
 1127,'1127','Conestoga Sta',43.498036,-80.528999
 1128,'1128','Conestoga Sta',43.498071,-80.528838
@@ -348,7 +347,6 @@
 1387,'1387','Charles / Stirling',43.443771,-80.478679
 1388,'1388','Borden Sta',43.442372,-80.4747
 1390,'1390','Borden Sta',43.442344,-80.47431
-1391,'1391','Borden Sta',43.442298,-80.474109
 1392,'1392','Dunbar / Hespeler Rd',43.390424,-80.324106
 1393,'1393','Dunbar / Briarwood',43.390007,-80.326691
 1394,'1394','Dunbar / Daleview',43.389354,-80.328921
@@ -536,7 +534,6 @@
 1611,'1611','Dundas / Jarvis',43.372207,-80.316528
 1612,'1612','Delta Sta',43.373751,-80.318968
 1613,'1613','Coronation / Goldie',43.375527,-80.321988
-1614,'1614','Coronation / Oliver',43.377875,-80.325933
 1615,'1615','Coronation / Cambridge Memorial Hosp',43.379683,-80.328904
 1616,'1616','725 Coronation Blvd',43.38102,-80.331173
 1617,'1617','Coronation / Highland',43.382484,-80.333712
@@ -800,7 +797,6 @@
 1936,'1936','Victoria / River',43.464277,-80.464003
 1937,'1937','Victoria / River',43.464405,-80.464389
 1938,'1938','Grand / Cedar',43.352914,-80.31739
-1939,'1939','Ottawa / Weber',43.444239,-80.466672
 1940,'1940','Ottawa / Franklin',43.448606,-80.451334
 1941,'1941','Bridge / Bridle',43.485339,-80.488595
 1942,'1942','Bridge / Woolwich',43.482763,-80.484761
@@ -823,7 +819,6 @@
 1959,'1959','King / William',43.461682,-80.521531
 1960,'1960','Willis Way Sta',43.462148,-80.523192
 1961,'1961','Erb / Father David Bauer',43.464131,-80.525999
-1962,'1962','Erb / Wells',43.463213,-80.528132
 1963,'1963','Erb / Avondale',43.462258,-80.530328
 1964,'1964','Erb / Roslin',43.461465,-80.532194
 1965,'1965','Erb / Dietz',43.460171,-80.535153
@@ -844,9 +839,6 @@
 1980,'1980','Erbsville / Brandenburg',43.451329,-80.572188
 1981,'1981','Erbsville / Chablis',43.450035,-80.572765
 1982,'1982','Queen / Woodside',43.441701,-80.497316
-1983,'1983','Erb / Erbsville Ct',43.448019,-80.566044
-1984,'1984','Erb / Gateview',43.450834,-80.557832
-1985,'1985','Gateview / Westvale',43.450049,-80.557613
 1986,'1986','Westvale / Heather Hl',43.448493,-80.558367
 1987,'1987','Victoria / Edna',43.460814,-80.474929
 1988,'1988','Westvale / Edenvalley',43.445863,-80.560152
@@ -1070,8 +1062,6 @@
 2240,'2240','Albert / Ballantyne',43.348709,-80.311033
 2241,'2241','Ballantyne / Mckay',43.349487,-80.307076
 2242,'2242','Mckay / S',43.350929,-80.307393
-2243,'2243','Ctr / Elliott',43.3528,-80.308581
-2244,'2244','Ctr / Concession',43.354054,-80.308949
 2245,'2245','Grand / S Sq',43.358501,-80.317624
 2246,'2246','Grand / St Andrews',43.356615,-80.317602
 2249,'2249','Cedar / Westgate Ctr',43.351556,-80.329362
@@ -1284,8 +1274,6 @@
 2479,'2479','Morrison / Grand River Blvd',43.428016,-80.414745
 2480,'2480','Morrison / Grand River Hosp - Freeport Campus',43.426065,-80.413528
 2481,'2481','River / King',43.425651,-80.419258
-2482,'2482','Dundas / Chalmers',43.362947,-80.301336
-2483,'2483','Dundas / Elgin',43.360871,-80.297875
 2484,'2484','Dundas / Monroe',43.359158,-80.295071
 2485,'2485','Dundas / Main',43.357128,-80.291809
 2486,'2486','Dundas / Franklin',43.355095,-80.288415
@@ -1444,9 +1432,11 @@
 2681,'2681','Westmount / Lourdes',43.457606,-80.535333
 2682,'2682','Westmount / Dietz',43.456918,-80.532248
 2683,'2683','Westmount / William',43.455662,-80.529069
+2684,'2684','Stirling / Homer Watson (Future Stop)',43.431405,-80.496588
 2685,'2685','Westmount / John',43.454342,-80.52767
 2689,'2689','Belmont / Union',43.4549,-80.51905
 2690,'2690','Margaret / Victoria',43.456024,-80.488723
+2691,'2691','Stirling / Homer Watson (Future Stop)',43.431592,-80.496351
 2692,'2692','545 Belmont Ave W',43.450409,-80.516159
 2693,'2693','Belmont / Path To Marina',43.449401,-80.515485
 2694,'2694','Belmont / Gage',43.447595,-80.514288
@@ -1516,8 +1506,6 @@
 2791,'2791','Eagle / Providence',43.405675,-80.341443
 2792,'2792','Eagle / Ind',43.407018,-80.333546
 2793,'2793','Lincoln / Mayfield',43.479191,-80.507766
-2794,'2794','Lincoln / Bluevale',43.48201,-80.505814
-2795,'2795','Lincoln / University Ave',43.483323,-80.507621
 2800,'2800','Lee / Dunvegan',43.493511,-80.504434
 2801,'2801','Lee / Dansbury',43.494485,-80.504686
 2803,'2803','Lexington / Dunvegan',43.494563,-80.510362
@@ -1540,8 +1528,6 @@
 2822,'2822','Westheights / Autumn Hl',43.420425,-80.529522
 2824,'2824','Westheights / Path To Trailview Pk',43.424542,-80.530073
 2825,'2825','Greenbrook / Stonybrook',43.425204,-80.512
-2826,'2826','Lincoln / Bluevale',43.48259,-80.506762
-2827,'2827','Lincoln / Mayfield',43.479748,-80.507527
 2828,'2828','Greenbrook / Graystone',43.427957,-80.507822
 2829,'2829','Highland / Ruby',43.440145,-80.495959
 2830,'2830','Highland / Ruby',43.440287,-80.496021
@@ -1559,7 +1545,6 @@
 2844,'2844','Weber / Madison',43.448516,-80.480059
 2845,'2845','Weber / Fairview',43.44696,-80.476526
 2847,'2847','Weber / Borden',43.44553,-80.47094
-2850,'2850','Ottawa / Hwy 7',43.445441,-80.463414
 2851,'2851','Ottawa / Nottingham',43.447695,-80.458228
 2853,'2853','Franklin / Ottawa',43.448208,-80.450697
 2854,'2854','Franklin / Penrose',43.446338,-80.44954
@@ -1598,11 +1583,9 @@
 2914,'2914','Stirling / Mill',43.437813,-80.487176
 2915,'2915','Stirling / Courtland',43.440981,-80.484375
 2916,'2916','Stirling / Kaufman Pk',43.442282,-80.482022
-2917,'2917','Charles / Kent',43.443188,-80.477653
 2918,'2918','Charles / Kent',43.443352,-80.477511
 2919,'2919','Charles / Cameron Hts Collegiate Institute',43.445248,-80.481208
 2920,'2920','Kitchener Mkt Sta',43.446425,-80.483624
-2921,'2921','Ottawa / King',43.442129,-80.471169
 2922,'2922','Ottawa / Midland',43.449429,-80.448297
 2923,'2923','River / Stanley Pk Mall',43.449213,-80.443378
 2924,'2924','Kitchener Mkt Sta',43.446282,-80.483798
@@ -1645,7 +1628,6 @@
 2976,'2976','Dundas / Franklin',43.354563,-80.286956
 2977,'2977','Dundas / Main',43.357238,-80.291567
 2978,'2978','Dundas / Monroe',43.359382,-80.295194
-2979,'2979','Dundas / Elgin',43.361154,-80.298069
 2980,'2980','Dundas / Maple Bush',43.353479,-80.285296
 2981,'2981','Fischer-Hallman / Queens',43.428211,-80.523413
 2982,'2982','Fischer-Hallman / Forest Hts CI',43.42616,-80.521786
@@ -2004,7 +1986,7 @@
 3535,'3535','Main / Harris',43.358798,-80.310166
 3536,'3536','Wellington / Dickson',43.359967,-80.311461
 3539,'3539','Hespeler Rd / Isherwood',43.383091,-80.320484
-3540,'3540','Queen / Adam',43.430988,-80.311273
+3540,'3540','Queen / Adam',43.430648,-80.312047
 3541,'3541','Guelph / Milton',43.440018,-80.313223
 3542,'3542','Kerwood / Housler',43.43258,-80.293921
 3543,'3543','Pinebush / Wayne',43.410879,-80.311601
@@ -2099,7 +2081,6 @@
 3682,'3682','Hazel / Wilfrid Laurier U',43.475344,-80.528333
 3683,'3683','University Ave / U Of Waterloo',43.468939,-80.53914
 3685,'3685','Erbsville / Westside Marketplace',43.4479,-80.572632
-3687,'3687','Erb / Erbsville Ct',43.448332,-80.565666
 3689,'3689','Erbsville / Westside Marketplace',43.447999,-80.572483
 3690,'3690','Erbsville / Royal Beech',43.451364,-80.571865
 3691,'3691','Erbsville / Path To Erbsville Ct',43.453282,-80.571927
@@ -2394,7 +2375,6 @@
 4053,'4053','Westmount / Erb',43.459679,-80.537098
 4054,'4054','University Ave / Bridge',43.489225,-80.494564
 4055,'4055','University Ave / Bridge',43.489495,-80.493411
-4056,'4056','Erb / Fischer-Hallman',43.452344,-80.554144
 4057,'4057','Lincoln / Weber',43.471269,-80.513586
 4058,'4058','Lincoln / Weber',43.471264,-80.513238
 4059,'4059','Lincoln / Ellis',43.474433,-80.509799
@@ -2409,7 +2389,6 @@
 4068,'4068','Westvale / Thorndale',43.444077,-80.559561
 4069,'4069','Westvale / Edenvalley',43.446066,-80.560092
 4070,'4070','Westvale / Heather Hl',43.448411,-80.55822
-4071,'4071','Erb / Beechwood',43.45159,-80.55631
 4072,'4072','Columbia / King',43.481692,-80.527075
 4073,'4073','King / Columbia',43.482448,-80.526106
 4074,'4074','Hagey / U Of Waterloo',43.475116,-80.546437
@@ -2453,24 +2432,21 @@
 4147,'4147','Bishop / Hespeler Rd',43.395341,-80.3233
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
-5015,'5015','Seabrook / Valencia (Temporary Stop)',43.387483,-80.488232
-5016,'5016','Seabrook / Corsica (Temporary Stop)',43.387299,-80.488607
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
 5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
-5057,'5057','Greenbrook / Lakeside (Temporary Stop)',43.428947,-80.499159
-5058,'5058','Lakeside / Greenbrook (Temporary Stop)',43.42906,-80.498988
-5062,'5062','Bismark / Blair (Temporary Stop)',43.370975,-80.332824
-5063,'5063','Blair / Leslie (Temporary Stop)',43.374083,-80.336916
-5064,'5064','Bismark / Blair (Temporary Stop)',43.370949,-80.332446
+5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
+5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
+5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
 5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
-5068,'5068','Chalmers / Dundas (Temporary Stop)',43.362871,-80.301627
 5070,'5070','Cambridge Pinebush Vaccination Clinic',43.411732,-80.32189
 5071,'5071','Borden / Mill (Temporary Stop)',43.435021,-80.483244
 5072,'5072','Mill / Borden (Temporary Stop)',43.435095,-80.483474
 5073,'5073','Dunbar / Ind (Temporary Stop)',43.3895,-80.328251
+5074,'5074','Mcnaughton / Chalmers (Temporary Stop)',43.360831,-80.300753
+5075,'5075','Mcnaughton / Chalmers (Temporary Stop)',43.36077,-80.300537
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
