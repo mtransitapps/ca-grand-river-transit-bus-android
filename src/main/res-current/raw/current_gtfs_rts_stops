@@ -1494,6 +1494,8 @@
 2791,'2791','Eagle / Providence',43.405675,-80.341443
 2792,'2792','Eagle / Ind',43.407018,-80.333546
 2793,'2793','Lincoln / Mayfield',43.479191,-80.507766
+2794,'2794','Lincoln / Bluevale',43.48201,-80.505814
+2795,'2795','Lincoln / University Ave',43.483323,-80.507621
 2800,'2800','Lee / Dunvegan',43.493511,-80.504434
 2801,'2801','Lee / Dansbury',43.494485,-80.504686
 2803,'2803','Lexington / Dunvegan',43.494563,-80.510362
@@ -1516,6 +1518,8 @@
 2822,'2822','Westheights / Autumn Hl',43.420425,-80.529522
 2824,'2824','Westheights / Path To Trailview Pk',43.424542,-80.530073
 2825,'2825','Greenbrook / Stonybrook',43.425204,-80.512
+2826,'2826','Lincoln / Bluevale',43.48259,-80.506762
+2827,'2827','Lincoln / Mayfield',43.479748,-80.507527
 2828,'2828','Greenbrook / Graystone',43.427957,-80.507822
 2829,'2829','Highland / Ruby',43.440145,-80.495959
 2830,'2830','Highland / Ruby',43.440287,-80.496021
@@ -2432,7 +2436,6 @@
 5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
 5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
-5065,'5065','Mayfield / Lincoln (Temporary Stop)',43.479552,-80.507871
 5070,'5070','Cambridge Pinebush Vaccination Clinic',43.411732,-80.32189
 5071,'5071','Borden / Mill (Temporary Stop)',43.435021,-80.483244
 5072,'5072','Mill / Borden (Temporary Stop)',43.435095,-80.483474
