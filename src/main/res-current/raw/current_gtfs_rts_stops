@@ -196,6 +196,7 @@
 1211,'1211','Highland / Westforest',43.425154,-80.543771
 1212,'1212','Kraus / Northfield',43.501473,-80.530618
 1213,'1213','Columbia / Ladyslipper',43.449676,-80.5865
+1214,'1214','Columbia / Platinum',43.449188,-80.587122
 1215,'1215','Mcmurray / Northland',43.50894,-80.528472
 1216,'1216','Mcmurray / Bathurst',43.511001,-80.53076
 1217,'1217','Bathurst / Rankin',43.510239,-80.533952
@@ -508,7 +509,6 @@
 1585,'1585','King / Eagle',43.398523,-80.36368
 1586,'1586','King / Waterloo',43.397255,-80.361199
 1587,'1587','King / Westminster',43.395617,-80.358067
-1588,'1588','King / Lowther',43.394179,-80.355292
 1589,'1589','King / Dolph',43.392959,-80.352959
 1590,'1590','Sportsworld Sta',43.409699,-80.392846
 1591,'1591','King / Bishop',43.389789,-80.346621
@@ -535,7 +535,6 @@
 1618,'1618','Coronation / Blue Heron',43.383857,-80.335981
 1619,'1619','Coronation / Oriole',43.385792,-80.338899
 1621,'1621','King / Brower',43.388776,-80.344225
-1623,'1623','King / Montrose',43.391736,-80.350132
 1624,'1624','King / Dolph',43.393175,-80.352919
 1625,'1625','King / Lowther',43.394623,-80.355781
 1626,'1626','King / Waterloo',43.397454,-80.361246
@@ -899,8 +898,6 @@
 2055,'2055','Manitou / Bleams',43.412141,-80.44922
 2056,'2056','Oldfield / Edenbridge',43.449321,-80.428683
 2057,'2057','Westmount / Block Line',43.411444,-80.499832
-2058,'2058','Bleams / Washburn',43.402714,-80.491863
-2059,'2059','Bleams / Trillium',43.404186,-80.485743
 2060,'2060','Bleams / Colony',43.405828,-80.478714
 2061,'2061','Bleams / Strasburg',43.40701,-80.474506
 2062,'2062','Bleams / Colony',43.40601,-80.478933
@@ -1955,7 +1952,7 @@
 3503,'3503','Fischer-Hallman / Max Becker',43.405635,-80.499295
 3504,'3504','Fischer-Hallman / Rockwood',43.403859,-80.497501
 3505,'3505','Fischer-Hallman / Bleams',43.402431,-80.496903
-3506,'3506','Fischer-Hallman / Fischer-Hallman',43.389817,-80.491257
+3506,'3506','1541 Fischer-Hallman Rd',43.389817,-80.491257
 3507,'3507','Oldfield / Brierdale',43.449105,-80.426568
 3508,'3508','Pinebush Sta',43.408311,-80.327284
 3509,'3509','Eagle / Ind',43.407286,-80.333039
@@ -2055,7 +2052,7 @@
 3663,'3663','University Ave / Countrystone',43.437509,-80.558402
 3664,'3664','University Ave / Countrystone Pk',43.43893,-80.554386
 3665,'3665','University Ave / Pastern',43.491948,-80.490954
-3666,'3666','Fischer-Hallman / Portuguese Club',43.38953,-80.490931
+3666,'3666','1548 Fischer-Hallman Rd',43.38953,-80.490931
 3667,'3667','Fischer-Hallman / Bleams',43.402251,-80.496634
 3668,'3668','Fischer-Hallman / Rockwood',43.404086,-80.497331
 3669,'3669','Fischer-Hallman / Cotton Grass',43.408337,-80.502069
@@ -2424,18 +2421,26 @@
 4147,'4147','Bishop / Hespeler Rd',43.395341,-80.3233
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
+5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
+5010,'5010','Duke / Dolph (Temporary Stop)',43.394055,-80.351974
 5018,'5018','Bishop / Eleanor (Temporary Stop)',43.392183,-80.341255
 5019,'5019','Concession / Grand Vly (Temporary Stop)',43.388239,-80.342176
 5020,'5020','Concession / Grand Vly (Temporary Stop)',43.388476,-80.342059
 5021,'5021','Bishop / Concession (Temporary Stop)',43.391783,-80.342703
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
+5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
+5042,'5042','Duke / Lowther (Temporary Stop)',43.395012,-80.354341
+5043,'5043','Duke / Dolph (Temporary Stop)',43.393841,-80.352015
+5044,'5044','Duke / Montrose (Temporary Stop)',43.392303,-80.349017
+5045,'5045','Duke / Bishop (Temporary Stop)',43.39115,-80.346767
 5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
 5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
 5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
 5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
+5060,'5060','Duke / Bishop (Temporary Stop)',43.391189,-80.346472
 5070,'5070','Cambridge Pinebush Vaccination Clinic',43.411732,-80.32189
 5071,'5071','Borden / Mill (Temporary Stop)',43.435021,-80.483244
 5072,'5072','Mill / Borden (Temporary Stop)',43.435095,-80.483474
