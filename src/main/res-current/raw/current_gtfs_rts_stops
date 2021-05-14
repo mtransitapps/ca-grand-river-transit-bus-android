@@ -111,7 +111,6 @@
 1119,'1119','Columbia / UW - Ron Eydt Vlg',43.471381,-80.555467
 1120,'1120','Columbia / UW - Vlg 1',43.473163,-80.550483
 1121,'1121','Chesapeake / Chesapeake Cres',43.510993,-80.513805
-1123,'1123','U Of Waterloo Sta',43.472642,-80.541207
 1126,'1126','Conestoga Sta',43.498289,-80.529109
 1127,'1127','Conestoga Sta',43.498036,-80.528999
 1128,'1128','Conestoga Sta',43.498071,-80.528838
@@ -148,7 +147,6 @@
 1161,'1161','Hazel / Austin',43.481575,-80.533084
 1162,'1162','Hazel / Waterloo Collegiate Institute',43.478946,-80.531039
 1163,'1163','Hazel / Hickory',43.477898,-80.530219
-1165,'1165','King / University Ave (N Side)',43.476319,-80.525075
 1166,'1166','University Ave / King',43.476025,-80.525782
 1167,'1167','Hazel / Wilfrid Laurier U',43.475513,-80.528259
 1168,'1168','Hazel / Hickory',43.47788,-80.530034
@@ -738,11 +736,6 @@
 1885,'1885','King / Pandora',43.445188,-80.478765
 1886,'1886','King / Cameron',43.446079,-80.480636
 1887,'1887','King / Kitchener Mkt',43.447344,-80.483579
-1888,'1888','Frederick Sta (King / Frederick)',43.449135,-80.48737
-1889,'1889','King / Queen',43.449708,-80.4887
-1890,'1890','King / Ontario',43.450437,-80.49061
-1891,'1891','King / College',43.451504,-80.493728
-1892,'1892','King / Francis',43.452289,-80.496119
 1893,'1893','Central Sta',43.452855,-80.497931
 1894,'1894','Duke / Francis',43.453598,-80.495363
 1895,'1895','Duke / Francis',43.453296,-80.495375
@@ -758,11 +751,7 @@
 1905,'1905','Vanier / Shelley',43.424372,-80.459509
 1906,'1906','Shelley / Courtland',43.421693,-80.459357
 1907,'1907','Waterloo Public Sq Sta',43.464678,-80.522063
-1909,'1909','King / Bridgeport Rd',43.467892,-80.523002
-1910,'1910','King / Elgin',43.4701,-80.523579
-1911,'1911','King / James',43.47247,-80.524054
 1912,'1912','Victoria / Margaret',43.45655,-80.488844
-1913,'1913','King / University Ave',43.476039,-80.524793
 1914,'1914','King / Hickory',43.477724,-80.525163
 1915,'1915','King / Columbia',43.481798,-80.526009
 1916,'1916','King / Weber',43.484988,-80.526677
@@ -1200,8 +1189,6 @@
 2413,'2413','Wellington / Ahrens',43.45758,-80.493282
 2414,'2414','Wellington / Margaret',43.458709,-80.489947
 2415,'2415','Wellington / St Leger',43.459659,-80.487084
-2416,'2416','Wellington / Major',43.460645,-80.484059
-2417,'2417','Lancaster / Louisa',43.461985,-80.48359
 2418,'2418','Lancaster / Hl',43.464373,-80.484102
 2419,'2419','Lancaster / Guelph',43.46549,-80.48408
 2420,'2420','Lancaster / Arnold',43.46784,-80.484196
@@ -1240,8 +1227,6 @@
 2454,'2454','Wellington / King',43.454507,-80.502924
 2455,'2455','551 Parkside Dr',43.494485,-80.544509
 2456,'2456','Weber / Parkside',43.492707,-80.544091
-2457,'2457','King / Water',43.451734,-80.494752
-2458,'2458','King / Gaukel',43.451158,-80.492903
 2460,'2460','Weber / Parkside',43.492922,-80.544273
 2462,'2462','Weber / Wellington',43.456966,-80.495042
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771
@@ -1298,9 +1283,7 @@
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
 2532,'2532','King / Hickory',43.478347,-80.525517
-2533,'2533','King / University Ave (S Side)',43.475428,-80.524983
 2534,'2534','Weber / Union',43.465385,-80.505732
-2535,'2535','King / Central',43.469804,-80.523742
 2536,'2536','Allen Sta',43.460267,-80.519377
 2537,'2537','Weber / Union',43.465517,-80.50553
 2538,'2538','King / Union',43.458269,-80.515241
@@ -2008,7 +1991,6 @@
 3576,'3576','Weber / Eastwood Collegiate Institute',43.438918,-80.460691
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
 3579,'3579','King / Pandora',43.445207,-80.479099
-3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
@@ -2402,7 +2384,6 @@
 4093,'4093','Can-Amera / Path To Lena',43.392907,-80.308976
 4094,'4094','Ottawa / Westmount',43.420389,-80.501241
 4095,'4095','Ottawa / Fischer-Hallman',43.417604,-80.510393
-4096,'4096','Ottawa / Fischer-Hallman',43.416364,-80.511539
 4097,'4097','Ottawa / River',43.451064,-80.444139
 4098,'4098','Ottawa / River',43.45094,-80.443771
 4099,'4099','Bridgeport Rd / Albert',43.467471,-80.524761
@@ -2423,6 +2404,8 @@
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
 5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
 5010,'5010','Duke / Dolph (Temporary Stop)',43.394055,-80.351974
+5011,'5011','Frederick Sta (King / Frederick)',43.448909,-80.486863
+5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
 5018,'5018','Bishop / Eleanor (Temporary Stop)',43.392183,-80.341255
 5019,'5019','Concession / Grand Vly (Temporary Stop)',43.388239,-80.342176
 5020,'5020','Concession / Grand Vly (Temporary Stop)',43.388476,-80.342059
@@ -2432,6 +2415,12 @@
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5031,'5031','Queenston / Dolph (Temporary Stop)',43.392397,-80.354488
+5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
+5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
+5038,'5038','Snyders / Brewery (Temporary Stop)',43.404204,-80.666131
+5039,'5039','Brewery / Snyders (Temporary Stop)',43.403908,-80.665673
+5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
+5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
 5042,'5042','Duke / Lowther (Temporary Stop)',43.395012,-80.354341
 5043,'5043','Duke / Dolph (Temporary Stop)',43.393841,-80.352015
 5044,'5044','Duke / Montrose (Temporary Stop)',43.392303,-80.349017
@@ -2462,10 +2451,6 @@
 6107,'6107','Sportsworld Sta',43.410002,-80.393307
 7000,'7000','Snyders / Notre Dame',43.413404,-80.606216
 7001,'7001','Snyders / Notre Dame',43.413341,-80.605695
-7002,'7002','Snyders / Forler',43.405625,-80.656739
-7003,'7003','Snyders / Forler',43.405559,-80.656092
-7004,'7004','Snyders / Brubacher',43.404701,-80.66296
-7005,'7005','Snyders / Coachmans',43.404489,-80.663303
 7006,'7006','Snyders / Mill',43.403452,-80.671385
 7007,'7007','Snyders / Foundry',43.403611,-80.669199
 7008,'7008','Waterloo-Oxford District SS',43.401234,-80.687378
@@ -2485,8 +2470,6 @@
 7033,'7033','Mackays No Frills New Hamburg',43.370367,-80.703937
 7035,'7035','Waterloo St / Victoria',43.387798,-80.710968
 7037,'7037','Highland / Trussler',43.421315,-80.558582
-7038,'7038','560 Snyders Rd E',43.407226,-80.646279
-7039,'7039','560 Snyders Rd E',43.407136,-80.645915
 7040,'7040','Highland / Trussler',43.420881,-80.559194
 7041,'7041','Kitchener Gurdwara',43.417566,-80.580515
 7060,'7060','46 Cedarwoods Cres',43.42717,-80.439684
