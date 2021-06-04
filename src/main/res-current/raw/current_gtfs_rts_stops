@@ -111,6 +111,7 @@
 1119,'1119','Columbia / UW - Ron Eydt Vlg',43.471381,-80.555467
 1120,'1120','Columbia / UW - Vlg 1',43.473163,-80.550483
 1121,'1121','Chesapeake / Chesapeake Cres',43.510993,-80.513805
+1123,'1123','U Of Waterloo Sta',43.472642,-80.541207
 1126,'1126','Conestoga Sta',43.498289,-80.529109
 1127,'1127','Conestoga Sta',43.498036,-80.528999
 1128,'1128','Conestoga Sta',43.498071,-80.528838
@@ -1286,7 +1287,6 @@
 2512,'2512','Columbia / Hazel',43.480075,-80.531527
 2513,'2513','Columbia / Albert',43.478783,-80.535035
 2514,'2514','Columbia / Lester',43.477964,-80.53744
-2515,'2515','Ring Rd / UW - S Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
 2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
@@ -2380,6 +2380,7 @@
 4072,'4072','Columbia / King',43.481692,-80.527075
 4073,'4073','King / Columbia',43.482448,-80.526106
 4074,'4074','Hagey / U Of Waterloo',43.475116,-80.546437
+4075,'4075','Hagey / U Of Waterloo',43.474953,-80.546736
 4076,'4076','Fischer-Hallman / Gatestone',43.470116,-80.568257
 4077,'4077','Fischer-Hallman / Path To Laurel Gt',43.472392,-80.570769
 4078,'4078','Fischer-Hallman / Laurelwood',43.473798,-80.571918
@@ -2429,6 +2430,7 @@
 5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
+5027,'5027','Erinbrook / Marlis (Temporary Stop)',43.404321,-80.492152
 5031,'5031','Queenston / Dolph (Temporary Stop)',43.392397,-80.354488
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
