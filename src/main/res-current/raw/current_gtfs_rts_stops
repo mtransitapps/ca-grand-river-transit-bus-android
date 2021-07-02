@@ -465,7 +465,6 @@
 1510,'1510','Concession / Cameron',43.354863,-80.307126
 1511,'1511','Ainslie Term',43.35717,-80.313529
 1512,'1512','Ainslie Term',43.357332,-80.313503
-1514,'1514','Ainslie Term',43.357656,-80.313462
 1516,'1516','Ainslie Term',43.357617,-80.312981
 1517,'1517','Ainslie Term',43.35758,-80.312759
 1518,'1518','Ainslie Term',43.3574,-80.312823
@@ -949,10 +948,6 @@
 2105,'2105','Bleams / Strasburg',43.406873,-80.474218
 2106,'2106','Franklin / Winston',43.420719,-80.310586
 2107,'2107','Franklin / Winston',43.420973,-80.310279
-2108,'2108','Elgin / Ave',43.37845,-80.306388
-2109,'2109','Elgin / Winter',43.376762,-80.305704
-2110,'2110','Elgin / Galt Ave',43.373939,-80.303465
-2111,'2111','Elgin / Bronson',43.372065,-80.302742
 2112,'2112','Clyde / Millcreek',43.370973,-80.299907
 2113,'2113','Franklin / Clyde',43.370745,-80.295164
 2114,'2114','470 Franklin Blvd',43.36768,-80.293021
@@ -1359,7 +1354,6 @@
 2615,'2615','Weber / Jackson',43.440099,-80.462746
 2616,'2616','Weber / Sheldon',43.442252,-80.465138
 2617,'2617','Weber / Sheldon',43.442115,-80.465219
-2618,'2618','Weber / Jackson',43.4399,-80.462807
 2619,'2619','163 Thaler Ave',43.434084,-80.43129
 2620,'2620','George / Blair',43.360932,-80.318788
 2621,'2621','King / Fairway',43.428907,-80.433217
@@ -1415,11 +1409,9 @@
 2681,'2681','Westmount / Lourdes',43.457606,-80.535333
 2682,'2682','Westmount / Dietz',43.456918,-80.532248
 2683,'2683','Westmount / William',43.455662,-80.529069
-2684,'2684','Stirling / Homer Watson (Future Stop)',43.431405,-80.496588
 2685,'2685','Westmount / John',43.454342,-80.52767
 2689,'2689','Belmont / Union',43.4549,-80.51905
 2690,'2690','Margaret / Victoria',43.456024,-80.488723
-2691,'2691','Stirling / Homer Watson (Future Stop)',43.431592,-80.496351
 2692,'2692','545 Belmont Ave W',43.450409,-80.516159
 2693,'2693','Belmont / Path To Marina',43.449401,-80.515485
 2694,'2694','Belmont / Gage',43.447595,-80.514288
@@ -1596,7 +1588,6 @@
 2960,'2960','David Bergey / Activa',43.405706,-80.518402
 2961,'2961','David Bergey / Peach Blossom',43.406924,-80.518825
 2962,'2962','David Bergey / Ottawa',43.410377,-80.521997
-2963,'2963','Ottawa / Path To Watercress',43.411655,-80.519837
 2965,'2965','Wilderness / Pine Martin',43.410613,-80.513905
 2966,'2966','Wilderness / Activa',43.410256,-80.510523
 2967,'2967','Franklin / Weber',43.434212,-80.448118
@@ -1937,8 +1928,6 @@
 3501,'3501','Westheights / Path To Brk Grn',43.4221,-80.529435
 3502,'3502','Fischer-Hallman / Path To Bush Clover',43.410383,-80.504799
 3503,'3503','Fischer-Hallman / Max Becker',43.405635,-80.499295
-3504,'3504','Fischer-Hallman / Rockwood',43.403859,-80.497501
-3505,'3505','Fischer-Hallman / Bleams',43.402431,-80.496903
 3506,'3506','1541 Fischer-Hallman Rd',43.389817,-80.491257
 3507,'3507','Oldfield / Brierdale',43.449105,-80.426568
 3508,'3508','Pinebush Sta',43.408311,-80.327284
@@ -2039,7 +2028,6 @@
 3664,'3664','University Ave / Countrystone Pk',43.43893,-80.554386
 3665,'3665','University Ave / Pastern',43.491948,-80.490954
 3666,'3666','1548 Fischer-Hallman Rd',43.38953,-80.490931
-3667,'3667','Fischer-Hallman / Bleams',43.402251,-80.496634
 3668,'3668','Fischer-Hallman / Rockwood',43.404086,-80.497331
 3669,'3669','Fischer-Hallman / Cotton Grass',43.408337,-80.502069
 3670,'3670','Fischer-Hallman / Path To Bush Clover',43.410782,-80.504961
@@ -2440,7 +2428,6 @@
 5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
 5060,'5060','Duke / Bishop (Temporary Stop)',43.391189,-80.346472
-5070,'5070','Cambridge Pinebush Vaccination Clinic',43.411732,-80.32189
 5071,'5071','Borden / Mill (Temporary Stop)',43.435021,-80.483244
 5072,'5072','Mill / Borden (Temporary Stop)',43.435095,-80.483474
 5074,'5074','Mcnaughton / Chalmers (Temporary Stop)',43.360831,-80.300753
