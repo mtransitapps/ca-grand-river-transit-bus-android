@@ -158,9 +158,6 @@
 1173,'1173','Hazel / Smallwood',43.483094,-80.534309
 1174,'1174','Hazel / Blythwood',43.485671,-80.537294
 1175,'1175','Hazel / Albert',43.485734,-80.539433
-1176,'1176','Albert / Greenbrier',43.488146,-80.541394
-1177,'1177','Albert / Longwood',43.490541,-80.539174
-1178,'1178','Weber / Albert',43.492038,-80.537641
 1180,'1180','Ira Needles / Highland',43.423466,-80.552844
 1181,'1181','Cedarbrae / Mt Anne',43.490028,-80.546104
 1182,'1182','Cedarbrae / Sprucehill',43.489819,-80.547738
@@ -535,6 +532,7 @@
 1611,'1611','Dundas / Jarvis',43.372207,-80.316528
 1612,'1612','Delta Sta',43.373751,-80.318968
 1613,'1613','Coronation / Goldie',43.375527,-80.321988
+1614,'1614','Coronation / Oliver',43.377875,-80.325933
 1615,'1615','Coronation / Cambridge Memorial Hosp',43.379683,-80.328904
 1616,'1616','725 Coronation Blvd',43.38102,-80.331173
 1617,'1617','Coronation / Highland',43.382484,-80.333712
@@ -948,6 +946,10 @@
 2105,'2105','Bleams / Strasburg',43.406873,-80.474218
 2106,'2106','Franklin / Winston',43.420719,-80.310586
 2107,'2107','Franklin / Winston',43.420973,-80.310279
+2108,'2108','Elgin / Ave',43.37845,-80.306388
+2109,'2109','Elgin / Winter',43.376762,-80.305704
+2110,'2110','Elgin / Galt Ave',43.373939,-80.303465
+2111,'2111','Elgin / Bronson',43.372065,-80.302742
 2112,'2112','Clyde / Millcreek',43.370973,-80.299907
 2113,'2113','Franklin / Clyde',43.370745,-80.295164
 2114,'2114','470 Franklin Blvd',43.36768,-80.293021
@@ -1117,9 +1119,11 @@
 2331,'2331','Rittenhouse / Goundry',43.409694,-80.48333
 2332,'2332','Rittenhouse / Brookfield',43.411785,-80.482362
 2333,'2333','Victoria / Frederick',43.46624,-80.457432
+2334,'2334','Highland / Path To Charles Best',43.434709,-80.490169
 2335,'2335','Victoria / Forfar',43.467375,-80.453824
 2336,'2336','Victoria / Natchez',43.468414,-80.450675
 2337,'2337','Victoria / Path To Rothsay',43.469532,-80.447389
+2338,'2338','Highland / Path To Charles Best',43.435017,-80.490182
 2339,'2339','Lackner / Victoria',43.470941,-80.440885
 2340,'2340','Blair / Bismark',43.371182,-80.332498
 2341,'2341','Blair / Clearview',43.372528,-80.333984
@@ -1179,9 +1183,11 @@
 2399,'2399','Beasley / Homer Watson',43.402018,-80.457601
 2400,'2400','Krug / Becker',43.454294,-80.467711
 2401,'2401','Highland / Stirling',43.436632,-80.491305
+2402,'2402','Highland / Stirling',43.435979,-80.491015
 2403,'2403','Krug / E',43.452687,-80.472558
 2404,'2404','Krug / Lydia',43.451932,-80.474752
 2405,'2405','Krug / Samuel',43.451043,-80.477306
+2406,'2406','Highland / Heiman',43.432642,-80.48884
 2407,'2407','Krug / Lancaster',43.449816,-80.480777
 2408,'2408','Weber / Scott',43.450597,-80.484268
 2409,'2409','Wellington / Moore',43.455048,-80.500892
@@ -1233,7 +1239,6 @@
 2456,'2456','Weber / Parkside',43.492707,-80.544091
 2457,'2457','King / Water',43.451734,-80.494752
 2458,'2458','King / Gaukel',43.451158,-80.492903
-2460,'2460','Weber / Parkside',43.492922,-80.544273
 2462,'2462','Weber / Wellington',43.456966,-80.495042
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771
 2464,'2464','Weber / Guelph',43.461263,-80.499468
@@ -1643,6 +1648,10 @@
 3054,'3054','Hoffman / Ottawa',43.431903,-80.480004
 3055,'3055','Hoffman / Meinzinger',43.432077,-80.482671
 3056,'3056','Hoffman / Kehl',43.431411,-80.484703
+3057,'3057','Hoffman / Highland',43.430557,-80.487082
+3058,'3058','Highland / Heiman',43.432933,-80.488817
+3063,'3063','Hoffman / Highland',43.430529,-80.486873
+3064,'3064','Hoffman / Kehl',43.43125,-80.484927
 3065,'3065','Hoffman / Meinzinger',43.431969,-80.482697
 3067,'3067','Hoffman / Ottawa',43.431785,-80.47977
 3069,'3069','Queen / Schneider',43.444727,-80.494526
@@ -2391,9 +2400,6 @@
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
 5000,'5000','Chandler / Elmsdale (Temporary Stop)',43.423902,-80.497366
-5001,'5001','Kehl / Heiman (Temporary Stop)',43.434452,-80.486949
-5002,'5002','Kehl / Heiman (Temporary Stop)',43.43412,-80.486923
-5003,'5003','Kehl / Hoffman (Temporary Stop)',43.431379,-80.484982
 5004,'5004','Ottawa / Mowat (Temporary Stop)',43.420726,-80.499328
 5005,'5005','Chandler / Elmsdale (Temporary Stop)',43.424219,-80.496308
 5007,'5007','Gatestone / Timbercroft (Temporary Stop)',43.47003,-80.569165
@@ -2402,6 +2408,8 @@
 5012,'5012','Beaver Crk Rd / Pineland (Temporary Stop)',43.471599,-80.579549
 5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
 5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
+5016,'5016','Bingemans Vaccination Clinic - Staff Pkng',43.472082,-80.452096
+5017,'5017','Bingemans Vaccination Clinic - Staff Pkng',43.472016,-80.452442
 5018,'5018','Bishop / Eleanor (Temporary Stop)',43.392183,-80.341255
 5019,'5019','Concession / Grand Vly (Temporary Stop)',43.388239,-80.342176
 5020,'5020','Concession / Grand Vly (Temporary Stop)',43.388476,-80.342059
@@ -2474,3 +2482,4 @@
 7064,'7064','Grand River Hosp - Freeport Campus',43.425691,-80.410937
 7137,'7137','Toyota Cambridge Gt 2',43.419436,-80.37559
 7139,'7139','Toyota Cambridge Gt 1',43.416679,-80.374048
+8006,'8006','Bingemans Vaccination Clinic',43.474697,-80.452201
