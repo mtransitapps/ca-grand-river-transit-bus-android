@@ -120,7 +120,6 @@
 1131,'1131','Northfield / King',43.501574,-80.534051
 1132,'1132','Northfield / Colby',43.500382,-80.537431
 1133,'1133','Chesapeake / Seawind',43.510669,-80.513894
-1134,'1134','Flint / Kingswood',43.423466,-80.482004
 1135,'1135','Northfield / Parkside',43.496675,-80.54752
 1136,'1136','Northfield / Weber',43.495584,-80.550713
 1137,'1137','Northfield / Northgate',43.49448,-80.553763
@@ -137,7 +136,6 @@
 1148,'1148','Gln Forrest / Teakwood',43.486141,-80.553578
 1149,'1149','Cedarbrae / Gln Forrest',43.485665,-80.551565
 1150,'1150','Cedarbrae / Path To Heasley Pk',43.487946,-80.550089
-1151,'1151','Flint / Kingswood',43.423224,-80.482215
 1152,'1152','Cedarbrae / Sprucehill',43.489613,-80.548061
 1155,'1155','Albert / Weber',43.491552,-80.537559
 1156,'1156','Albert / Longwood',43.490533,-80.539508
@@ -353,6 +351,7 @@
 1398,'1398','Dunbar / St George',43.387703,-80.337705
 1399,'1399','Dunbar / Grand Vly',43.388149,-80.341626
 1400,'1400','Concession / Grand Vly',43.389513,-80.342402
+1401,'1401','Bishop / Duke',43.390751,-80.346339
 1402,'1402','Bishop / Hamilton',43.38844,-80.348439
 1403,'1403','Hamilton / Montrose',43.389571,-80.351019
 1404,'1404','Hamilton / Union',43.39061,-80.353132
@@ -394,6 +393,8 @@
 1440,'1440','Mill Sta',43.433962,-80.478631
 1441,'1441','Lowther / Vine',43.39094,-80.35903
 1442,'1442','Lowther / Hamilton',43.392534,-80.357519
+1443,'1443','King / Montrose',43.391074,-80.349238
+1444,'1444','Bishop / Duke',43.390526,-80.346379
 1445,'1445','Bishop / Pineview',43.391622,-80.344256
 1446,'1446','Fairview / Bishop',43.391752,-80.341921
 1447,'1447','Fairview / Grand Vly',43.389018,-80.340913
@@ -513,8 +514,12 @@
 1585,'1585','King / Eagle',43.398523,-80.36368
 1586,'1586','King / Waterloo',43.397255,-80.361199
 1587,'1587','King / Westminster',43.395617,-80.358067
+1588,'1588','King / Lowther',43.394179,-80.355292
+1589,'1589','King / Dolph',43.392959,-80.352959
 1590,'1590','Sportsworld Sta',43.409699,-80.392846
+1591,'1591','King / Bishop',43.389789,-80.346621
 1592,'1592','King / Brower',43.388732,-80.344447
+1593,'1593','King / Blue Heron',43.387685,-80.342347
 1594,'1594','Coronation / Oriole',43.385668,-80.339283
 1595,'1595','Coronation / Blue Heron',43.383615,-80.336132
 1596,'1596','720 Coronation Blvd',43.380659,-80.33114
@@ -538,7 +543,10 @@
 1617,'1617','Coronation / Highland',43.382484,-80.333712
 1618,'1618','Coronation / Blue Heron',43.383857,-80.335981
 1619,'1619','Coronation / Oriole',43.385792,-80.338899
+1620,'1620','King / Concession',43.387911,-80.342518
 1621,'1621','King / Brower',43.388776,-80.344225
+1622,'1622','King / Bishop',43.389969,-80.346607
+1623,'1623','King / Montrose',43.391736,-80.350132
 1624,'1624','King / Dolph',43.393175,-80.352919
 1625,'1625','King / Lowther',43.394623,-80.355781
 1626,'1626','King / Waterloo',43.397454,-80.361246
@@ -739,15 +747,6 @@
 1881,'1881','King / Sydney',43.441157,-80.469717
 1882,'1882','King / Ottawa',43.442123,-80.472069
 1883,'1883','King / Borden',43.442777,-80.473497
-1884,'1884','King / Stirling',43.444179,-80.476735
-1885,'1885','King / Pandora',43.445188,-80.478765
-1886,'1886','King / Cameron',43.446079,-80.480636
-1887,'1887','King / Kitchener Mkt',43.447344,-80.483579
-1888,'1888','Frederick Sta (King / Frederick)',43.449135,-80.48737
-1889,'1889','King / Queen',43.449708,-80.4887
-1890,'1890','King / Ontario',43.450437,-80.49061
-1891,'1891','King / College',43.451504,-80.493728
-1892,'1892','King / Francis',43.452289,-80.496119
 1893,'1893','Central Sta',43.452855,-80.497931
 1894,'1894','Duke / Francis',43.453598,-80.495363
 1895,'1895','Duke / Francis',43.453296,-80.495375
@@ -792,7 +791,6 @@
 1940,'1940','Ottawa / Franklin',43.448606,-80.451334
 1941,'1941','Bridge / Bridle',43.485339,-80.488595
 1942,'1942','Bridge / Woolwich',43.482763,-80.484761
-1943,'1943','Lancaster / Bridge',43.481833,-80.483029
 1944,'1944','Lancaster / General',43.479277,-80.484531
 1945,'1945','Lancaster / Lang',43.478062,-80.484505
 1946,'1946','Bridgeport Rd / Lancaster',43.476507,-80.485124
@@ -866,7 +864,6 @@
 2019,'2019','Zeller / Wild Mdw',43.453234,-80.417438
 2020,'2020','Lancaster / Bridgeport Rd',43.477437,-80.484306
 2021,'2021','Lancaster / General',43.479276,-80.484333
-2022,'2022','Bridge / Woolwich',43.482788,-80.484403
 2023,'2023','Bridge / Bridle',43.485412,-80.488414
 2024,'2024','Block Line / Fallowfield',43.418728,-80.466868
 2025,'2025','Block Line / St Marys HS',43.419994,-80.464732
@@ -1205,22 +1202,6 @@
 2421,'2421','Lancaster / Ash',43.469182,-80.484234
 2422,'2422','Lancaster / Union',43.471082,-80.48428
 2423,'2423','Lancaster / Hamel',43.475252,-80.484343
-2424,'2424','Lancaster / Bridge',43.481472,-80.483112
-2425,'2425','Bridge / Tyson',43.481203,-80.480298
-2426,'2426','Bridge / Bloomingdale',43.480456,-80.478289
-2427,'2427','Bridge / Schweitzer',43.478951,-80.474197
-2428,'2428','Bridge / Tagge',43.478121,-80.471879
-2429,'2429','Stanley / Schueller',43.477691,-80.466579
-2430,'2430','Stanley / Tagge',43.479291,-80.467962
-2431,'2431','Stanley / Schweitzer',43.480962,-80.469035
-2432,'2432','Schweitzer / Nelson',43.481567,-80.467324
-2433,'2433','Schweitzer / Daniel',43.48273,-80.463888
-2434,'2434','Daniel / Bloomingdale',43.485285,-80.465386
-2435,'2435','Bloomingdale / Nelson',43.484158,-80.468859
-2436,'2436','Bloomingdale / Stanley',43.483313,-80.471129
-2437,'2437','Bloomingdale / Prince',43.481847,-80.475297
-2438,'2438','Bloomingdale / Horning',43.4811,-80.477505
-2439,'2439','Bridge / Tyson',43.481111,-80.479755
 2440,'2440','Lancaster / Hamel',43.475054,-80.484456
 2441,'2441','Lancaster / Union',43.471362,-80.484463
 2442,'2442','Lancaster / Ash',43.469291,-80.484381
@@ -1304,16 +1285,10 @@
 2542,'2542','King / Kitchener-Waterloo Collegiate',43.455954,-80.508272
 2543,'2543','King / Agnes',43.455019,-80.50538
 2544,'2544','King / Wellington',43.454391,-80.503209
-2545,'2545','Hollinger / Howard',43.479193,-80.462845
-2546,'2546','Hollinger / Path To Daniel',43.480564,-80.461922
-2547,'2547','Hollinger / Bridge',43.478927,-80.460038
 2561,'2561','Frederick Sta (King / Benton)',43.449249,-80.487976
 2562,'2562','King / Queen',43.449864,-80.489391
 2563,'2563','Weber / E',43.444603,-80.468013
-2564,'2564','King / Kitchener Mkt',43.447425,-80.483591
-2565,'2565','King / Cameron',43.446089,-80.48092
 2566,'2566','Weber / Ottawa',43.444182,-80.46754
-2567,'2567','King / Stirling',43.444298,-80.477216
 2568,'2568','King / Borden',43.442842,-80.473916
 2569,'2569','King / Ottawa',43.441942,-80.471885
 2570,'2570','King / Sydney',43.440958,-80.469521
@@ -1556,6 +1531,9 @@
 2905,'2905','Strasburg / Strasburg Transit Garage',43.425005,-80.49017
 2907,'2907','Ottawa / Alpine',43.425108,-80.483636
 2908,'2908','Ottawa / Imperial',43.429289,-80.481336
+2910,'2910','Ottawa / Hoffman',43.431444,-80.4795
+2911,'2911','Mill Sta',43.434321,-80.479069
+2912,'2912','Mill / Borden',43.435212,-80.483052
 2913,'2913','Mill / Heiman',43.435836,-80.485654
 2914,'2914','Stirling / Mill',43.437813,-80.487176
 2915,'2915','Stirling / Courtland',43.440981,-80.484375
@@ -1572,11 +1550,13 @@
 2928,'2928','Stirling / Courtland',43.44152,-80.484098
 2929,'2929','Stirling / Mill',43.438399,-80.486905
 2930,'2930','Mill / Heiman',43.4361,-80.486097
+2931,'2931','Mill / Borden',43.435068,-80.482905
+2932,'2932','409 Mill St',43.434604,-80.479944
+2933,'2933','Mill Sta',43.434168,-80.479021
+2934,'2934','Ottawa / Hoffman',43.431964,-80.479534
 2935,'2935','Ottawa / Kehl',43.429704,-80.481592
 2936,'2936','Ottawa / King',43.442091,-80.471602
 2937,'2937','Ottawa / Alpine',43.425096,-80.484077
-2938,'2938','Strasburg / Ottawa',43.422436,-80.487324
-2939,'2939','Strasburg / Barwood',43.420889,-80.485632
 2940,'2940','Strasburg / Selkirk',43.418717,-80.48318
 2941,'2941','Strasburg / Blackhorne',43.416681,-80.480912
 2942,'2942','Rittenhouse / Brookfield',43.412764,-80.482971
@@ -1633,7 +1613,6 @@
 3018,'3018','Strasburg / Blackhorne',43.417105,-80.481156
 3019,'3019','Strasburg / Selkirk',43.41867,-80.482859
 3020,'3020','Strasburg / Kingswood',43.420996,-80.485434
-3021,'3021','Kingswood / Lucerne',43.421424,-80.484565
 3028,'3028','Country Hl / Block Line',43.416701,-80.475465
 3029,'3029','Country Hl / Cherry Hl',43.415788,-80.474793
 3035,'3035','Old Country / Century Hl',43.411592,-80.474669
@@ -1991,7 +1970,6 @@
 3575,'3575','Frederick / Weber',43.451182,-80.486142
 3576,'3576','Weber / Eastwood Collegiate Institute',43.438918,-80.460691
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
-3579,'3579','King / Pandora',43.445207,-80.479099
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
@@ -2079,7 +2057,6 @@
 3727,'3727','King / Martin Grv',43.510267,-80.542983
 3728,'3728','King / Bridge',43.51006,-80.543034
 3729,'3729','Sawmill / Arthur',43.543368,-80.547944
-3730,'3730','King / Scott',43.448199,-80.485487
 3731,'3731','Fairway / River',43.43478,-80.428145
 3733,'3733','Huron / Parkvale',43.389173,-80.471626
 3734,'3734','Parkvale / Huron Natural Area',43.389999,-80.474559
@@ -2403,41 +2380,27 @@
 5004,'5004','Ottawa / Mowat (Temporary Stop)',43.420726,-80.499328
 5005,'5005','Chandler / Elmsdale (Temporary Stop)',43.424219,-80.496308
 5007,'5007','Gatestone / Timbercroft (Temporary Stop)',43.47003,-80.569165
-5009,'5009','Duke / Montrose (Temporary Stop)',43.392247,-80.348583
-5010,'5010','Duke / Dolph (Temporary Stop)',43.394055,-80.351974
 5012,'5012','Beaver Crk Rd / Pineland (Temporary Stop)',43.471599,-80.579549
 5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
 5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
-5016,'5016','Bingemans Vaccination Clinic - Staff Pkng',43.472082,-80.452096
-5017,'5017','Bingemans Vaccination Clinic - Staff Pkng',43.472016,-80.452442
-5018,'5018','Bishop / Eleanor (Temporary Stop)',43.392183,-80.341255
-5019,'5019','Concession / Grand Vly (Temporary Stop)',43.388239,-80.342176
-5020,'5020','Concession / Grand Vly (Temporary Stop)',43.388476,-80.342059
-5021,'5021','Bishop / Concession (Temporary Stop)',43.391783,-80.342703
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
+5023,'5023','King / Stirling (Temporary Stop)',43.443994,-80.476231
 5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5027,'5027','Erinbrook / Marlis (Temporary Stop)',43.404321,-80.492152
-5031,'5031','Queenston / Dolph (Temporary Stop)',43.392397,-80.354488
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
 5038,'5038','Snyders / Brewery (Temporary Stop)',43.404204,-80.666131
 5039,'5039','Brewery / Snyders (Temporary Stop)',43.403908,-80.665673
 5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
 5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
-5042,'5042','Duke / Lowther (Temporary Stop)',43.395012,-80.354341
-5043,'5043','Duke / Dolph (Temporary Stop)',43.393841,-80.352015
-5044,'5044','Duke / Montrose (Temporary Stop)',43.392303,-80.349017
-5045,'5045','Duke / Bishop (Temporary Stop)',43.39115,-80.346767
 5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
 5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
 5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
 5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
-5060,'5060','Duke / Bishop (Temporary Stop)',43.391189,-80.346472
-5071,'5071','Borden / Mill (Temporary Stop)',43.435021,-80.483244
-5072,'5072','Mill / Borden (Temporary Stop)',43.435095,-80.483474
+5066,'5066','King / Stirling (Temporary Stop)',43.444195,-80.476962
 5074,'5074','Mcnaughton / Chalmers (Temporary Stop)',43.360831,-80.300753
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
@@ -2482,4 +2445,3 @@
 7064,'7064','Grand River Hosp - Freeport Campus',43.425691,-80.410937
 7137,'7137','Toyota Cambridge Gt 2',43.419436,-80.37559
 7139,'7139','Toyota Cambridge Gt 1',43.416679,-80.374048
-8006,'8006','Bingemans Vaccination Clinic',43.474697,-80.452201
