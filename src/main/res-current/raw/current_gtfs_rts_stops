@@ -10,8 +10,6 @@
 1009,'1009','Frederick / Lois',43.460916,-80.464637
 1010,'1010','Frederick / River',43.46183,-80.461662
 1011,'1011','Franklin / Lindsay',43.396304,-80.30391
-1012,'1012','River / Manchester',43.458463,-80.454177
-1013,'1013','River / Halliwell',43.457472,-80.450428
 1014,'1014','River / Hickson',43.454284,-80.446675
 1015,'1015','River / Path To Secord',43.452839,-80.445724
 1016,'1016','River / Ottawa',43.451231,-80.444688
@@ -66,8 +64,6 @@
 1070,'1070','River / Stanley Pk Mall',43.449523,-80.443344
 1071,'1071','River / Ottawa',43.451402,-80.444563
 1072,'1072','River / Path To Breckenridge',43.453353,-80.44583
-1073,'1073','River / Halliwell',43.457679,-80.450414
-1074,'1074','River / Manchester',43.458799,-80.454866
 1076,'1076','Frederick / River',43.461921,-80.461958
 1077,'1077','Frederick / Lois',43.461176,-80.46435
 1079,'1079','Frederick / Bruce',43.460067,-80.467858
@@ -535,8 +531,6 @@
 1609,'1609','Dundas / Cambridge St',43.367542,-80.308734
 1610,'1610','Dundas / Roxboro',43.37059,-80.313946
 1611,'1611','Dundas / Jarvis',43.372207,-80.316528
-1612,'1612','Delta Sta',43.373751,-80.318968
-1613,'1613','Coronation / Goldie',43.375527,-80.321988
 1614,'1614','Coronation / Oliver',43.377875,-80.325933
 1615,'1615','Coronation / Cambridge Memorial Hosp',43.379683,-80.328904
 1616,'1616','725 Coronation Blvd',43.38102,-80.331173
@@ -563,14 +557,13 @@
 1642,'1642','King / Grand River Hosp - Freeport Campus',43.424092,-80.412272
 1643,'1643','King / River',43.425275,-80.419994
 1646,'1646','King / Fairway',43.428266,-80.431097
-1647,'1647','Morrison / Grand River Hosp - Freeport Campus',43.426025,-80.413402
-1648,'1648','Morrison / Grand River Blvd',43.427849,-80.41446
 1649,'1649','Morrison / Path To Morrison Pk',43.429984,-80.416379
 1650,'1650','Morrison / Grand River Blvd',43.432091,-80.414604
 1651,'1651','Quinte / Morrison',43.433599,-80.415417
 1652,'1652','Morrison / Quinte',43.431163,-80.416269
 1653,'1653','Morrison / Path To Morrison Pk',43.42984,-80.416368
 1654,'1654','Highland / Eastforest',43.429492,-80.531882
+1656,'1656','Grand River Blvd / River (Temporary Stop)',43.426912,-80.419144
 1657,'1657','Morgan / River',43.427675,-80.420972
 1658,'1658','Morgan / Greendale',43.427334,-80.424744
 1659,'1659','Morgan / Southill',43.428222,-80.427601
@@ -791,6 +784,7 @@
 1940,'1940','Ottawa / Franklin',43.448606,-80.451334
 1941,'1941','Bridge / Bridle',43.485339,-80.488595
 1942,'1942','Bridge / Woolwich',43.482763,-80.484761
+1943,'1943','Lancaster / Bridge',43.481833,-80.483029
 1944,'1944','Lancaster / General',43.479277,-80.484531
 1945,'1945','Lancaster / Lang',43.478062,-80.484505
 1946,'1946','Bridgeport Rd / Lancaster',43.476507,-80.485124
@@ -864,6 +858,7 @@
 2019,'2019','Zeller / Wild Mdw',43.453234,-80.417438
 2020,'2020','Lancaster / Bridgeport Rd',43.477437,-80.484306
 2021,'2021','Lancaster / General',43.479276,-80.484333
+2022,'2022','Bridge / Woolwich',43.482788,-80.484403
 2023,'2023','Bridge / Bridle',43.485412,-80.488414
 2024,'2024','Block Line / Fallowfield',43.418728,-80.466868
 2025,'2025','Block Line / St Marys HS',43.419994,-80.464732
@@ -1202,6 +1197,21 @@
 2421,'2421','Lancaster / Ash',43.469182,-80.484234
 2422,'2422','Lancaster / Union',43.471082,-80.48428
 2423,'2423','Lancaster / Hamel',43.475252,-80.484343
+2424,'2424','Lancaster / Bridge',43.481472,-80.483112
+2425,'2425','Bridge / Tyson',43.481203,-80.480298
+2426,'2426','Bridge / Bloomingdale',43.480456,-80.478289
+2427,'2427','Bridge / Schweitzer',43.478951,-80.474197
+2428,'2428','Bridge / Tagge',43.478121,-80.471879
+2429,'2429','Stanley / Schueller',43.477691,-80.466579
+2430,'2430','Stanley / Tagge',43.479291,-80.467962
+2431,'2431','Stanley / Schweitzer',43.480962,-80.469035
+2432,'2432','Schweitzer / Nelson',43.481567,-80.467324
+2433,'2433','Schweitzer / Daniel',43.48273,-80.463888
+2434,'2434','Daniel / Bloomingdale',43.485285,-80.465386
+2436,'2436','Bloomingdale / Stanley',43.483313,-80.471129
+2437,'2437','Bloomingdale / Prince',43.481847,-80.475297
+2438,'2438','Bloomingdale / Horning',43.4811,-80.477505
+2439,'2439','Bridge / Tyson',43.481111,-80.479755
 2440,'2440','Lancaster / Hamel',43.475054,-80.484456
 2441,'2441','Lancaster / Union',43.471362,-80.484463
 2442,'2442','Lancaster / Ash',43.469291,-80.484381
@@ -1233,10 +1243,7 @@
 2474,'2474','Morgan / Pepperwood',43.428032,-80.427286
 2475,'2475','Morgan / Greendale',43.427311,-80.425224
 2476,'2476','Morgan / River',43.427758,-80.420278
-2477,'2477','River / King',43.425752,-80.419434
 2479,'2479','Morrison / Grand River Blvd',43.428016,-80.414745
-2480,'2480','Morrison / Grand River Hosp - Freeport Campus',43.426065,-80.413528
-2481,'2481','River / King',43.425651,-80.419258
 2484,'2484','Dundas / Monroe',43.359158,-80.295071
 2485,'2485','Dundas / Main',43.357128,-80.291809
 2486,'2486','Dundas / Franklin',43.355095,-80.288415
@@ -1285,6 +1292,9 @@
 2542,'2542','King / Kitchener-Waterloo Collegiate',43.455954,-80.508272
 2543,'2543','King / Agnes',43.455019,-80.50538
 2544,'2544','King / Wellington',43.454391,-80.503209
+2545,'2545','Hollinger / Howard',43.479193,-80.462845
+2546,'2546','Hollinger / Path To Daniel',43.480564,-80.461922
+2547,'2547','Hollinger / Bridge',43.478927,-80.460038
 2561,'2561','Frederick Sta (King / Benton)',43.449249,-80.487976
 2562,'2562','King / Queen',43.449864,-80.489391
 2563,'2563','Weber / E',43.444603,-80.468013
@@ -1325,7 +1335,7 @@
 2605,'2605','1st / Eckert',43.434353,-80.456889
 2606,'2606','Eckert / Dixon',43.434625,-80.45921
 2607,'2607','Blair / Pk Hl',43.362683,-80.321516
-2608,'2608','Pk Hl / George',43.362703,-80.319062
+2608,'2608','George / Pk Hl',43.362509,-80.318835
 2610,'2610','Weber / Wilfred',43.43639,-80.453621
 2611,'2611','Weber / Dellroy',43.435577,-80.451145
 2612,'2612','Weber / Franklin',43.434307,-80.4474
@@ -2383,6 +2393,7 @@
 5012,'5012','Beaver Crk Rd / Pineland (Temporary Stop)',43.471599,-80.579549
 5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
 5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
+5015,'5015','Ottawa / Weber (Temporary Stop)',43.44368,-80.468394
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
 5023,'5023','King / Stirling (Temporary Stop)',43.443994,-80.476231
 5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
@@ -2395,6 +2406,8 @@
 5039,'5039','Brewery / Snyders (Temporary Stop)',43.403908,-80.665673
 5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
 5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
+5047,'5047','Grand River Blvd / Underhill (Temporary Stop)',43.426972,-80.418586
+5048,'5048','Grand River Blvd / Morrison (Temporary Stop)',43.427819,-80.414713
 5053,'5053','Westvale / Gateview (Temporary Stop)',43.45022,-80.557398
 5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
 5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
