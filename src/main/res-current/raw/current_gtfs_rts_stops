@@ -784,9 +784,6 @@
 1940,'1940','Ottawa / Franklin',43.448606,-80.451334
 1941,'1941','Bridge / Bridle',43.485339,-80.488595
 1942,'1942','Bridge / Woolwich',43.482763,-80.484761
-1943,'1943','Lancaster / Bridge',43.481833,-80.483029
-1944,'1944','Lancaster / General',43.479277,-80.484531
-1945,'1945','Lancaster / Lang',43.478062,-80.484505
 1946,'1946','Bridgeport Rd / Lancaster',43.476507,-80.485124
 1947,'1947','Bridgeport Rd / Mackie',43.475544,-80.487333
 1948,'1948','Bridgeport Rd / Lang',43.474945,-80.49028
@@ -803,7 +800,6 @@
 1959,'1959','King / William',43.461682,-80.521531
 1960,'1960','Willis Way Sta',43.462148,-80.523192
 1961,'1961','Erb / Father David Bauer',43.464131,-80.525999
-1962,'1962','Erb / Wells',43.463213,-80.528132
 1963,'1963','Erb / Avondale',43.462258,-80.530328
 1964,'1964','Erb / Roslin',43.461465,-80.532194
 1965,'1965','Erb / Dietz',43.460171,-80.535153
@@ -856,8 +852,6 @@
 2017,'2017','Oldfield / Edenbridge',43.449248,-80.428804
 2018,'2018','Zeller / Susan',43.452656,-80.420612
 2019,'2019','Zeller / Wild Mdw',43.453234,-80.417438
-2020,'2020','Lancaster / Bridgeport Rd',43.477437,-80.484306
-2021,'2021','Lancaster / General',43.479276,-80.484333
 2022,'2022','Bridge / Woolwich',43.482788,-80.484403
 2023,'2023','Bridge / Bridle',43.485412,-80.488414
 2024,'2024','Block Line / Fallowfield',43.418728,-80.466868
@@ -1197,7 +1191,6 @@
 2421,'2421','Lancaster / Ash',43.469182,-80.484234
 2422,'2422','Lancaster / Union',43.471082,-80.48428
 2423,'2423','Lancaster / Hamel',43.475252,-80.484343
-2424,'2424','Lancaster / Bridge',43.481472,-80.483112
 2425,'2425','Bridge / Tyson',43.481203,-80.480298
 2426,'2426','Bridge / Bloomingdale',43.480456,-80.478289
 2427,'2427','Bridge / Schweitzer',43.478951,-80.474197
@@ -1744,7 +1737,6 @@
 3225,'3225','Victoria / Michael',43.449296,-80.501446
 3226,'3226','Central Sta',43.452622,-80.498131
 3227,'3227','Victoria / Joseph',43.450873,-80.499678
-3229,'3229','Ottawa / Strasburg',43.422932,-80.487332
 3237,'3237','Union / Lucan',43.463028,-80.511915
 3238,'3238','Union / Herbert',43.460436,-80.514346
 3242,'3242','Pk / Wood',43.455786,-80.513568
@@ -2025,6 +2017,7 @@
 3664,'3664','University Ave / Countrystone Pk',43.43893,-80.554386
 3665,'3665','University Ave / Pastern',43.491948,-80.490954
 3666,'3666','1548 Fischer-Hallman Rd',43.38953,-80.490931
+3667,'3667','Fischer-Hallman / Bleams',43.402251,-80.496634
 3668,'3668','Fischer-Hallman / Rockwood',43.404086,-80.497331
 3669,'3669','Fischer-Hallman / Cotton Grass',43.408337,-80.502069
 3670,'3670','Fischer-Hallman / Path To Bush Clover',43.410782,-80.504961
@@ -2265,10 +2258,6 @@
 3978,'3978','Sheldon / Thompson',43.407977,-80.296344
 3979,'3979','Sheldon / Balmoral',43.407352,-80.300069
 3980,'3980','Sheldon / Franklin',43.406294,-80.305996
-3981,'3981','180 Sheldon Dr',43.404783,-80.309978
-3982,'3982','Sheldon / Wolseley',43.403095,-80.312307
-3983,'3983','Sheldon / Corydon',43.402809,-80.314208
-3984,'3984','Sheldon / Conestoga',43.402917,-80.318694
 3985,'3985','505 Conestoga Blvd',43.400556,-80.318473
 3986,'3986','Conestoga / Bishop',43.396688,-80.317504
 3987,'3987','Thompson / Lingard',43.411341,-80.288524
@@ -2312,7 +2301,6 @@
 4030,'4030','Bridge / Bechtel Pk',43.48794,-80.492206
 4031,'4031','Bridge / Path To Auburn',43.488124,-80.49213
 4032,'4032','Bridge / University Ave',43.489037,-80.493742
-4033,'4033','Bridge / University Ave',43.489259,-80.493634
 4034,'4034','Bridge / Dansbury',43.496208,-80.501262
 4035,'4035','Bridge / Eastbridge',43.503951,-80.509782
 4036,'4036','Bridge / Chesapeake (S)',43.505863,-80.511143
@@ -2353,6 +2341,10 @@
 4073,'4073','King / Columbia',43.482448,-80.526106
 4074,'4074','Hagey / U Of Waterloo',43.475116,-80.546437
 4075,'4075','Hagey / U Of Waterloo',43.474953,-80.546736
+4076,'4076','Fischer-Hallman / Gatestone',43.470116,-80.568257
+4077,'4077','Fischer-Hallman / Path To Laurel Gt',43.472392,-80.570769
+4078,'4078','Fischer-Hallman / Laurelwood',43.473798,-80.571918
+4079,'4079','Laurelwood / Beaver Crk Rd',43.472385,-80.57944
 4080,'4080','Laurelwood / Brookmill',43.471793,-80.583768
 4081,'4081','Laurelwood / Holly Vw',43.472739,-80.586376
 4082,'4082','Laurelwood / Birchmount',43.472771,-80.590219
@@ -2364,7 +2356,6 @@
 4088,'4088','Erbsville / Cornridge',43.460339,-80.578861
 4089,'4089','King / High Crest',43.535182,-80.554343
 4090,'4090','King / High Crest',43.535225,-80.554207
-4091,'4091','Ottawa / Elmsdale',43.421836,-80.493895
 4093,'4093','Can-Amera / Path To Lena',43.392907,-80.308976
 4094,'4094','Ottawa / Westmount',43.420389,-80.501241
 4095,'4095','Ottawa / Fischer-Hallman',43.417604,-80.510393
@@ -2389,8 +2380,6 @@
 5000,'5000','Chandler / Elmsdale (Temporary Stop)',43.423902,-80.497366
 5004,'5004','Ottawa / Mowat (Temporary Stop)',43.420726,-80.499328
 5005,'5005','Chandler / Elmsdale (Temporary Stop)',43.424219,-80.496308
-5007,'5007','Gatestone / Timbercroft (Temporary Stop)',43.47003,-80.569165
-5012,'5012','Beaver Crk Rd / Pineland (Temporary Stop)',43.471599,-80.579549
 5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
 5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
 5015,'5015','Ottawa / Weber (Temporary Stop)',43.44368,-80.468394
