@@ -22,7 +22,8 @@
 1200,0,'University / King',12
 1301,0,'The Boardwalk Sta',13
 1300,0,'UW Sta',13
-1401,0,'Bathurst',14
+1401,0,'Conestoga Sta',14
+1400,0,'Northland / Rupert',14
 1601,0,'Conestoga College',16
 1600,0,'Waterloo Public Sq Sta',16
 1900,0,'Northfield Sta / St Jacobs Mkt',19
@@ -86,7 +87,7 @@
 20200,0,'Conestoga Sta',202
 20201,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
-20300,0,'Sportsworld Sta',203
+20300,0,'Conestoga College',203
 20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
@@ -97,3 +98,5 @@
 30200,0,'Fairway Sta',302
 90101,0,'Grand River Hosp - Freeport Campus',901
 90100,0,'Trinity Vlg',901
+980101,0,'Ainslie Term',9801
+985101,0,'Gci',9851
