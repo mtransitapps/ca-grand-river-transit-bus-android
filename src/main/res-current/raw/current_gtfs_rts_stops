@@ -148,7 +148,6 @@
 1161,'1161','Hazel / Austin',43.481575,-80.533084
 1162,'1162','Hazel / Waterloo Collegiate Institute',43.478946,-80.531039
 1163,'1163','Hazel / Hickory',43.477898,-80.530219
-1165,'1165','King / University Ave (N Side)',43.476319,-80.525075
 1166,'1166','University Ave / King',43.476025,-80.525782
 1167,'1167','Hazel / Wilfrid Laurier U',43.475513,-80.528259
 1168,'1168','Hazel / Hickory',43.47788,-80.530034
@@ -331,7 +330,6 @@
 1372,'1372','Saginaw / Fairgreen',43.389892,-80.288305
 1373,'1373','Saginaw / Stonecairn',43.390437,-80.292016
 1374,'1374','Saginaw / Cowan',43.389725,-80.296321
-1375,'1375','Frederick Sta (Frederick / Duke)',43.450472,-80.486959
 1376,'1376','Queen Sta (Charles / Benton)',43.44861,-80.48885
 1377,'1377','Queen Sta (Benton / Charles)',43.448145,-80.488374
 1378,'1378','Elgin / Franklin',43.391386,-80.302957
@@ -776,11 +774,7 @@
 1905,'1905','Vanier / Shelley',43.424372,-80.459509
 1906,'1906','Shelley / Courtland',43.421693,-80.459357
 1907,'1907','Waterloo Public Sq Sta',43.464678,-80.522063
-1909,'1909','King / Bridgeport Rd',43.467892,-80.523002
-1910,'1910','King / Elgin',43.4701,-80.523579
-1911,'1911','King / James',43.47247,-80.524054
 1912,'1912','Victoria / Margaret',43.45655,-80.488844
-1913,'1913','King / University Ave',43.476039,-80.524793
 1914,'1914','King / Hickory',43.477724,-80.525163
 1915,'1915','King / Columbia',43.481798,-80.526009
 1916,'1916','King / Weber',43.484988,-80.526677
@@ -1221,7 +1215,6 @@
 2405,'2405','Krug / Samuel',43.451043,-80.477306
 2406,'2406','Highland / Heiman',43.432642,-80.48884
 2407,'2407','Krug / Lancaster',43.449816,-80.480777
-2408,'2408','Weber / Scott',43.450597,-80.484268
 2409,'2409','Wellington / Moore',43.455048,-80.500892
 2410,'2410','Benton / St George',43.446834,-80.489826
 2411,'2411','Wellington / Duke',43.45623,-80.497421
@@ -1328,9 +1321,7 @@
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
 2532,'2532','King / Hickory',43.478347,-80.525517
-2533,'2533','King / University Ave (S Side)',43.475428,-80.524983
 2534,'2534','Weber / Union',43.465385,-80.505732
-2535,'2535','King / Central',43.469804,-80.523742
 2536,'2536','Allen Sta',43.460267,-80.519377
 2537,'2537','Weber / Union',43.465517,-80.50553
 2538,'2538','King / Union',43.458269,-80.515241
@@ -2047,7 +2038,6 @@
 3576,'3576','Weber / Eastwood Collegiate Institute',43.438918,-80.460691
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
 3579,'3579','King / Pandora',43.445207,-80.479099
-3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
@@ -2470,7 +2460,6 @@
 5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
 5015,'5015','Ottawa / Weber (Temporary Stop)',43.44368,-80.468394
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
-5023,'5023','King / Stirling (Temporary Stop)',43.443994,-80.476231
 5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
@@ -2491,8 +2480,9 @@
 5054,'5054','Westvale / Gateview (Temporary Stop)',43.450722,-80.556193
 5055,'5055','Thorndale / Ira Needles (Temporary Stop)',43.442069,-80.564931
 5056,'5056','Thorndale / Ira Needles (Temporary Stop)',43.442084,-80.564491
+5057,'5057','Duke / Ontario (Temporary Stop)',43.451056,-80.488953
 5059,'5059','Fischer-Hallman / Erb (Temporary Stop)',43.452077,-80.553336
-5066,'5066','King / Stirling (Temporary Stop)',43.444195,-80.476962
+5061,'5061','Queen / Duke (Temporary Stop)',43.451052,-80.488258
 5070,'5070','Cambridge Pinebush Vaccination Clinic',43.411732,-80.32189
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
