@@ -299,7 +299,6 @@
 1338,'1338','Sheldon / Corydon',43.403142,-80.315678
 1339,'1339','Conestoga / Sheldon',43.402483,-80.319511
 1340,'1340','500 Conestoga Blvd',43.399637,-80.318311
-1342,'1342','Conestoga College Doon Campus - Door 6',43.389141,-80.406667
 1343,'1343','Can-Amera / Franklin',43.393565,-80.304327
 1344,'1344','Saginaw / Grn Vista',43.390815,-80.299284
 1345,'1345','Saginaw / Cowan',43.38958,-80.296199
@@ -634,8 +633,6 @@
 1726,'1726','Doon Vly / Pinnacle',43.39001,-80.413746
 1727,'1727','Doon Vly / Conestoga College Blvd',43.39081,-80.410186
 1728,'1728','Conestoga College Blvd / Homer Watson',43.388366,-80.411447
-1731,'1731','Conestoga College Doon Campus - Recreation Ctr',43.389629,-80.408074
-1732,'1732','Conestoga College Doon Campus - Door 3',43.390289,-80.403511
 1734,'1734','Doon Vly / Orchard Mill',43.391204,-80.409812
 1735,'1735','Doon Vly / Pinnacle',43.390215,-80.413489
 1736,'1736','Pinnacle / Doon Vly',43.390026,-80.415305
@@ -822,9 +819,6 @@
 1959,'1959','King / William',43.461682,-80.521531
 1960,'1960','Willis Way Sta',43.462148,-80.523192
 1961,'1961','Erb / Father David Bauer',43.464131,-80.525999
-1963,'1963','Erb / Avondale',43.462258,-80.530328
-1964,'1964','Erb / Roslin',43.461465,-80.532194
-1965,'1965','Erb / Dietz',43.460171,-80.535153
 1966,'1966','Erb / Westmount',43.459047,-80.537757
 1967,'1967','Erb / Mcdougall',43.457446,-80.540501
 1968,'1968','Erb / Mulberry',43.456508,-80.542362
@@ -857,11 +851,6 @@
 1996,'1996','Erb / Culpepper',43.454538,-80.547321
 1997,'1997','Erb / Amos',43.455232,-80.545313
 1998,'1998','Erb / Mcdougall',43.456551,-80.541867
-1999,'1999','Erb / Westmount',43.459482,-80.536283
-2000,'2000','Erb / Dietz',43.460687,-80.533603
-2001,'2001','Erb / Roslin',43.461481,-80.531731
-2002,'2002','Erb / Avondale',43.46248,-80.529448
-2003,'2003','Erb / Euclid',43.463193,-80.527786
 2004,'2004','Erb / Father David Bauer',43.463913,-80.5261
 2006,'2006','Erb / Hughes',43.465198,-80.521812
 2007,'2007','Erb / Willow',43.465728,-80.518124
@@ -1309,7 +1298,6 @@
 2529,'2529','Hickory / King (Temporary Stop)',43.478192,-80.525173
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
-2532,'2532','King / Hickory',43.478347,-80.525517
 2534,'2534','Weber / Union',43.465385,-80.505732
 2536,'2536','Allen Sta',43.460267,-80.519377
 2537,'2537','Weber / Union',43.465517,-80.50553
@@ -2015,6 +2003,7 @@
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
 3579,'3579','King / Pandora',43.445207,-80.479099
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
+3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
 3594,'3594','New Bedford / Starboard',43.51061,-80.504294
 3595,'3595','New Bedford / Eastbridge',43.511072,-80.500925
@@ -2455,6 +2444,8 @@
 5069,'5069','Regina / University Ave (Temporary Stop)',43.476102,-80.523666
 5070,'5070','Regina / Marshall (Temporary Stop)',43.473276,-80.52273
 5075,'5075','Regina / Elgin (Temporary Stop)',43.47036,-80.522584
+5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
+5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
