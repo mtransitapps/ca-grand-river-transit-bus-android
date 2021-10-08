@@ -43,9 +43,6 @@
 1043,'1043','Fairway / King (W Side)',43.427546,-80.432883
 1044,'1044','Fairway / Wabanaki',43.423306,-80.43623
 1047,'1047','Fairway / Hwy 8',43.424022,-80.434552
-1048,'1048','Fairway / King',43.428883,-80.431858
-1049,'1049','Fairway / Morgan',43.430448,-80.431658
-1050,'1050','Fairway / Thaler',43.432222,-80.429911
 1051,'1051','1001 Bishop St N',43.393802,-80.332356
 1052,'1052','Fairway / River',43.434718,-80.427955
 1053,'1053','Fairway / Fairway Cres',43.441445,-80.417826
@@ -468,6 +465,7 @@
 1511,'1511','Ainslie Term',43.35717,-80.313529
 1512,'1512','Ainslie Term',43.357332,-80.313503
 1514,'1514','Ainslie Term',43.357656,-80.313462
+1515,'1515','Ainslie Term (Out Of Town Buses)',43.357664,-80.313203
 1516,'1516','Ainslie Term',43.357617,-80.312981
 1517,'1517','Ainslie Term',43.35758,-80.312759
 1518,'1518','Ainslie Term',43.3574,-80.312823
@@ -540,6 +538,7 @@
 1609,'1609','Dundas / Cambridge St',43.367542,-80.308734
 1610,'1610','Dundas / Roxboro',43.37059,-80.313946
 1611,'1611','Dundas / Jarvis',43.372207,-80.316528
+1612,'1612','Delta Sta',43.373751,-80.318968
 1614,'1614','Coronation / Oliver',43.377875,-80.325933
 1615,'1615','Coronation / Cambridge Memorial Hosp',43.379683,-80.328904
 1616,'1616','725 Coronation Blvd',43.38102,-80.331173
@@ -560,7 +559,6 @@
 1632,'1632','Preston Pkwy / Hillview',43.394663,-80.377661
 1633,'1633','Preston Pkwy / Parkview',43.397276,-80.377943
 1635,'1635','Shantz Hl / Preston Pkwy',43.399956,-80.375693
-1636,'1636','Gateway Pk / King',43.405829,-80.386093
 1638,'1638','Gateway Pk / Sportsworld',43.408096,-80.392468
 1640,'1640','King / Deer Rdg',43.410727,-80.399593
 1642,'1642','King / Grand River Hosp - Freeport Campus',43.424092,-80.412272
@@ -731,7 +729,6 @@
 1863,'1863','Bleams / Century Hl',43.408781,-80.466702
 1864,'1864','Strasburg / Bleams',43.40764,-80.475024
 1865,'1865','Strasburg / Old Country',43.411049,-80.476069
-1866,'1866','163 Thaler Ave',43.434146,-80.431117
 1867,'1867','Homer Watson / Doon S',43.389686,-80.42198
 1868,'1868','Homer Watson / Doon S',43.389776,-80.421403
 1870,'1870','Weber / Kinzie',43.432476,-80.439312
@@ -1364,7 +1361,6 @@
 2616,'2616','Weber / Sheldon',43.442252,-80.465138
 2617,'2617','Weber / Sheldon',43.442115,-80.465219
 2618,'2618','Weber / Jackson',43.4399,-80.462807
-2619,'2619','163 Thaler Ave',43.434084,-80.43129
 2620,'2620','George / Blair',43.360932,-80.318788
 2621,'2621','King / Fairway',43.428907,-80.433217
 2622,'2622','King / Morgan',43.429511,-80.435175
@@ -1378,6 +1374,8 @@
 2630,'2630','Franklin / Dreger',43.446482,-80.449477
 2632,'2632','George / N Sq',43.359539,-80.31877
 2633,'2633','Ottawa / Nottingham',43.447688,-80.458723
+2634,'2634','Ottawa / The Aud',43.444945,-80.465235
+2635,'2635','Ottawa / Weber',43.4443,-80.467082
 2636,'2636','Weber / Borden',43.445601,-80.470704
 2641,'2641','Grand Rdg / W River',43.337522,-80.321563
 2642,'2642','W River / Culham',43.34131,-80.321419
@@ -1532,6 +1530,7 @@
 2844,'2844','Weber / Madison',43.448516,-80.480059
 2845,'2845','Weber / Fairview',43.44696,-80.476526
 2847,'2847','Weber / Borden',43.44553,-80.47094
+2850,'2850','Ottawa / Hwy 7',43.445441,-80.463414
 2851,'2851','Ottawa / Nottingham',43.447695,-80.458228
 2853,'2853','Franklin / Ottawa',43.448208,-80.450697
 2854,'2854','Franklin / Penrose',43.446338,-80.44954
@@ -1566,9 +1565,11 @@
 2914,'2914','Stirling / Mill',43.437813,-80.487176
 2915,'2915','Stirling / Courtland',43.440981,-80.484375
 2916,'2916','Stirling / Kaufman Pk',43.442282,-80.482022
+2917,'2917','Charles / Kent',43.443188,-80.477653
 2918,'2918','Charles / Kent',43.443352,-80.477511
 2919,'2919','Charles / Cameron Hts Collegiate Institute',43.445248,-80.481208
 2920,'2920','Kitchener Mkt Sta',43.446425,-80.483624
+2921,'2921','Ottawa / King',43.442129,-80.471169
 2922,'2922','Ottawa / Midland',43.449429,-80.448297
 2923,'2923','River / Stanley Pk Mall',43.449213,-80.443378
 2924,'2924','Kitchener Mkt Sta',43.446282,-80.483798
@@ -1929,10 +1930,7 @@
 3473,'3473','Ira Needles / Penelope',43.417608,-80.55296
 3474,'3474','Block Line / St Marys HS',43.420062,-80.465066
 3476,'3476','Ira Needles / Penelope',43.418388,-80.552656
-3477,'3477','Thaler / Kinzie',43.435413,-80.432633
-3478,'3478','Kinzie / Thaler',43.435724,-80.432433
 3479,'3479','River / Kinzie',43.437171,-80.43096
-3480,'3480','Kinzie / River',43.436717,-80.43126
 3481,'3481','Fairway / Thaler',43.432507,-80.429862
 3482,'3482','Queens / Fischer-Hallman',43.428482,-80.523992
 3485,'3485','Ira Needles / Highland Marketplace',43.425611,-80.552824
@@ -2123,8 +2121,6 @@
 3771,'3771','Columbia / Marsland',43.484377,-80.519865
 3772,'3772','Columbia / Weber',43.483533,-80.522156
 3773,'3773','Columbia / Weber',43.482726,-80.523924
-3776,'3776','560 Parkside Dr',43.494917,-80.544483
-3777,'3777','Parkside / Northfield',43.496888,-80.545815
 3780,'3780','Chesapeake / Pleasant Bay',43.511299,-80.509745
 3781,'3781','Chesapeake / Brigantine',43.509143,-80.517284
 3782,'3782','Chesapeake / Sandy Cv',43.510043,-80.506439
@@ -2417,7 +2413,6 @@
 5005,'5005','Chandler / Elmsdale (Temporary Stop)',43.424219,-80.496308
 5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
 5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
-5015,'5015','Ottawa / Weber (Temporary Stop)',43.44368,-80.468394
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
 5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
@@ -2432,7 +2427,6 @@
 5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
 5047,'5047','Grand River Blvd / Underhill (Temporary Stop)',43.426972,-80.418586
 5048,'5048','Grand River Blvd / Morrison (Temporary Stop)',43.427819,-80.414713
-5050,'5050','Delta Sta (Temporary Stop)',43.372024,-80.318304
 5057,'5057','Duke / Ontario (Temporary Stop)',43.451056,-80.488953
 5058,'5058','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
 5061,'5061','Queen / Duke (Temporary Stop)',43.451052,-80.488258
@@ -2446,6 +2440,9 @@
 5075,'5075','Regina / Elgin (Temporary Stop)',43.47036,-80.522584
 5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
 5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
+5079,'5079','River / Fairway (Temporary Stop)',43.434922,-80.428513
+5080,'5080','River / Kinzie (Temporary Stop)',43.436615,-80.43066
+5081,'5081','River / Fairway (Temporary Stop)',43.434652,-80.428553
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
