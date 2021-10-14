@@ -1,2 +1,1 @@
-Grand River Transit buses for MonTransit.
-Real-time & Offline Schedule. News.
+Grand River Transit buses for MonTransit. Real-Time. News.
