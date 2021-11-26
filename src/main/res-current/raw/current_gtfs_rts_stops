@@ -192,7 +192,6 @@
 1209,'1209','151 Frobisher Dr',43.506055,-80.527997
 1210,'1210','Frobisher / Mcmurray',43.507085,-80.526702
 1211,'1211','Highland / Westforest',43.425154,-80.543771
-1212,'1212','Kraus / Northfield',43.501473,-80.530618
 1213,'1213','Columbia / Ladyslipper',43.449676,-80.5865
 1214,'1214','Columbia / Platinum',43.449188,-80.587122
 1215,'1215','Mcmurray / Northland',43.50894,-80.528472
@@ -914,6 +913,8 @@
 2055,'2055','Manitou / Bleams',43.412141,-80.44922
 2056,'2056','Oldfield / Edenbridge',43.449321,-80.428683
 2057,'2057','Westmount / Block Line',43.411444,-80.499832
+2058,'2058','Bleams / Washburn',43.402714,-80.491863
+2059,'2059','Bleams / Trillium',43.404186,-80.485743
 2060,'2060','Bleams / Colony',43.405828,-80.478714
 2061,'2061','Bleams / Strasburg',43.40701,-80.474506
 2062,'2062','Bleams / Colony',43.40601,-80.478933
@@ -1066,6 +1067,8 @@
 2240,'2240','Albert / Ballantyne',43.348709,-80.311033
 2241,'2241','Ballantyne / Mckay',43.349487,-80.307076
 2242,'2242','Mckay / S',43.350929,-80.307393
+2243,'2243','Ctr / Elliott',43.3528,-80.308581
+2244,'2244','Ctr / Concession',43.354054,-80.308949
 2245,'2245','Grand / S Sq',43.358501,-80.317624
 2246,'2246','Grand / St Andrews',43.356615,-80.317602
 2249,'2249','Cedar / Westgate Ctr',43.351556,-80.329362
@@ -1516,8 +1519,6 @@
 2806,'2806','Davenport / Path To Anndale',43.496865,-80.515897
 2807,'2807','Davenport / Kidsability Ctr',43.49772,-80.51803
 2808,'2808','Davenport / Kingscourt',43.497121,-80.52114
-2809,'2809','Kraus / Conestogo',43.500217,-80.529489
-2810,'2810','Kraus / Northfield',43.501771,-80.53064
 2811,'2811','Davenport / Old Abbey',43.499146,-80.525131
 2812,'2812','Davenport / Contestoga Mall',43.497337,-80.523265
 2813,'2813','Davenport / Kingscourt',43.497047,-80.520608
@@ -1661,6 +1662,7 @@
 3004,'3004','Block Line / Westmount',43.41126,-80.499078
 3005,'3005','Tillsley / Westmount',43.408986,-80.498047
 3016,'3016','Rittenhouse / Block Line',43.413747,-80.483198
+3017,'3017','Strasburg / Block Line',43.416209,-80.480113
 3018,'3018','Strasburg / Blackhorne',43.417105,-80.481156
 3019,'3019','Strasburg / Selkirk',43.41867,-80.482859
 3020,'3020','Strasburg / Kingswood',43.420996,-80.485434
@@ -1967,6 +1969,8 @@
 3501,'3501','Westheights / Path To Brk Grn',43.4221,-80.529435
 3502,'3502','Fischer-Hallman / Path To Bush Clover',43.410383,-80.504799
 3503,'3503','Fischer-Hallman / Max Becker',43.405635,-80.499295
+3504,'3504','Fischer-Hallman / Rockwood',43.403859,-80.497501
+3505,'3505','Fischer-Hallman / Bleams',43.402431,-80.496903
 3506,'3506','1541 Fischer-Hallman Rd',43.389817,-80.491257
 3507,'3507','Oldfield / Brierdale',43.449105,-80.426568
 3508,'3508','Pinebush Sta',43.408311,-80.327284
@@ -2362,8 +2366,6 @@
 4039,'4039','King / Weber (St Jacobs)',43.513992,-80.557162
 4040,'4040','King / Weber (St Jacobs)',43.514195,-80.557017
 4041,'4041','695 Saginaw Pkwy',43.392267,-80.279695
-4042,'4042','Northfield / Davenport',43.503132,-80.528994
-4043,'4043','Northfield / Davenport',43.503641,-80.52829
 4044,'4044','Northfield Technology Campus',43.516788,-80.513942
 4045,'4045','Northfield Technology Campus',43.516562,-80.514077
 4046,'4046','University Ave / Auburn',43.497418,-80.491808
@@ -2437,17 +2439,9 @@
 5005,'5005','Chandler / Elmsdale (Temporary Stop)',43.424219,-80.496308
 5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
-5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
-5027,'5027','Erinbrook / Marlis (Temporary Stop)',43.404321,-80.492152
 5028,'5028','Strasburg / Ottawa (Temporary Stop)',43.423855,-80.488484
-5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
-5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
-5038,'5038','Snyders / Brewery (Temporary Stop)',43.404204,-80.666131
-5039,'5039','Brewery / Snyders (Temporary Stop)',43.403908,-80.665673
-5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
-5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
 5047,'5047','Grand River Blvd / Underhill (Temporary Stop)',43.426972,-80.418586
 5048,'5048','Grand River Blvd / Morrison (Temporary Stop)',43.427819,-80.414713
 5062,'5062','Regina / Young (Temporary Stop)',43.468529,-80.521969
@@ -2478,6 +2472,10 @@
 6107,'6107','Sportsworld Sta',43.410002,-80.393307
 7000,'7000','Snyders / Notre Dame',43.413404,-80.606216
 7001,'7001','Snyders / Notre Dame',43.413341,-80.605695
+7002,'7002','Snyders / Forler',43.405625,-80.656739
+7003,'7003','Snyders / Forler',43.405559,-80.656092
+7004,'7004','Snyders / Brubacher',43.404701,-80.66296
+7005,'7005','Snyders / Coachmans',43.404489,-80.663303
 7006,'7006','Snyders / Mill',43.403452,-80.671385
 7007,'7007','Snyders / Foundry',43.403611,-80.669199
 7008,'7008','Waterloo-Oxford District SS',43.401234,-80.687378
@@ -2497,6 +2495,8 @@
 7033,'7033','Mackays No Frills New Hamburg',43.370367,-80.703937
 7035,'7035','Waterloo St / Victoria',43.387798,-80.710968
 7037,'7037','Highland / Trussler',43.421315,-80.558582
+7038,'7038','560 Snyders Rd E',43.407226,-80.646279
+7039,'7039','560 Snyders Rd E',43.407136,-80.645915
 7040,'7040','Highland / Trussler',43.420881,-80.559194
 7041,'7041','Kitchener Gurdwara',43.417566,-80.580515
 7060,'7060','46 Cedarwoods Cres',43.42717,-80.439684
