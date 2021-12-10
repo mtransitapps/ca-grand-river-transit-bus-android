@@ -148,6 +148,7 @@
 1161,'1161','Hazel / Austin',43.481575,-80.533084
 1162,'1162','Hazel / Waterloo Collegiate Institute',43.478946,-80.531039
 1163,'1163','Hazel / Hickory',43.477898,-80.530219
+1165,'1165','King / University Ave (N Side)',43.476319,-80.525075
 1166,'1166','University Ave / King',43.476025,-80.525782
 1167,'1167','Hazel / Wilfrid Laurier U',43.475513,-80.528259
 1168,'1168','Hazel / Hickory',43.47788,-80.530034
@@ -192,6 +193,7 @@
 1209,'1209','151 Frobisher Dr',43.506055,-80.527997
 1210,'1210','Frobisher / Mcmurray',43.507085,-80.526702
 1211,'1211','Highland / Westforest',43.425154,-80.543771
+1212,'1212','Kraus / Northfield',43.501473,-80.530618
 1213,'1213','Columbia / Ladyslipper',43.449676,-80.5865
 1214,'1214','Columbia / Platinum',43.449188,-80.587122
 1215,'1215','Mcmurray / Northland',43.50894,-80.528472
@@ -298,6 +300,7 @@
 1338,'1338','Sheldon / Corydon',43.403142,-80.315678
 1339,'1339','Conestoga / Sheldon',43.402483,-80.319511
 1340,'1340','500 Conestoga Blvd',43.399637,-80.318311
+1342,'1342','Conestoga College Doon Campus - Door 6',43.389141,-80.406667
 1343,'1343','Can-Amera / Franklin',43.393565,-80.304327
 1344,'1344','Saginaw / Grn Vista',43.390815,-80.299284
 1345,'1345','Saginaw / Cowan',43.38958,-80.296199
@@ -563,6 +566,7 @@
 1632,'1632','Preston Pkwy / Hillview',43.394663,-80.377661
 1633,'1633','Preston Pkwy / Parkview',43.397276,-80.377943
 1635,'1635','Shantz Hl / Preston Pkwy',43.399956,-80.375693
+1636,'1636','Gateway Pk / King',43.405829,-80.386093
 1638,'1638','Gateway Pk / Sportsworld',43.408096,-80.392468
 1640,'1640','King / Deer Rdg',43.410727,-80.399593
 1642,'1642','King / Grand River Hosp - Freeport Campus',43.424092,-80.412272
@@ -635,6 +639,8 @@
 1726,'1726','Doon Vly / Pinnacle',43.39001,-80.413746
 1727,'1727','Doon Vly / Conestoga College Blvd',43.39081,-80.410186
 1728,'1728','Conestoga College Blvd / Homer Watson',43.388366,-80.411447
+1731,'1731','Conestoga College Doon Campus - Recreation Ctr',43.389629,-80.408074
+1732,'1732','Conestoga College Doon Campus - Door 3',43.390289,-80.403511
 1734,'1734','Doon Vly / Orchard Mill',43.391204,-80.409812
 1735,'1735','Doon Vly / Pinnacle',43.390215,-80.413489
 1736,'1736','Pinnacle / Doon Vly',43.390026,-80.415305
@@ -773,7 +779,12 @@
 1905,'1905','Vanier / Shelley',43.424372,-80.459509
 1906,'1906','Shelley / Courtland',43.421693,-80.459357
 1907,'1907','Waterloo Public Sq Sta',43.464678,-80.522063
+1909,'1909','King / Bridgeport Rd',43.467892,-80.523002
+1910,'1910','King / Elgin',43.4701,-80.523579
+1911,'1911','King / James',43.47247,-80.524054
 1912,'1912','Victoria / Margaret',43.45655,-80.488844
+1913,'1913','King / University Ave',43.476039,-80.524793
+1914,'1914','King / Hickory',43.477724,-80.525163
 1915,'1915','King / Columbia',43.481798,-80.526009
 1916,'1916','King / Weber',43.484988,-80.526677
 1917,'1917','King / Blue Spgs',43.487476,-80.527263
@@ -802,6 +813,7 @@
 1940,'1940','Ottawa / Franklin',43.448606,-80.451334
 1941,'1941','Bridge / Bridle',43.485339,-80.488595
 1942,'1942','Bridge / Woolwich',43.482763,-80.484761
+1943,'1943','Lancaster / Bridge',43.481833,-80.483029
 1944,'1944','Lancaster / General',43.479277,-80.484531
 1945,'1945','Lancaster / Lang',43.478062,-80.484505
 1946,'1946','Bridgeport Rd / Lancaster',43.476507,-80.485124
@@ -878,6 +890,7 @@
 2019,'2019','Zeller / Wild Mdw',43.453234,-80.417438
 2020,'2020','Lancaster / Bridgeport Rd',43.477437,-80.484306
 2021,'2021','Lancaster / General',43.479276,-80.484333
+2022,'2022','Bridge / Woolwich',43.482788,-80.484403
 2023,'2023','Bridge / Bridle',43.485412,-80.488414
 2024,'2024','Block Line / Fallowfield',43.418728,-80.466868
 2025,'2025','Block Line / St Marys HS',43.419994,-80.464732
@@ -948,6 +961,7 @@
 2093,'2093','King / Cedar',43.537853,-80.553778
 2094,'2094','King / Front',43.540823,-80.553219
 2095,'2095','King / Wyman',43.50503,-80.537344
+2096,'2096','King / Northfield',43.50125,-80.533159
 2097,'2097','Beverly / Dundas',43.366432,-80.305464
 2098,'2098','200 Beverly St',43.368594,-80.304027
 2099,'2099','Samuelson / Kimberley',43.370491,-80.303517
@@ -1146,6 +1160,7 @@
 2336,'2336','Victoria / Natchez',43.468414,-80.450675
 2337,'2337','Victoria / Path To Rothsay',43.469532,-80.447389
 2338,'2338','Highland / Path To Charles Best',43.435017,-80.490182
+2339,'2339','Lackner / Victoria',43.470941,-80.440885
 2340,'2340','Blair / Bismark',43.371182,-80.332498
 2341,'2341','Blair / Clearview',43.372528,-80.333984
 2342,'2342','Blair / Leslie',43.37392,-80.336882
@@ -1212,6 +1227,7 @@
 2406,'2406','Highland / Heiman',43.432642,-80.48884
 2407,'2407','Krug / Lancaster',43.449816,-80.480777
 2408,'2408','Weber / Scott',43.450597,-80.484268
+2409,'2409','Wellington / Moore',43.455048,-80.500892
 2410,'2410','Benton / St George',43.446834,-80.489826
 2411,'2411','Wellington / Duke',43.45623,-80.497421
 2412,'2412','Wellington / Weber',43.456923,-80.495327
@@ -1226,6 +1242,7 @@
 2421,'2421','Lancaster / Ash',43.469182,-80.484234
 2422,'2422','Lancaster / Union',43.471082,-80.48428
 2423,'2423','Lancaster / Hamel',43.475252,-80.484343
+2424,'2424','Lancaster / Bridge',43.481472,-80.483112
 2425,'2425','Bridge / Tyson',43.481203,-80.480298
 2426,'2426','Bridge / Bloomingdale',43.480456,-80.478289
 2427,'2427','Bridge / Schweitzer',43.478951,-80.474197
@@ -1314,7 +1331,10 @@
 2529,'2529','Hickory / King (Temporary Stop)',43.478192,-80.525173
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
+2532,'2532','King / Hickory',43.478347,-80.525517
+2533,'2533','King / University Ave (S Side)',43.475428,-80.524983
 2534,'2534','Weber / Union',43.465385,-80.505732
+2535,'2535','King / Central',43.469804,-80.523742
 2536,'2536','Allen Sta',43.460267,-80.519377
 2537,'2537','Weber / Union',43.465517,-80.50553
 2538,'2538','King / Union',43.458269,-80.515241
@@ -1517,6 +1537,8 @@
 2806,'2806','Davenport / Path To Anndale',43.496865,-80.515897
 2807,'2807','Davenport / Kidsability Ctr',43.49772,-80.51803
 2808,'2808','Davenport / Kingscourt',43.497121,-80.52114
+2809,'2809','Kraus / Conestogo',43.500217,-80.529489
+2810,'2810','Kraus / Northfield',43.501771,-80.53064
 2811,'2811','Davenport / Old Abbey',43.499146,-80.525131
 2812,'2812','Davenport / Contestoga Mall',43.497337,-80.523265
 2813,'2813','Davenport / Kingscourt',43.497047,-80.520608
@@ -1605,6 +1627,7 @@
 2936,'2936','Ottawa / King',43.442091,-80.471602
 2937,'2937','Ottawa / Alpine',43.425096,-80.484077
 2938,'2938','Strasburg / Ottawa',43.422436,-80.487324
+2939,'2939','Strasburg / Barwood',43.420889,-80.485632
 2940,'2940','Strasburg / Selkirk',43.418717,-80.48318
 2941,'2941','Strasburg / Blackhorne',43.416681,-80.480912
 2942,'2942','Rittenhouse / Brookfield',43.412764,-80.482971
@@ -1631,6 +1654,7 @@
 2972,'2972','Fischer-Hallman / Forest Hts CI',43.425789,-80.521245
 2975,'2975','Fitzgerald / Chester',43.352617,-80.282734
 2976,'2976','Dundas / Franklin',43.354563,-80.286956
+2977,'2977','Dundas / Main',43.357238,-80.291567
 2978,'2978','Dundas / Monroe',43.359382,-80.295194
 2979,'2979','Dundas / Elgin',43.361154,-80.298069
 2980,'2980','Dundas / Maple Bush',43.353479,-80.285296
@@ -1678,6 +1702,7 @@
 3055,'3055','Hoffman / Meinzinger',43.432077,-80.482671
 3056,'3056','Hoffman / Kehl',43.431411,-80.484703
 3057,'3057','Hoffman / Highland',43.430557,-80.487082
+3058,'3058','Highland / Heiman',43.432933,-80.488817
 3063,'3063','Hoffman / Highland',43.430529,-80.486873
 3064,'3064','Hoffman / Kehl',43.43125,-80.484927
 3065,'3065','Hoffman / Meinzinger',43.431969,-80.482697
@@ -1783,6 +1808,7 @@
 3225,'3225','Victoria / Michael',43.449296,-80.501446
 3226,'3226','Central Sta',43.452622,-80.498131
 3227,'3227','Victoria / Joseph',43.450873,-80.499678
+3229,'3229','Ottawa / Strasburg',43.422932,-80.487332
 3237,'3237','Union / Lucan',43.463028,-80.511915
 3238,'3238','Union / Herbert',43.460436,-80.514346
 3242,'3242','Pk / Wood',43.455786,-80.513568
@@ -2021,6 +2047,7 @@
 3576,'3576','Weber / Eastwood Collegiate Institute',43.438918,-80.460691
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
 3579,'3579','King / Pandora',43.445207,-80.479099
+3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
@@ -2365,6 +2392,8 @@
 4039,'4039','King / Weber (St Jacobs)',43.513992,-80.557162
 4040,'4040','King / Weber (St Jacobs)',43.514195,-80.557017
 4041,'4041','695 Saginaw Pkwy',43.392267,-80.279695
+4042,'4042','Northfield / Davenport',43.503132,-80.528994
+4043,'4043','Northfield / Davenport',43.503641,-80.52829
 4044,'4044','Northfield Technology Campus',43.516788,-80.513942
 4045,'4045','Northfield Technology Campus',43.516562,-80.514077
 4046,'4046','University Ave / Auburn',43.497418,-80.491808
@@ -2437,12 +2466,26 @@
 5004,'5004','Ottawa / Mowat (Temporary Stop)',43.420726,-80.499328
 5005,'5005','Chandler / Elmsdale (Temporary Stop)',43.424219,-80.496308
 5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
+5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
+5015,'5015','Ottawa / Weber (Temporary Stop)',43.44368,-80.468394
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
+5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
+5027,'5027','Erinbrook / Marlis (Temporary Stop)',43.404321,-80.492152
 5028,'5028','Strasburg / Ottawa (Temporary Stop)',43.423855,-80.488484
+5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
+5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
+5038,'5038','Snyders / Brewery (Temporary Stop)',43.404204,-80.666131
+5039,'5039','Brewery / Snyders (Temporary Stop)',43.403908,-80.665673
+5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
+5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
 5047,'5047','Grand River Blvd / Underhill (Temporary Stop)',43.426972,-80.418586
 5048,'5048','Grand River Blvd / Morrison (Temporary Stop)',43.427819,-80.414713
+5050,'5050','Delta Sta (Temporary Stop)',43.372024,-80.318304
+5057,'5057','Duke / Ontario (Temporary Stop)',43.451056,-80.488953
+5058,'5058','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
+5061,'5061','Queen / Duke (Temporary Stop)',43.451052,-80.488258
 5062,'5062','Regina / Young (Temporary Stop)',43.468529,-80.521969
 5063,'5063','Regina / Elgin (Temporary Stop)',43.470036,-80.522377
 5064,'5064','Regina / Marshall (Temporary Stop)',43.472686,-80.522373
