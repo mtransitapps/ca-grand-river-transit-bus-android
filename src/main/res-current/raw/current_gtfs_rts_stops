@@ -572,6 +572,8 @@
 1642,'1642','King / Grand River Hosp - Freeport Campus',43.424092,-80.412272
 1643,'1643','King / River',43.425275,-80.419994
 1646,'1646','King / Fairway',43.428266,-80.431097
+1647,'1647','Morrison / Grand River Hosp - Freeport Campus',43.426025,-80.413402
+1648,'1648','Morrison / Grand River Blvd',43.427849,-80.41446
 1649,'1649','Morrison / Path To Morrison Pk',43.429984,-80.416379
 1650,'1650','Morrison / Grand River Blvd',43.432091,-80.414604
 1651,'1651','Quinte / Morrison',43.433599,-80.415417
@@ -1290,7 +1292,10 @@
 2474,'2474','Morgan / Pepperwood',43.428032,-80.427286
 2475,'2475','Morgan / Greendale',43.427311,-80.425224
 2476,'2476','Morgan / River',43.427758,-80.420278
+2477,'2477','River / King',43.425752,-80.419434
 2479,'2479','Morrison / Grand River Blvd',43.428016,-80.414745
+2480,'2480','Morrison / Grand River Hosp - Freeport Campus',43.426065,-80.413528
+2481,'2481','River / King',43.425651,-80.419258
 2482,'2482','Dundas / Chalmers',43.362947,-80.301336
 2483,'2483','Dundas / Elgin',43.360871,-80.297875
 2484,'2484','Dundas / Monroe',43.359158,-80.295071
@@ -1332,7 +1337,6 @@
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
 2532,'2532','King / Hickory',43.478347,-80.525517
-2533,'2533','King / University Ave (S Side)',43.475428,-80.524983
 2534,'2534','Weber / Union',43.465385,-80.505732
 2535,'2535','King / Central',43.469804,-80.523742
 2536,'2536','Allen Sta',43.460267,-80.519377
