@@ -70,6 +70,7 @@
 1074,'1074','River / Manchester',43.458799,-80.454866
 1076,'1076','Frederick / River',43.461921,-80.461958
 1077,'1077','Frederick / Lois',43.461176,-80.46435
+1078,'1078','U Of Waterloo Sta',43.474441,-80.539424
 1079,'1079','Frederick / Bruce',43.460067,-80.467858
 1080,'1080','Frederick / Frederick Mall',43.458514,-80.472755
 1081,'1081','Frederick / Ann',43.459366,-80.47009
@@ -174,6 +175,7 @@
 1189,'1189','Highpoint / Dogwood',43.486709,-80.563096
 1190,'1190','Highpoint / Rolling Hls',43.48914,-80.562992
 1191,'1191','Highpoint / Northfield',43.491089,-80.564264
+1192,'1192','Strasburg / Ottawa',43.423096,-80.487733
 1193,'1193','Northlake / Highpoint',43.493619,-80.563961
 1194,'1194','Northlake / Grn Mdw',43.494709,-80.559538
 1195,'1195','Northlake / Skylark',43.494509,-80.556657
@@ -202,6 +204,7 @@
 1218,'1218','Rupert / Bathurst',43.508971,-80.536597
 1219,'1219','Northland / Rupert',43.506595,-80.534454
 1220,'1220','Northland / Bathurst',43.50587,-80.535618
+1223,'1223','U Of Waterloo Sta',43.474023,-80.540433
 1232,'1232','Bismark / Westmount Mews',43.370765,-80.328325
 1233,'1233','Blair / Bismark',43.371378,-80.332516
 1234,'1234','Blair / Clearview',43.372277,-80.333511
@@ -229,6 +232,8 @@
 1257,'1257','Northfield Sta',43.497645,-80.54404
 1258,'1258','Franklin / Thomas',43.424341,-80.310053
 1259,'1259','Franklin / Edward',43.427023,-80.309849
+1260,'1260','U Of Waterloo Sta',43.474034,-80.541205
+1262,'1262','U Of Waterloo Sta',43.474173,-80.540778
 1265,'1265','Winston / Cooper',43.422128,-80.292845
 1266,'1266','Winston / Darren',43.421322,-80.297795
 1267,'1267','Winston / Path To Erindale',43.421761,-80.301929
@@ -471,7 +476,6 @@
 1511,'1511','Ainslie Term',43.35717,-80.313529
 1512,'1512','Ainslie Term',43.357332,-80.313503
 1514,'1514','Ainslie Term',43.357656,-80.313462
-1515,'1515','Ainslie Term (Out Of Town Buses)',43.357664,-80.313203
 1516,'1516','Ainslie Term',43.357617,-80.312981
 1517,'1517','Ainslie Term',43.35758,-80.312759
 1518,'1518','Ainslie Term',43.3574,-80.312823
@@ -861,6 +865,7 @@
 1986,'1986','Westvale / Heather Hl',43.448493,-80.558367
 1987,'1987','Victoria / Edna',43.460814,-80.474929
 1988,'1988','Westvale / Edenvalley',43.445863,-80.560152
+1989,'1989','Victoria / Natchez',43.469229,-80.448953
 1990,'1990','Old Zeller / Zeller',43.45412,-80.411792
 1991,'1991','Old Zeller / Path To Pebblecreek Ct',43.452806,-80.40775
 1992,'1992','Fischer-Hallman / Thorndale',43.448678,-80.550034
@@ -963,7 +968,6 @@
 2093,'2093','King / Cedar',43.537853,-80.553778
 2094,'2094','King / Front',43.540823,-80.553219
 2095,'2095','King / Wyman',43.50503,-80.537344
-2096,'2096','King / Northfield',43.50125,-80.533159
 2097,'2097','Beverly / Dundas',43.366432,-80.305464
 2098,'2098','200 Beverly St',43.368594,-80.304027
 2099,'2099','Samuelson / Kimberley',43.370491,-80.303517
@@ -1327,6 +1331,7 @@
 2515,'2515','Ring Rd / UW - S Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
 2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
+2519,'2519','Ring Rd / UW - BC Matthews Hall',43.473929,-80.546237
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
@@ -1588,6 +1593,9 @@
 2862,'2862','King / Kingsbury',43.429258,-80.434881
 2863,'2863','Strasburg / Strasburg Transit Garage',43.425349,-80.490289
 2864,'2864','Chandler / Bonfield',43.424732,-80.495285
+2865,'2865','Elmsdale / Chandler',43.423847,-80.496689
+2866,'2866','Elmsdale / Ottawa',43.422008,-80.494221
+2867,'2867','Ottawa / Howland',43.42122,-80.497254
 2868,'2868','Ottawa / Path To Chandler',43.420667,-80.500582
 2869,'2869','Ottawa / Westmount',43.420352,-80.502585
 2870,'2870','Ottawa / Howe',43.419649,-80.506594
@@ -1598,8 +1606,12 @@
 2898,'2898','Ottawa / Pinedale',43.419848,-80.504677
 2899,'2899','Coronation / Oliver',43.377713,-80.326172
 2900,'2900','Coronation / Goldie',43.375428,-80.322311
+2901,'2901','Ottawa / Howland',43.42114,-80.496735
+2902,'2902','Elmsdale / Ottawa',43.422179,-80.49417
+2903,'2903','Elmsdale / Chandler',43.424036,-80.496675
 2904,'2904','Chandler / Bonfield',43.424641,-80.4952
 2905,'2905','Strasburg / Strasburg Transit Garage',43.425005,-80.49017
+2906,'2906','Ottawa / Strasburg',43.422929,-80.486739
 2907,'2907','Ottawa / Alpine',43.425108,-80.483636
 2908,'2908','Ottawa / Imperial',43.429289,-80.481336
 2910,'2910','Ottawa / Hoffman',43.431444,-80.4795
@@ -1983,6 +1995,7 @@
 3482,'3482','Queens / Fischer-Hallman',43.428482,-80.523992
 3485,'3485','Ira Needles / Highland Marketplace',43.425611,-80.552824
 3487,'3487','Ira Needles / Highland Marketplace',43.425822,-80.552635
+3488,'3488','Fairway Sta',43.422421,-80.441808
 3489,'3489','Fairway Sta',43.422469,-80.441514
 3490,'3490','Fairway Sta',43.422513,-80.441244
 3491,'3491','Fairway Sta',43.422557,-80.440987
@@ -2263,7 +2276,9 @@
 3882,'3882','Davenport / Conestoga Mall',43.49834,-80.524049
 3884,'3884','728 Arthur St S',43.561598,-80.558679
 3885,'3885','728 Arthur St S',43.56113,-80.558683
+3887,'3887','Phillip / Columbia',43.476409,-80.539399
 3888,'3888','Conestoga College Cambridge Campus',43.385284,-80.398103
+3889,'3889','Phillip / Columbia',43.476497,-80.539751
 3890,'3890','Fischer-Hallman / Columbia',43.467368,-80.565646
 3891,'3891','Fischer-Hallman / Highland',43.431587,-80.525376
 3892,'3892','Fischer-Hallman / Highland',43.431308,-80.52544
@@ -2382,6 +2397,7 @@
 4024,'4024','Columbia / Bennington',43.465022,-80.57329
 4025,'4025','450 Columbia St W',43.466501,-80.569081
 4026,'4026','Columbia / Fischer-Hallman',43.467909,-80.565832
+4027,'4027','Laurelwood / Bearinger',43.474911,-80.572782
 4028,'4028','Bridge / Path To Brigantine',43.508032,-80.516305
 4029,'4029','Bridge / Path To Wissler',43.50789,-80.516392
 4030,'4030','Bridge / Bechtel Pk',43.48794,-80.492206
@@ -2445,9 +2461,12 @@
 4088,'4088','Erbsville / Cornridge',43.460339,-80.578861
 4089,'4089','King / High Crest',43.535182,-80.554343
 4090,'4090','King / High Crest',43.535225,-80.554207
+4091,'4091','Ottawa / Elmsdale',43.421836,-80.493895
+4092,'4092','Ottawa / Elmsdale',43.421665,-80.493616
 4093,'4093','Can-Amera / Path To Lena',43.392907,-80.308976
 4094,'4094','Ottawa / Westmount',43.420389,-80.501241
 4095,'4095','Ottawa / Fischer-Hallman',43.417604,-80.510393
+4096,'4096','Ottawa / Fischer-Hallman',43.416364,-80.511539
 4097,'4097','Ottawa / River',43.451064,-80.444139
 4098,'4098','Ottawa / River',43.45094,-80.443771
 4099,'4099','Bridgeport Rd / Albert',43.467471,-80.524761
@@ -2480,7 +2499,7 @@
 5028,'5028','Strasburg / Ottawa (Temporary Stop)',43.423855,-80.488484
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
-5038,'5038','Snyders / Brewery (Temporary Stop)',43.404204,-80.666131
+5038,'5038','Snyders / Brewery (Temporary Stop)',43.404236,-80.666139
 5039,'5039','Brewery / Snyders (Temporary Stop)',43.403908,-80.665673
 5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
 5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
@@ -2500,9 +2519,7 @@
 5075,'5075','Regina / Elgin (Temporary Stop)',43.47036,-80.522584
 5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
 5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
-5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
-5083,'5083','Highland / Heiman (Temporary Stop)',43.433158,-80.488968
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
