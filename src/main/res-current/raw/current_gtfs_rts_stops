@@ -70,7 +70,6 @@
 1074,'1074','River / Manchester',43.458799,-80.454866
 1076,'1076','Frederick / River',43.461921,-80.461958
 1077,'1077','Frederick / Lois',43.461176,-80.46435
-1078,'1078','U Of Waterloo Sta',43.474441,-80.539424
 1079,'1079','Frederick / Bruce',43.460067,-80.467858
 1080,'1080','Frederick / Frederick Mall',43.458514,-80.472755
 1081,'1081','Frederick / Ann',43.459366,-80.47009
@@ -204,7 +203,6 @@
 1218,'1218','Rupert / Bathurst',43.508971,-80.536597
 1219,'1219','Northland / Rupert',43.506595,-80.534454
 1220,'1220','Northland / Bathurst',43.50587,-80.535618
-1223,'1223','U Of Waterloo Sta',43.474023,-80.540433
 1232,'1232','Bismark / Westmount Mews',43.370765,-80.328325
 1233,'1233','Blair / Bismark',43.371378,-80.332516
 1234,'1234','Blair / Clearview',43.372277,-80.333511
@@ -232,8 +230,6 @@
 1257,'1257','Northfield Sta',43.497645,-80.54404
 1258,'1258','Franklin / Thomas',43.424341,-80.310053
 1259,'1259','Franklin / Edward',43.427023,-80.309849
-1260,'1260','U Of Waterloo Sta',43.474034,-80.541205
-1262,'1262','U Of Waterloo Sta',43.474173,-80.540778
 1265,'1265','Winston / Cooper',43.422128,-80.292845
 1266,'1266','Winston / Darren',43.421322,-80.297795
 1267,'1267','Winston / Path To Erindale',43.421761,-80.301929
@@ -475,7 +471,6 @@
 1510,'1510','Concession / Cameron',43.354863,-80.307126
 1511,'1511','Ainslie Term',43.35717,-80.313529
 1512,'1512','Ainslie Term',43.357332,-80.313503
-1514,'1514','Ainslie Term',43.357656,-80.313462
 1516,'1516','Ainslie Term',43.357617,-80.312981
 1517,'1517','Ainslie Term',43.35758,-80.312759
 1518,'1518','Ainslie Term',43.3574,-80.312823
@@ -584,7 +579,6 @@
 1652,'1652','Morrison / Quinte',43.431163,-80.416269
 1653,'1653','Morrison / Path To Morrison Pk',43.42984,-80.416368
 1654,'1654','Highland / Eastforest',43.429492,-80.531882
-1656,'1656','Grand River Blvd / River (Temporary Stop)',43.426912,-80.419144
 1657,'1657','Morgan / River',43.427675,-80.420972
 1658,'1658','Morgan / Greendale',43.427334,-80.424744
 1659,'1659','Morgan / Southill',43.428222,-80.427601
@@ -1233,7 +1227,6 @@
 2406,'2406','Highland / Heiman',43.432642,-80.48884
 2407,'2407','Krug / Lancaster',43.449816,-80.480777
 2408,'2408','Weber / Scott',43.450597,-80.484268
-2409,'2409','Wellington / Moore',43.455048,-80.500892
 2410,'2410','Benton / St George',43.446834,-80.489826
 2411,'2411','Wellington / Duke',43.45623,-80.497421
 2412,'2412','Wellington / Weber',43.456923,-80.495327
@@ -1331,14 +1324,12 @@
 2515,'2515','Ring Rd / UW - S Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
 2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
-2519,'2519','Ring Rd / UW - BC Matthews Hall',43.473929,-80.546237
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
 2524,'2524','Columbia / Hazel',43.480027,-80.53113
 2525,'2525','Columbia / Holly',43.480784,-80.529071
 2526,'2526','Columbia / King',43.481709,-80.526381
-2529,'2529','Hickory / King (Temporary Stop)',43.478192,-80.525173
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
 2532,'2532','King / Hickory',43.478347,-80.525517
@@ -1995,7 +1986,6 @@
 3482,'3482','Queens / Fischer-Hallman',43.428482,-80.523992
 3485,'3485','Ira Needles / Highland Marketplace',43.425611,-80.552824
 3487,'3487','Ira Needles / Highland Marketplace',43.425822,-80.552635
-3488,'3488','Fairway Sta',43.422421,-80.441808
 3489,'3489','Fairway Sta',43.422469,-80.441514
 3490,'3490','Fairway Sta',43.422513,-80.441244
 3491,'3491','Fairway Sta',43.422557,-80.440987
@@ -2276,9 +2266,7 @@
 3882,'3882','Davenport / Conestoga Mall',43.49834,-80.524049
 3884,'3884','728 Arthur St S',43.561598,-80.558679
 3885,'3885','728 Arthur St S',43.56113,-80.558683
-3887,'3887','Phillip / Columbia',43.476409,-80.539399
 3888,'3888','Conestoga College Cambridge Campus',43.385284,-80.398103
-3889,'3889','Phillip / Columbia',43.476497,-80.539751
 3890,'3890','Fischer-Hallman / Columbia',43.467368,-80.565646
 3891,'3891','Fischer-Hallman / Highland',43.431587,-80.525376
 3892,'3892','Fischer-Hallman / Highland',43.431308,-80.52544
@@ -2485,38 +2473,9 @@
 4147,'4147','Bishop / Hespeler Rd',43.395341,-80.3233
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
-5000,'5000','Chandler / Elmsdale (Temporary Stop)',43.423902,-80.497366
-5004,'5004','Ottawa / Mowat (Temporary Stop)',43.420726,-80.499328
-5005,'5005','Chandler / Elmsdale (Temporary Stop)',43.424219,-80.496308
-5013,'5013','Ottawa / Fischer-Hallman (Temporary Stop)',43.417274,-80.510466
-5014,'5014','St Andrews / Grand (Temporary Stop)',43.356574,-80.317951
-5015,'5015','Ottawa / Weber (Temporary Stop)',43.44368,-80.468394
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
-5024,'5024','Bleams / Trillium (Temporary Stop)',43.404452,-80.484631
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
-5027,'5027','Erinbrook / Marlis (Temporary Stop)',43.404321,-80.492152
-5028,'5028','Strasburg / Ottawa (Temporary Stop)',43.423855,-80.488484
-5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
-5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
-5038,'5038','Snyders / Brewery (Temporary Stop)',43.404236,-80.666139
-5039,'5039','Brewery / Snyders (Temporary Stop)',43.403908,-80.665673
-5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
-5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
-5047,'5047','Grand River Blvd / Underhill (Temporary Stop)',43.426972,-80.418586
-5048,'5048','Grand River Blvd / Morrison (Temporary Stop)',43.427819,-80.414713
-5050,'5050','Delta Sta (Temporary Stop)',43.372024,-80.318304
-5057,'5057','Duke / Ontario (Temporary Stop)',43.451056,-80.488953
-5058,'5058','Frederick Sta (Duke / Frederick)',43.450346,-80.487229
-5061,'5061','Queen / Duke (Temporary Stop)',43.451052,-80.488258
-5062,'5062','Regina / Young (Temporary Stop)',43.468529,-80.521969
-5063,'5063','Regina / Elgin (Temporary Stop)',43.470036,-80.522377
-5064,'5064','Regina / Marshall (Temporary Stop)',43.472686,-80.522373
-5065,'5065','Regina / University Ave (Temporary Stop)',43.476501,-80.523595
-5068,'5068','Hickory / Regina (Temporary Stop)',43.47813,-80.524254
-5069,'5069','Regina / University Ave (Temporary Stop)',43.476102,-80.523666
-5070,'5070','Regina / Marshall (Temporary Stop)',43.473276,-80.52273
-5075,'5075','Regina / Elgin (Temporary Stop)',43.47036,-80.522584
 5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
 5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476

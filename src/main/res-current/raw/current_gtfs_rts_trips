@@ -44,7 +44,6 @@
 2800,0,'Stanley Pk',28
 2900,0,'Conestoga Sta',29
 2901,0,'The Boardwalk Sta',29
-3000,0,'Ring Rd',30
 3101,0,'Columbia / Sundew',31
 3100,0,'Conestoga Sta',31
 3300,0,'Block Line Sta',33
@@ -83,14 +82,12 @@
 7600,0,'Pioneer Pk Plz',76
 7701,0,'New Hamburg',77
 7700,0,'The Boardwalk Sta',77
-11001,0,'Conestoga College',110
-11000,0,'Fairway Sta',110
 20101,0,'Conestoga College',201
 20100,0,'Conestoga Sta',201
 20200,0,'Conestoga Sta',202
 20201,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
-20300,0,'Conestoga College',203
+20300,0,'Sportsworld Sta',203
 20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
@@ -101,5 +98,3 @@
 30200,0,'Fairway Sta',302
 90101,0,'Grand River Hosp - Freeport Campus',901
 90100,0,'Trinity Vlg',901
-980101,0,'Ainslie Term',9801
-985101,0,'Gci',9851
