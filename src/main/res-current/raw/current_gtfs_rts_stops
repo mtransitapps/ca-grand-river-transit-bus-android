@@ -70,6 +70,7 @@
 1074,'1074','River / Manchester',43.458799,-80.454866
 1076,'1076','Frederick / River',43.461921,-80.461958
 1077,'1077','Frederick / Lois',43.461176,-80.46435
+1078,'1078','U Of Waterloo Sta',43.474441,-80.539424
 1079,'1079','Frederick / Bruce',43.460067,-80.467858
 1080,'1080','Frederick / Frederick Mall',43.458514,-80.472755
 1081,'1081','Frederick / Ann',43.459366,-80.47009
@@ -111,7 +112,6 @@
 1119,'1119','Columbia / UW - Ron Eydt Vlg',43.471381,-80.555467
 1120,'1120','Columbia / UW - Vlg 1',43.473163,-80.550483
 1121,'1121','Chesapeake / Chesapeake Cres',43.510993,-80.513805
-1123,'1123','U Of Waterloo Sta',43.472642,-80.541207
 1126,'1126','Conestoga Sta',43.498289,-80.529109
 1127,'1127','Conestoga Sta',43.498036,-80.528999
 1128,'1128','Conestoga Sta',43.498071,-80.528838
@@ -203,6 +203,7 @@
 1218,'1218','Rupert / Bathurst',43.508971,-80.536597
 1219,'1219','Northland / Rupert',43.506595,-80.534454
 1220,'1220','Northland / Bathurst',43.50587,-80.535618
+1223,'1223','U Of Waterloo Sta',43.474023,-80.540433
 1232,'1232','Bismark / Westmount Mews',43.370765,-80.328325
 1233,'1233','Blair / Bismark',43.371378,-80.332516
 1234,'1234','Blair / Clearview',43.372277,-80.333511
@@ -230,6 +231,7 @@
 1257,'1257','Northfield Sta',43.497645,-80.54404
 1258,'1258','Franklin / Thomas',43.424341,-80.310053
 1259,'1259','Franklin / Edward',43.427023,-80.309849
+1264,'1264','U Of Waterloo Sta',43.474476,-80.539874
 1265,'1265','Winston / Cooper',43.422128,-80.292845
 1266,'1266','Winston / Darren',43.421322,-80.297795
 1267,'1267','Winston / Path To Erindale',43.421761,-80.301929
@@ -471,6 +473,8 @@
 1510,'1510','Concession / Cameron',43.354863,-80.307126
 1511,'1511','Ainslie Term',43.35717,-80.313529
 1512,'1512','Ainslie Term',43.357332,-80.313503
+1514,'1514','Ainslie Term',43.357656,-80.313462
+1515,'1515','Ainslie Term (Out Of Town Buses)',43.357664,-80.313203
 1516,'1516','Ainslie Term',43.357617,-80.312981
 1517,'1517','Ainslie Term',43.35758,-80.312759
 1518,'1518','Ainslie Term',43.3574,-80.312823
@@ -859,7 +863,6 @@
 1986,'1986','Westvale / Heather Hl',43.448493,-80.558367
 1987,'1987','Victoria / Edna',43.460814,-80.474929
 1988,'1988','Westvale / Edenvalley',43.445863,-80.560152
-1989,'1989','Victoria / Natchez',43.469229,-80.448953
 1990,'1990','Old Zeller / Zeller',43.45412,-80.411792
 1991,'1991','Old Zeller / Path To Pebblecreek Ct',43.452806,-80.40775
 1992,'1992','Fischer-Hallman / Thorndale',43.448678,-80.550034
@@ -1324,7 +1327,7 @@
 2515,'2515','Ring Rd / UW - S Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
 2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
-2521,'2521','Columbia / Phillip',43.476804,-80.540193
+2519,'2519','Ring Rd / UW - BC Matthews Hall',43.473929,-80.546237
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
 2524,'2524','Columbia / Hazel',43.480027,-80.53113
@@ -1986,6 +1989,7 @@
 3482,'3482','Queens / Fischer-Hallman',43.428482,-80.523992
 3485,'3485','Ira Needles / Highland Marketplace',43.425611,-80.552824
 3487,'3487','Ira Needles / Highland Marketplace',43.425822,-80.552635
+3488,'3488','Fairway Sta',43.422421,-80.441808
 3489,'3489','Fairway Sta',43.422469,-80.441514
 3490,'3490','Fairway Sta',43.422513,-80.441244
 3491,'3491','Fairway Sta',43.422557,-80.440987
@@ -2115,7 +2119,6 @@
 3679,'3679','Bridge / Dansbury',43.495943,-80.50128
 3680,'3680','Bridge / Crimson',43.492771,-80.497805
 3682,'3682','Hazel / Wilfrid Laurier U',43.475344,-80.528333
-3683,'3683','University Ave / U Of Waterloo',43.468939,-80.53914
 3685,'3685','Erbsville / Westside Marketplace',43.4479,-80.572632
 3687,'3687','Erb / Erbsville Ct',43.448332,-80.565666
 3689,'3689','Erbsville / Westside Marketplace',43.447999,-80.572483
@@ -2266,7 +2269,9 @@
 3882,'3882','Davenport / Conestoga Mall',43.49834,-80.524049
 3884,'3884','728 Arthur St S',43.561598,-80.558679
 3885,'3885','728 Arthur St S',43.56113,-80.558683
+3887,'3887','Phillip / Columbia',43.476409,-80.539399
 3888,'3888','Conestoga College Cambridge Campus',43.385284,-80.398103
+3889,'3889','Phillip / Columbia',43.476497,-80.539751
 3890,'3890','Fischer-Hallman / Columbia',43.467368,-80.565646
 3891,'3891','Fischer-Hallman / Highland',43.431587,-80.525376
 3892,'3892','Fischer-Hallman / Highland',43.431308,-80.52544
@@ -2275,7 +2280,6 @@
 3895,'3895','Fischer-Hallman / Westmount',43.406717,-80.500091
 3896,'3896','Fischer-Hallman / Cotton Grass',43.407489,-80.501542
 3897,'3897','Belmont / Glasgow',43.451984,-80.517195
-3898,'3898','Columbia / U Of Waterloo',43.475009,-80.545981
 3899,'3899','Columbia / U Of Waterloo',43.474462,-80.546591
 3900,'3900','Lexington / Davenport',43.493051,-80.512576
 3901,'3901','330 The Boardwalk',43.437644,-80.562984
@@ -2474,8 +2478,6 @@
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
-5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
-5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
 5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
