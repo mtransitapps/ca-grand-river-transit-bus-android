@@ -148,7 +148,6 @@
 1161,'1161','Hazel / Austin',43.481575,-80.533084
 1162,'1162','Hazel / Waterloo Collegiate Institute',43.478946,-80.531039
 1163,'1163','Hazel / Hickory',43.477898,-80.530219
-1165,'1165','King / University Ave (N Side)',43.476319,-80.525075
 1166,'1166','University Ave / King',43.476025,-80.525782
 1167,'1167','Hazel / Wilfrid Laurier U',43.475513,-80.528259
 1168,'1168','Hazel / Hickory',43.47788,-80.530034
@@ -785,12 +784,7 @@
 1905,'1905','Vanier / Shelley',43.424372,-80.459509
 1906,'1906','Shelley / Courtland',43.421693,-80.459357
 1907,'1907','Waterloo Public Sq Sta',43.464678,-80.522063
-1909,'1909','King / Bridgeport Rd',43.467892,-80.523002
-1910,'1910','King / Elgin',43.4701,-80.523579
-1911,'1911','King / James',43.47247,-80.524054
 1912,'1912','Victoria / Margaret',43.45655,-80.488844
-1913,'1913','King / University Ave',43.476039,-80.524793
-1914,'1914','King / Hickory',43.477724,-80.525163
 1915,'1915','King / Columbia',43.481798,-80.526009
 1916,'1916','King / Weber',43.484988,-80.526677
 1917,'1917','King / Blue Spgs',43.487476,-80.527263
@@ -1335,11 +1329,10 @@
 2524,'2524','Columbia / Hazel',43.480027,-80.53113
 2525,'2525','Columbia / Holly',43.480784,-80.529071
 2526,'2526','Columbia / King',43.481709,-80.526381
+2529,'2529','Hickory / King (Temporary Stop)',43.478192,-80.525173
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
-2532,'2532','King / Hickory',43.478347,-80.525517
 2534,'2534','Weber / Union',43.465385,-80.505732
-2535,'2535','King / Central',43.469804,-80.523742
 2536,'2536','Allen Sta',43.460267,-80.519377
 2537,'2537','Weber / Union',43.465517,-80.50553
 2538,'2538','King / Union',43.458269,-80.515241
@@ -2060,7 +2053,6 @@
 3576,'3576','Weber / Eastwood Collegiate Institute',43.438918,-80.460691
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
 3579,'3579','King / Pandora',43.445207,-80.479099
-3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
@@ -2480,6 +2472,14 @@
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
+5062,'5062','Regina / Young (Temporary Stop)',43.468529,-80.521969
+5063,'5063','Regina / Elgin (Temporary Stop)',43.470036,-80.522377
+5064,'5064','Regina / Marshall (Temporary Stop)',43.472686,-80.522373
+5065,'5065','Regina / University Ave (Temporary Stop)',43.476501,-80.523595
+5068,'5068','Hickory / Regina (Temporary Stop)',43.47813,-80.524254
+5069,'5069','Regina / University Ave (Temporary Stop)',43.476102,-80.523666
+5070,'5070','Regina / Marshall (Temporary Stop)',43.473276,-80.52273
+5075,'5075','Regina / Elgin (Temporary Stop)',43.47036,-80.522584
 5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
 5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
