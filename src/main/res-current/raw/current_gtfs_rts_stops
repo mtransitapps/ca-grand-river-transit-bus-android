@@ -28,7 +28,6 @@
 1028,'1028','Block Line / Kingswood',43.417682,-80.473346
 1029,'1029','Cooper / Queen',43.432338,-80.308223
 1030,'1030','Ottawa / Heritage',43.454922,-80.433087
-1031,'1031','Franklin / Grn Gt',43.356365,-80.285888
 1032,'1032','Lennox Lewis / Activa Sportsplex',43.42291,-80.468877
 1033,'1033','Block Line / Hanover',43.419023,-80.4666
 1034,'1034','The Boardwalk / Medical Ctr',43.440144,-80.565631
@@ -374,10 +373,6 @@
 1410,'1410','Rose / Preston HS',43.391403,-80.364471
 1411,'1411','Argyle / Vine',43.393052,-80.363107
 1412,'1412','Argyle / Hamilton',43.394628,-80.361572
-1413,'1413','Hamilton / Westminster',43.394134,-80.360244
-1414,'1414','Westminster / King',43.395647,-80.358511
-1415,'1415','Westminster / Duke',43.396587,-80.357625
-1416,'1416','Westminster / Lawrence',43.398593,-80.355653
 1417,'1417','Eagle / Concession',43.404616,-80.347623
 1418,'1418','Concession / Gdn',43.402604,-80.346817
 1419,'1419','Concession / Dolph',43.400042,-80.346017
@@ -527,7 +522,6 @@
 1585,'1585','King / Eagle',43.398523,-80.36368
 1586,'1586','King / Waterloo',43.397255,-80.361199
 1587,'1587','King / Westminster',43.395617,-80.358067
-1588,'1588','King / Lowther',43.394179,-80.355292
 1589,'1589','King / Dolph',43.392959,-80.352959
 1590,'1590','Sportsworld Sta',43.409699,-80.392846
 1591,'1591','King / Bishop',43.389789,-80.346621
@@ -540,11 +534,7 @@
 1600,'1600','Delta Sta',43.37289,-80.318037
 1601,'1601','Dundas / Hopeton',43.370454,-80.313935
 1602,'1602','Dundas / Cambridge St',43.367389,-80.30886
-1603,'1603','Dundas / Beverly',43.365897,-80.306272
 1605,'1605','Wellington / Main',43.359285,-80.311289
-1606,'1606','Beverly / Kerr',43.361982,-80.309624
-1607,'1607','124 Beverly St',43.364597,-80.3072
-1608,'1608','Dundas / Grantham',43.366259,-80.306515
 1609,'1609','Dundas / Cambridge St',43.367542,-80.308734
 1610,'1610','Dundas / Roxboro',43.37059,-80.313946
 1611,'1611','Dundas / Jarvis',43.372207,-80.316528
@@ -584,7 +574,6 @@
 1652,'1652','Morrison / Quinte',43.431163,-80.416269
 1653,'1653','Morrison / Path To Morrison Pk',43.42984,-80.416368
 1654,'1654','Highland / Eastforest',43.429492,-80.531882
-1655,'1655','Grand River Hosp - Freeport Campus',43.425691,-80.410937
 1656,'1656','Grand River Blvd / River',43.426912,-80.419144
 1657,'1657','Morgan / River',43.427675,-80.420972
 1658,'1658','Morgan / Greendale',43.427334,-80.424744
@@ -962,9 +951,6 @@
 2093,'2093','King / Cedar',43.537853,-80.553778
 2094,'2094','King / Front',43.540823,-80.553219
 2095,'2095','King / Wyman',43.50503,-80.537344
-2097,'2097','Beverly / Dundas',43.366432,-80.305464
-2098,'2098','200 Beverly St',43.368594,-80.304027
-2099,'2099','Samuelson / Kimberley',43.370491,-80.303517
 2100,'2100','Elmwood / Moscrip',43.371678,-80.307385
 2101,'2101','Elmwood / Brock',43.373225,-80.310386
 2102,'2102','Elmwood / Jarvis',43.374737,-80.313257
@@ -1153,7 +1139,6 @@
 2336,'2336','Victoria / Natchez',43.468414,-80.450675
 2337,'2337','Victoria / Path To Rothsay',43.469532,-80.447389
 2338,'2338','Highland / Path To Charles Best',43.435017,-80.490182
-2339,'2339','Lackner / Victoria',43.470941,-80.440885
 2340,'2340','Blair / Bismark',43.371182,-80.332498
 2341,'2341','Blair / Clearview',43.372528,-80.333984
 2342,'2342','Blair / Leslie',43.37392,-80.336882
@@ -1284,17 +1269,6 @@
 2476,'2476','Morgan / River',43.427758,-80.420278
 2477,'2477','River / King',43.425752,-80.419434
 2479,'2479','Morrison / Grand River Blvd',43.428016,-80.414745
-2480,'2480','Morrison / Grand River Hosp - Freeport Campus',43.426065,-80.413528
-2481,'2481','River / King',43.425651,-80.419258
-2482,'2482','Dundas / Chalmers',43.362947,-80.301336
-2483,'2483','Dundas / Elgin',43.360871,-80.297875
-2484,'2484','Dundas / Monroe',43.359158,-80.295071
-2485,'2485','Dundas / Main',43.357128,-80.291809
-2486,'2486','Dundas / Franklin',43.355095,-80.288415
-2487,'2487','Grn Gt / Ferncliffe',43.356637,-80.282256
-2488,'2488','Nottinghill / Honey',43.356099,-80.279386
-2489,'2489','Wesley / Maple Bush',43.355408,-80.277282
-2490,'2490','Wesley / Fitzgerald',43.35381,-80.276707
 2491,'2491','Margaret / Breithaupt Ctr',43.465284,-80.496555
 2492,'2492','Union / Margaret',43.467219,-80.50031
 2493,'2493','Union / Ellis',43.466329,-80.502765
@@ -1356,15 +1330,6 @@
 2575,'2575','4th / Kingsway',43.434243,-80.452813
 2576,'2576','4th / Connaught',43.431361,-80.454606
 2579,'2579','Queen Sta (Charles / Benton)',43.448338,-80.487879
-2580,'2580','Connaught / Woodhaven',43.428522,-80.446378
-2581,'2581','Traynor / Connaught',43.427821,-80.444902
-2582,'2582','Greenfield / Traynor',43.425582,-80.445478
-2583,'2583','Greenfield / Kingsway',43.424518,-80.441436
-2584,'2584','Greenfield / Kingsway',43.424716,-80.441533
-2585,'2585','Greenfield / Traynor',43.425616,-80.445206
-2586,'2586','Traynor / Connaught',43.427893,-80.44479
-2587,'2587','Connaught / Woodhaven',43.428721,-80.44671
-2590,'2590','Connaught / 4th',43.431052,-80.454015
 2591,'2591','4th / Wilson',43.429153,-80.455898
 2592,'2592','Wilson / Franklin',43.42687,-80.453052
 2593,'2593','Wilson / Fairlawn',43.424462,-80.448565
@@ -1446,7 +1411,6 @@
 2683,'2683','Westmount / William',43.455662,-80.529069
 2685,'2685','Westmount / John',43.454342,-80.52767
 2689,'2689','Belmont / Union',43.4549,-80.51905
-2690,'2690','Margaret / Victoria',43.456024,-80.488723
 2692,'2692','545 Belmont Ave W',43.450409,-80.516159
 2693,'2693','Belmont / Path To Marina',43.449401,-80.515485
 2694,'2694','Belmont / Gage',43.447595,-80.514288
@@ -1646,12 +1610,6 @@
 2969,'2969','Fischer-Hallman / Ottawa',43.41657,-80.51088
 2971,'2971','Fischer-Hallman / Mcgarry',43.42342,-80.518818
 2972,'2972','Fischer-Hallman / Forest Hts CI',43.425789,-80.521245
-2975,'2975','Fitzgerald / Chester',43.352617,-80.282734
-2976,'2976','Dundas / Franklin',43.354563,-80.286956
-2977,'2977','Dundas / Main',43.357238,-80.291567
-2978,'2978','Dundas / Monroe',43.359382,-80.295194
-2979,'2979','Dundas / Elgin',43.361154,-80.298069
-2980,'2980','Dundas / Maple Bush',43.353479,-80.285296
 2981,'2981','Fischer-Hallman / Queens',43.428211,-80.523413
 2982,'2982','Fischer-Hallman / Forest Hts CI',43.42616,-80.521786
 2983,'2983','Fischer-Hallman / Mcgarry',43.423557,-80.519299
@@ -1978,7 +1936,6 @@
 3490,'3490','Fairway Sta',43.422513,-80.441244
 3491,'3491','Fairway Sta',43.422557,-80.440987
 3493,'3493','Fairway Sta',43.421803,-80.441781
-3495,'3495','Fairway Sta',43.421447,-80.441669
 3497,'3497','Fairway Sta',43.421754,-80.44159
 3499,'3499','Fairway Sta',43.422106,-80.441683
 3500,'3500','Westheights / Path To Brk Grn',43.422346,-80.529181
@@ -2359,7 +2316,7 @@
 4011,'4011','Centennial / Forwell',43.471842,-80.433607
 4012,'4012','Columbia / Erbsville',43.461946,-80.581186
 4013,'4013','Columbia / Cavendish',43.463893,-80.576576
-4014,'4014','Laurelwood / Sir John A Macdonald SS',43.47029,-80.594731
+4014,'4014','Laurelwood / Laurel Hts SS',43.47029,-80.594731
 4015,'4015','Waterloo Public Sq Sta',43.463941,-80.522184
 4016,'4016','Bridge / Chesapeake (N)',43.509082,-80.517909
 4017,'4017','Columbia / Salzburg',43.460368,-80.582848
@@ -2461,13 +2418,10 @@
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455593,-80.487896
 5002,'5002','King / Stonegate (Temporary Stop)',43.424166,-80.413262
-5006,'5006','Connaught / 9th (Temporary Stop)',43.429371,-80.449003
-5007,'5007','Connaught / 9th (Temporary Stop)',43.429548,-80.449263
 5008,'5008','Wellington / Roseview (Temporary Stop)',43.363898,-80.310506
 5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369505,-80.308552
 5010,'5010','Wellington / Roseview (Temporary Stop)',43.363804,-80.31076
 5022,'5022','Benton / St George (Temporary Stop)',43.44658,-80.49032
-5023,'5023','King / Stirling (Temporary Stop)',43.443997,-80.476231
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
 5038,'5038','Louisa / Brewery (Temporary Stop)',43.401683,-80.662605
@@ -2481,7 +2435,7 @@
 5068,'5068','Hickory / Regina (Temporary Stop)',43.47813,-80.524254
 5069,'5069','Regina / University Ave (Temporary Stop)',43.476102,-80.523666
 5070,'5070','Regina / Marshall (Temporary Stop)',43.473276,-80.52273
-5075,'5075','Regina / Elgin (Temporary Stop)',43.47036,-80.522584
+5075,'5075','Regina / Elgin (Temporary Stop)',43.470934,-80.522728
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
@@ -2522,10 +2476,5 @@
 7039,'7039','560 Snyders Rd E',43.407136,-80.645915
 7040,'7040','Highland / Trussler',43.420881,-80.559194
 7041,'7041','Kitchener Gurdwara',43.417566,-80.580515
-7060,'7060','46 Cedarwoods Cres',43.42717,-80.439684
-7061,'7061','Kingsbury Medical Ctr',43.428828,-80.435497
-7062,'7062','Sunbeam Ctr',43.429314,-80.439944
-7063,'7063','Trinity Vlg',43.429522,-80.441356
-7064,'7064','Grand River Hosp - Freeport Campus',43.425691,-80.410937
 7137,'7137','Toyota Cambridge Gt 2',43.419436,-80.37559
 7139,'7139','Toyota Cambridge Gt 1',43.416679,-80.374048
