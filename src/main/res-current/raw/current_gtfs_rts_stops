@@ -1151,9 +1151,6 @@
 2366,'2366','Krug / Becker',43.454212,-80.46749
 2367,'2367','Highland / Queen',43.440922,-80.497704
 2368,'2368','Highland / Queens',43.440974,-80.498372
-2369,'2369','Krug / Cambridge Ave',43.455591,-80.463881
-2370,'2370','Krug / Eton',43.456016,-80.462381
-2371,'2371','Krug / Sherwood',43.457235,-80.461097
 2372,'2372','Krug / River',43.458318,-80.457824
 2373,'2373','Lorraine / Birkshire',43.457822,-80.448262
 2374,'2374','Grand Rdg / St Andrews',43.340687,-80.333682
@@ -1177,7 +1174,6 @@
 2393,'2393','Eagle / King',43.398783,-80.363043
 2394,'2394','Lorraine / Birkshire',43.457762,-80.448843
 2395,'2395','Krug / River',43.458329,-80.458306
-2396,'2396','Krug / Sherwood',43.457495,-80.460934
 2398,'2398','Homer Watson / Bleams',43.410267,-80.461582
 2399,'2399','Beasley / Homer Watson',43.402018,-80.457601
 2400,'2400','Krug / Becker',43.454294,-80.467711
@@ -2394,6 +2390,10 @@
 5008,'5008','Wellington / Roseview (Temporary Stop)',43.363898,-80.310506
 5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369505,-80.308552
 5010,'5010','Wellington / Roseview (Temporary Stop)',43.363804,-80.31076
+5018,'5018','Sherwood / Cambridge Ave (Temporary Stop)',43.455035,-80.462459
+5019,'5019','Sherwood / Krug (Temporary Stop)',43.457439,-80.460313
+5020,'5020','Krug / Sherwood (Temporary Stop)',43.457674,-80.460383
+5021,'5021','Sherwood / Cambridge Ave (Temporary Stop)',43.45527,-80.462173
 5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
