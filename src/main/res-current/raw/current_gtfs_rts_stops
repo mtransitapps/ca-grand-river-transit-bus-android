@@ -97,8 +97,6 @@
 1105,'1105','Columbia / Erbsville',43.462463,-80.580775
 1106,'1106','Erbsville / Willow Wood',43.465168,-80.584193
 1107,'1107','Laurelwood / Erbsville',43.471456,-80.59247
-1108,'1108','Laurelwood / Birchmount',43.472751,-80.589507
-1109,'1109','Laurelwood / Brookmill',43.472042,-80.585098
 1110,'1110','Laurelwood / Beaver Crk Cres',43.471615,-80.581589
 1111,'1111','Laurelwood / Beaver Crk Rd',43.472228,-80.579397
 1112,'1112','Laurelwood / Laurel Gt',43.474317,-80.574585
@@ -450,11 +448,6 @@
 1493,'1493','Franklin / Path To The Greenway',43.383275,-80.300259
 1494,'1494','Franklin / Ave',43.380062,-80.299
 1495,'1495','Franklin / Athlone',43.375251,-80.297093
-1496,'1496','Clyde / Franklin',43.371608,-80.293274
-1497,'1497','Clyde / Bluerock',43.372534,-80.290212
-1498,'1498','Clyde / Grand River Conservation Authority',43.373136,-80.287082
-1499,'1499','Dobbie / Clyde',43.372845,-80.285296
-1500,'1500','Dobbie / Orion',43.370219,-80.284277
 1501,'1501','Dobbie / Savage',43.3678,-80.283355
 1502,'1502','100 Savage Dr',43.366548,-80.286283
 1503,'1503','Franklin / Hilltop',43.364746,-80.291895
@@ -589,7 +582,7 @@
 1672,'1672','Sunrise Ctr Sta',43.415376,-80.517044
 1675,'1675','Sunrise Ctr Sta',43.415249,-80.517083
 1676,'1676','International / Wake Robin',43.413517,-80.517444
-1678,'1678','Lackner / Victoria',43.470895,-80.440663
+1678,'1678','Victoria / Bingemans Ctr Dr',43.471591,-80.442214
 1680,'1680','Natchez / Rothsay',43.468143,-80.448749
 1681,'1681','Natchez / Matthew',43.465638,-80.446472
 1682,'1682','Halifax / Natchez',43.463527,-80.445564
@@ -949,11 +942,9 @@
 2101,'2101','Elmwood / Brock',43.373225,-80.310386
 2102,'2102','Elmwood / Jarvis',43.374737,-80.313257
 2103,'2103','Elmwood / Brooklyne',43.376513,-80.316644
-2104,'2104','Ave / Gail',43.378351,-80.310908
 2105,'2105','Bleams / Strasburg',43.406873,-80.474218
 2106,'2106','Franklin / Winston',43.420719,-80.310586
 2107,'2107','Franklin / Winston',43.420973,-80.310279
-2108,'2108','Elgin / Ave',43.37845,-80.306388
 2109,'2109','Elgin / Winter',43.376762,-80.305704
 2110,'2110','Elgin / Galt Ave',43.373939,-80.303465
 2111,'2111','Elgin / Bronson',43.372065,-80.302742
@@ -1049,8 +1040,6 @@
 2238,'2238','Glenview / Henry',43.347328,-80.308952
 2239,'2239','Glenview / Albert',43.347102,-80.310311
 2240,'2240','Albert / Ballantyne',43.348709,-80.311033
-2241,'2241','Ballantyne / Mckay',43.349487,-80.307076
-2242,'2242','Mckay / S',43.350929,-80.307393
 2243,'2243','Ctr / Elliott',43.3528,-80.308581
 2244,'2244','Ctr / Concession',43.354054,-80.308949
 2249,'2249','Cedar / Westgate Ctr',43.351556,-80.329362
@@ -2162,7 +2151,6 @@
 3856,'3856','Baldwin / Guelph',43.441747,-80.313031
 3857,'3857','Franklin / Edward',43.426843,-80.309963
 3858,'3858','Dunbar / Ind',43.38928,-80.328699
-3860,'3860','Ave / Path To Thunderbird',43.378733,-80.308558
 3861,'3861','Cedar / St Andrews',43.352325,-80.323961
 3862,'3862','Cedar / Grand',43.353242,-80.317621
 3863,'3863','Cedar / Grand',43.353425,-80.318075
@@ -2173,7 +2161,6 @@
 3868,'3868','Parkside / Bearinger',43.485796,-80.546991
 3869,'3869','Research & Technology Sta',43.481734,-80.5461
 3870,'3870','Hagey / Frank Tompa',43.477515,-80.548406
-3871,'3871','Brooklyne / Gln',43.377132,-80.313316
 3873,'3873','Arthur / 1st',43.592563,-80.560931
 3877,'3877','690 Bishop St N',43.392839,-80.336776
 3878,'3878','690 Bishop St N',43.393044,-80.33635
@@ -2398,6 +2385,10 @@
 5020,'5020','Krug / Sherwood (Temporary Stop)',43.457674,-80.460383
 5021,'5021','Sherwood / Cambridge Ave (Temporary Stop)',43.45527,-80.462173
 5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
+5029,'5029','Brooklyne / Gln (Temporary Stop)',43.376987,-80.314123
+5030,'5030','Henry / S (Temporary Stop)',43.350502,-80.30997
+5031,'5031','Dundas / Cambridge St (Temporary Stop)',43.367797,-80.30917
+5032,'5032','Dundas / Cambridge St (Temporary Stop)',43.367551,-80.309224
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
 5038,'5038','Louisa / Brewery (Temporary Stop)',43.401683,-80.662605
@@ -2412,7 +2403,6 @@
 5069,'5069','Regina / University Ave (Temporary Stop)',43.476102,-80.523666
 5070,'5070','Regina / Marshall (Temporary Stop)',43.473276,-80.52273
 5075,'5075','Regina / Elgin (Temporary Stop)',43.470934,-80.522728
-5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
 5083,'5083','Highland / Heiman (Temporary Stop)',43.433158,-80.488968
