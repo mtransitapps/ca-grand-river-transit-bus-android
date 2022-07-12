@@ -448,6 +448,9 @@
 1493,'1493','Franklin / Path To The Greenway',43.383275,-80.300259
 1494,'1494','Franklin / Ave',43.380062,-80.299
 1495,'1495','Franklin / Athlone',43.375251,-80.297093
+1498,'1498','Clyde / Grand River Conservation Authority',43.373136,-80.287082
+1499,'1499','Dobbie / Clyde',43.372845,-80.285296
+1500,'1500','Dobbie / Orion',43.370219,-80.284277
 1501,'1501','Dobbie / Savage',43.3678,-80.283355
 1502,'1502','100 Savage Dr',43.366548,-80.286283
 1503,'1503','Franklin / Hilltop',43.364746,-80.291895
@@ -1145,6 +1148,9 @@
 2366,'2366','Krug / Becker',43.454212,-80.46749
 2367,'2367','Highland / Queen',43.440922,-80.497704
 2368,'2368','Highland / Queens',43.440974,-80.498372
+2369,'2369','Krug / Cambridge Ave',43.455591,-80.463881
+2370,'2370','Krug / Eton',43.456016,-80.462381
+2371,'2371','Krug / Sherwood',43.457235,-80.461097
 2372,'2372','Krug / River',43.458318,-80.457824
 2373,'2373','Lorraine / Birkshire',43.457822,-80.448262
 2374,'2374','Grand Rdg / St Andrews',43.340687,-80.333682
@@ -1168,6 +1174,7 @@
 2393,'2393','Eagle / King',43.398783,-80.363043
 2394,'2394','Lorraine / Birkshire',43.457762,-80.448843
 2395,'2395','Krug / River',43.458329,-80.458306
+2396,'2396','Krug / Sherwood',43.457495,-80.460934
 2398,'2398','Homer Watson / Bleams',43.410267,-80.461582
 2399,'2399','Beasley / Homer Watson',43.402018,-80.457601
 2400,'2400','Krug / Becker',43.454294,-80.467711
@@ -1394,7 +1401,7 @@
 2698,'2698','Belmont / Metzloff',43.441146,-80.509508
 2699,'2699','Belmont / Highland',43.440141,-80.508367
 2701,'2701','Highland / Patricia',43.440498,-80.505522
-2702,'2702','Highland / Vancamp',43.441028,-80.502708
+2702,'2702','Highland / W',43.441205,-80.501582
 2705,'2705','Queen / Schneider',43.444565,-80.494453
 2706,'2706','Queen / Courtland',43.44564,-80.493344
 2713,'2713','Benton / Church',43.447469,-80.489411
@@ -2380,10 +2387,6 @@
 5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369505,-80.308552
 5010,'5010','Wellington / Roseview (Temporary Stop)',43.363804,-80.31076
 5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095
-5018,'5018','Sherwood / Cambridge Ave (Temporary Stop)',43.455035,-80.462459
-5019,'5019','Sherwood / Krug (Temporary Stop)',43.457439,-80.460313
-5020,'5020','Krug / Sherwood (Temporary Stop)',43.457674,-80.460383
-5021,'5021','Sherwood / Cambridge Ave (Temporary Stop)',43.45527,-80.462173
 5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
 5029,'5029','Brooklyne / Gln (Temporary Stop)',43.376987,-80.314123
 5030,'5030','Henry / S (Temporary Stop)',43.350502,-80.30997
