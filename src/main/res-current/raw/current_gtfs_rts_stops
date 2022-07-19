@@ -136,8 +136,7 @@
 1150,'1150','Cedarbrae / Path To Heasley Pk',43.487946,-80.550089
 1151,'1151','Flint / Kingswood',43.423224,-80.482215
 1152,'1152','Cedarbrae / Sprucehill',43.489613,-80.548061
-1155,'1155','Albert / Weber',43.491552,-80.537559
-1156,'1156','Albert / Longwood',43.490533,-80.539508
+1154,'1154','Parkside / Weber (Temporary Stop)',43.492592,-80.544621
 1158,'1158','Hazel / Albert',43.485723,-80.539087
 1159,'1159','Hazel / Tamarack',43.484962,-80.536647
 1160,'1160','Hazel / Smallwood',43.483265,-80.534703
@@ -154,8 +153,7 @@
 1173,'1173','Hazel / Smallwood',43.483094,-80.534309
 1174,'1174','Hazel / Blythwood',43.485671,-80.537294
 1175,'1175','Hazel / Albert',43.485734,-80.539433
-1176,'1176','Albert / Greenbrier',43.488146,-80.541394
-1177,'1177','Albert / Longwood',43.490541,-80.539174
+1179,'1179','Parkside / Weber (Temporary Stop)',43.49266,-80.544787
 1180,'1180','Ira Needles / Highland',43.423466,-80.552844
 1181,'1181','Cedarbrae / Mt Anne',43.490028,-80.546104
 1182,'1182','Cedarbrae / Sprucehill',43.489819,-80.547738
@@ -426,7 +424,6 @@
 1471,'1471','Ainslie / Simcoe',43.36556,-80.31457
 1472,'1472','Water / Galt Collegiate Institute',43.368698,-80.316892
 1473,'1473','Water / Dayton',43.370638,-80.317549
-1474,'1474','Central Sta',43.453186,-80.498145
 1475,'1475','Hespeler Rd / Ave',43.37692,-80.31854
 1476,'1476','167 Hespeler Rd',43.381375,-80.319688
 1477,'1477','Hespeler Rd / Bishop',43.395789,-80.32391
@@ -1231,10 +1228,8 @@
 2453,'2453','Wellington / Moore',43.455093,-80.501089
 2454,'2454','Wellington / King',43.454507,-80.502924
 2455,'2455','551 Parkside Dr',43.494485,-80.544509
-2456,'2456','Weber / Parkside',43.492707,-80.544091
 2457,'2457','King / Water',43.451734,-80.494752
 2458,'2458','King / Gaukel',43.451158,-80.492903
-2460,'2460','Weber / Parkside',43.492922,-80.544273
 2462,'2462','Weber / Wellington',43.456966,-80.495042
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771
 2464,'2464','Weber / Guelph',43.461263,-80.499468
@@ -1988,7 +1983,7 @@
 3621,'3621','University Ave / King',43.475766,-80.526365
 3622,'3622','Lexington / Dearborn Pl',43.487015,-80.518239
 3623,'3623','Hazel / Columbia',43.480084,-80.531909
-3626,'3626','Parkside / Glenelm',43.489477,-80.54534
+3626,'3626','Parkside / Glenelm',43.488883,-80.545512
 3627,'3627','Parkside / Cedarbrae',43.489252,-80.545627
 3629,'3629','Hagey / Wes Graham',43.479246,-80.549597
 3630,'3630','Hagey / Wes Graham',43.478965,-80.549031
@@ -2392,6 +2387,8 @@
 5030,'5030','Henry / S (Temporary Stop)',43.350502,-80.30997
 5031,'5031','Dundas / Cambridge St (Temporary Stop)',43.367797,-80.30917
 5032,'5032','Dundas / Cambridge St (Temporary Stop)',43.367551,-80.309224
+5033,'5033','Central Sta (Temporary Stop)',43.453604,-80.497667
+5034,'5034','Central Sta (Temporary Stop)',43.452013,-80.496409
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
 5038,'5038','Louisa / Brewery (Temporary Stop)',43.401683,-80.662605
