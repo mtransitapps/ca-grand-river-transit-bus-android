@@ -140,9 +140,6 @@
 1151,'1151','Flint / Kingswood',43.423224,-80.482215
 1152,'1152','Cedarbrae / Sprucehill',43.489613,-80.548061
 1154,'1154','Parkside / Weber (Temporary Stop)',43.492592,-80.544621
-1155,'1155','Albert / Weber',43.491552,-80.537559
-1156,'1156','Albert / Longwood',43.490533,-80.539508
-1157,'1157','Albert / Quiet',43.487633,-80.541571
 1158,'1158','Hazel / Albert',43.485723,-80.539087
 1159,'1159','Hazel / Tamarack',43.484962,-80.536647
 1160,'1160','Hazel / Smallwood',43.483265,-80.534703
@@ -159,9 +156,6 @@
 1173,'1173','Hazel / Smallwood',43.483094,-80.534309
 1174,'1174','Hazel / Blythwood',43.485671,-80.537294
 1175,'1175','Hazel / Albert',43.485734,-80.539433
-1176,'1176','Albert / Greenbrier',43.488146,-80.541394
-1177,'1177','Albert / Longwood',43.490541,-80.539174
-1178,'1178','Weber / Albert',43.492038,-80.537641
 1179,'1179','Parkside / Weber (Temporary Stop)',43.49266,-80.544787
 1180,'1180','Ira Needles / Highland',43.423466,-80.552844
 1181,'1181','Cedarbrae / Mt Anne',43.490028,-80.546104
@@ -434,7 +428,6 @@
 1472,'1472','Water / Galt Collegiate Institute',43.368698,-80.316892
 1473,'1473','Water / Dayton',43.370638,-80.317549
 1474,'1474','Central Sta',43.453186,-80.498145
-1475,'1475','Hespeler Rd / Ave',43.37692,-80.31854
 1476,'1476','167 Hespeler Rd',43.381375,-80.319688
 1477,'1477','Hespeler Rd / Bishop',43.395789,-80.32391
 1478,'1478','499 Hespeler Rd',43.398568,-80.324806
@@ -958,11 +951,9 @@
 2101,'2101','Elmwood / Brock',43.373225,-80.310386
 2102,'2102','Elmwood / Jarvis',43.374737,-80.313257
 2103,'2103','Elmwood / Brooklyne',43.376513,-80.316644
-2104,'2104','Ave / Gail',43.378351,-80.310908
 2105,'2105','Bleams / Strasburg',43.406873,-80.474218
 2106,'2106','Franklin / Winston',43.420719,-80.310586
 2107,'2107','Franklin / Winston',43.420973,-80.310279
-2108,'2108','Elgin / Ave',43.37845,-80.306388
 2109,'2109','Elgin / Winter',43.376762,-80.305704
 2110,'2110','Elgin / Galt Ave',43.373939,-80.303465
 2111,'2111','Elgin / Bronson',43.372065,-80.302742
@@ -1058,8 +1049,6 @@
 2238,'2238','Glenview / Henry',43.347328,-80.308952
 2239,'2239','Glenview / Albert',43.347102,-80.310311
 2240,'2240','Albert / Ballantyne',43.348709,-80.311033
-2241,'2241','Ballantyne / Mckay',43.349487,-80.307076
-2242,'2242','Mckay / S',43.350929,-80.307393
 2243,'2243','Ctr / Elliott',43.3528,-80.308581
 2244,'2244','Ctr / Concession',43.354054,-80.308949
 2249,'2249','Cedar / Westgate Ctr',43.351556,-80.329362
@@ -1069,6 +1058,7 @@
 2256,'2256','Grand Rdg / Stirling Macgregor',43.338886,-80.332413
 2257,'2257','Grand Rdg / Oak Hl',43.336472,-80.330737
 2267,'2267','Cedar / Westgate Ctr',43.35156,-80.328411
+2268,'2268','Grand / Queens Sq',43.35859,-80.317499
 2269,'2269','Christopher / Elliott',43.354134,-80.302754
 2270,'2270','Christopher / S',43.352067,-80.301963
 2271,'2271','Ballantyne / E',43.350271,-80.302835
@@ -1248,10 +1238,8 @@
 2453,'2453','Wellington / Moore',43.455093,-80.501089
 2454,'2454','Wellington / King',43.454507,-80.502924
 2455,'2455','551 Parkside Dr',43.494485,-80.544509
-2456,'2456','Weber / Parkside',43.492707,-80.544091
 2457,'2457','King / Water',43.451734,-80.494752
 2458,'2458','King / Gaukel',43.451158,-80.492903
-2460,'2460','Weber / Parkside',43.492922,-80.544273
 2462,'2462','Weber / Wellington',43.456966,-80.495042
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771
 2464,'2464','Weber / Guelph',43.461263,-80.499468
@@ -1666,7 +1654,6 @@
 3055,'3055','Hoffman / Meinzinger',43.432077,-80.482671
 3056,'3056','Hoffman / Kehl',43.431411,-80.484703
 3057,'3057','Hoffman / Highland',43.430557,-80.487082
-3058,'3058','Highland / Heiman',43.432933,-80.488817
 3063,'3063','Hoffman / Highland',43.430529,-80.486873
 3064,'3064','Hoffman / Kehl',43.43125,-80.484927
 3065,'3065','Hoffman / Meinzinger',43.431969,-80.482697
@@ -2115,8 +2102,6 @@
 3758,'3758','Frobisher / Superior',43.510245,-80.524401
 3759,'3759','Frobisher / Mcmurray',43.507544,-80.526575
 3760,'3760','Frobisher / Superior',43.509912,-80.52449
-3761,'3761','Northfield / Bridge',43.511769,-80.521092
-3763,'3763','University Ave / Northfield Technology Pk',43.51787,-80.513273
 3764,'3764','Lexington / Lee',43.497196,-80.506493
 3765,'3765','University Ave / RIM Pk',43.517319,-80.502299
 3766,'3766','University Ave / New Bedford',43.510688,-80.497752
@@ -2196,7 +2181,6 @@
 3856,'3856','Baldwin / Guelph',43.441747,-80.313031
 3857,'3857','Franklin / Edward',43.426843,-80.309963
 3858,'3858','Dunbar / Ind',43.38928,-80.328699
-3860,'3860','Ave / Path To Thunderbird',43.378733,-80.308558
 3861,'3861','Cedar / St Andrews',43.352325,-80.323961
 3862,'3862','Cedar / Grand',43.353242,-80.317621
 3863,'3863','Cedar / Grand',43.353425,-80.318075
@@ -2207,7 +2191,6 @@
 3868,'3868','Parkside / Bearinger',43.485796,-80.546991
 3869,'3869','Research & Technology Sta',43.481734,-80.5461
 3870,'3870','Hagey / Frank Tompa',43.477515,-80.548406
-3871,'3871','Brooklyne / Gln',43.377132,-80.313316
 3873,'3873','Arthur / 1st',43.592563,-80.560931
 3877,'3877','690 Bishop St N',43.392839,-80.336776
 3878,'3878','690 Bishop St N',43.393044,-80.33635
@@ -2435,6 +2418,7 @@
 5010,'5010','Wellington / Roseview (Temporary Stop)',43.363804,-80.31076
 5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095
 5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
+5023,'5023','King / Stirling (Temporary Stop)',43.443997,-80.476231
 5029,'5029','Brooklyne / Gln (Temporary Stop)',43.376987,-80.314123
 5030,'5030','Henry / S (Temporary Stop)',43.350502,-80.30997
 5031,'5031','Dundas / Cambridge St (Temporary Stop)',43.367797,-80.30917
@@ -2447,10 +2431,13 @@
 5039,'5039','Louisa / Brewery (Temporary Stop)',43.401707,-80.662893
 5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
 5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
+5045,'5045','Stirling / Courtland (Temporary Stop)',43.440815,-80.484696
+5050,'5050','Labrador / Toman (Temporary Stop)',43.512676,-80.517325
 5062,'5062','Regina / Young (Temporary Stop)',43.468529,-80.521969
 5063,'5063','Regina / Elgin (Temporary Stop)',43.470036,-80.522377
 5064,'5064','Regina / Marshall (Temporary Stop)',43.472686,-80.522373
 5065,'5065','Regina / University Ave (Temporary Stop)',43.476501,-80.523595
+5066,'5066','King / Stirling (Temporary Stop)',43.444195,-80.476962
 5068,'5068','Hickory / Regina (Temporary Stop)',43.47813,-80.524254
 5069,'5069','Regina / University Ave (Temporary Stop)',43.476102,-80.523666
 5070,'5070','Regina / Marshall (Temporary Stop)',43.473276,-80.52273
