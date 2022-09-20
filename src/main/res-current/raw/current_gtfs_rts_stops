@@ -370,6 +370,10 @@
 1410,'1410','Rose / Preston HS',43.391403,-80.364471
 1411,'1411','Argyle / Vine',43.393052,-80.363107
 1412,'1412','Argyle / Hamilton',43.394628,-80.361572
+1413,'1413','Hamilton / Westminster',43.394134,-80.360244
+1414,'1414','Westminster / King',43.395647,-80.358511
+1415,'1415','Westminster / Duke',43.396587,-80.357625
+1416,'1416','Westminster / Lawrence',43.398593,-80.355653
 1417,'1417','Eagle / Concession',43.404616,-80.347623
 1418,'1418','Concession / Gdn',43.402604,-80.346817
 1419,'1419','Concession / Dolph',43.400042,-80.346017
@@ -1388,8 +1392,10 @@
 2681,'2681','Westmount / Lourdes',43.457606,-80.535333
 2682,'2682','Westmount / Dietz',43.456918,-80.532248
 2683,'2683','Westmount / William',43.455662,-80.529069
+2684,'2684','Stirling / Homer Watson (Future Stop)',43.431405,-80.496588
 2685,'2685','Westmount / John',43.454342,-80.52767
 2689,'2689','Belmont / Union',43.4549,-80.51905
+2691,'2691','Stirling / Homer Watson (Future Stop)',43.431592,-80.496351
 2692,'2692','545 Belmont Ave W',43.450409,-80.516159
 2693,'2693','Belmont / Path To Marina',43.449401,-80.515485
 2694,'2694','Belmont / Gage',43.447595,-80.514288
@@ -1644,18 +1650,29 @@
 3065,'3065','Hoffman / Meinzinger',43.431969,-80.482697
 3067,'3067','Hoffman / Ottawa',43.431785,-80.47977
 3069,'3069','Queen / Schneider',43.444727,-80.494526
+3075,'3075','Stirling / Lorne',43.435298,-80.494098
+3076,'3076','Stirling / Mausser',43.434127,-80.49606
 3077,'3077','Kent / Sim',43.352672,-80.34089
 3078,'3078','Kent / Hillsboro',43.353991,-80.341044
 3079,'3079','Kent / Salisbury',43.355447,-80.341616
 3080,'3080','Salisbury / Murray',43.356608,-80.339343
 3081,'3081','Salisbury / Southgate',43.356447,-80.336801
 3082,'3082','Salisbury / Hillcrest',43.356884,-80.333683
+3083,'3083','Greenbrook / Stirling',43.429405,-80.497297
+3084,'3084','Greenbrook / Lakeside',43.429015,-80.498709
+3085,'3085','Greenbrook / Forest Hl',43.428723,-80.501949
 3086,'3086','Westmount / Vlg',43.427771,-80.506552
 3091,'3091','Greenbrook / Birchcliff',43.424015,-80.512673
 3093,'3093','Greenbrook / Fischer-Hallman',43.420893,-80.515428
 3094,'3094','Greenbrook / Ruskview',43.421035,-80.51502
 3095,'3095','Greenbrook / Birchcliff',43.42405,-80.512525
 3096,'3096','Greenbrook / Forest Hl Ctr',43.426079,-80.5111
+3097,'3097','Greenbrook / Westmount',43.428205,-80.507068
+3098,'3098','Greenbrook / Forest Hl',43.428528,-80.502679
+3099,'3099','Greenbrook / Lakeside',43.428891,-80.499118
+3100,'3100','Greenbrook / Stirling',43.42951,-80.496666
+3102,'3102','Stirling / Mausser',43.433667,-80.495952
+3103,'3103','Stirling / Lorne',43.435332,-80.493789
 3105,'3105','Highland / Spadina',43.438669,-80.492822
 3110,'3110','Victoria / Joseph',43.450558,-80.500278
 3111,'3111','Victoria / Bramm',43.449144,-80.501832
@@ -1932,8 +1949,6 @@
 3520,'3520','Dover / Rose',43.393221,-80.3676
 3521,'3521','Rose / Westminster',43.390785,-80.363477
 3522,'3522','Laurel / N',43.401076,-80.354745
-3524,'3524','Fountain / Morningside',43.38572,-80.390864
-3525,'3525','Fountain / Blair',43.38539,-80.391399
 3526,'3526','Laurel / Westminster',43.399759,-80.354348
 3527,'3527','Hespeler Rd / Abbotsford',43.380185,-80.319393
 3531,'3531','Maple Grv / Saltsman',43.421934,-80.383793
@@ -2184,6 +2199,7 @@
 3885,'3885','728 Arthur St S',43.56113,-80.558683
 3887,'3887','Phillip / Columbia',43.476409,-80.539399
 3888,'3888','Conestoga College Cambridge Campus',43.385284,-80.398103
+3889,'3889','Phillip / Columbia',43.476497,-80.539751
 3890,'3890','Fischer-Hallman / Columbia',43.467368,-80.565646
 3891,'3891','Fischer-Hallman / Highland',43.431587,-80.525376
 3892,'3892','Fischer-Hallman / Highland',43.431308,-80.52544
@@ -2386,7 +2402,6 @@
 4219,'4219','Dundas / Beverly',43.365768,-80.305649
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455593,-80.487896
 5002,'5002','King / Stonegate (Temporary Stop)',43.424166,-80.413262
-5003,'5003','Westmount / Greenbrook (Temporary Stop)',43.428575,-80.507012
 5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095
 5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
 5023,'5023','King / Stirling (Temporary Stop)',43.443997,-80.476231
