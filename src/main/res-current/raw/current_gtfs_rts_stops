@@ -1650,6 +1650,7 @@
 3055,'3055','Hoffman / Meinzinger',43.432077,-80.482671
 3056,'3056','Hoffman / Kehl',43.431411,-80.484703
 3057,'3057','Hoffman / Highland',43.430557,-80.487082
+3058,'3058','Highland / Heiman',43.432933,-80.488817
 3063,'3063','Hoffman / Highland',43.430529,-80.486873
 3064,'3064','Hoffman / Kehl',43.43125,-80.484927
 3065,'3065','Hoffman / Meinzinger',43.431969,-80.482697
@@ -2421,7 +2422,6 @@
 5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
 5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
 5042,'5042','Ottawa / Crosby (Temporary Stop)',43.450346,-80.44556
-5045,'5045','Stirling / Courtland (Temporary Stop)',43.440815,-80.484696
 5050,'5050','Labrador / Toman (Temporary Stop)',43.512676,-80.517325
 5051,'5051','Ring Rd / UW - University Club (Temporary Stop)',43.471527,-80.546742
 5052,'5052','Sydney / Charles (Temporary Stop)',43.440721,-80.470551
@@ -2429,7 +2429,6 @@
 5055,'5055','Winter / Thunderbird (Temporary Stop)',43.376679,-80.308047
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
-5083,'5083','Highland / Heiman (Temporary Stop)',43.433158,-80.488968
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
 6019,'6019','Pinebush Sta',43.407581,-80.328185
 6020,'6020','Cambridge Ctr Sta',43.392605,-80.322274
