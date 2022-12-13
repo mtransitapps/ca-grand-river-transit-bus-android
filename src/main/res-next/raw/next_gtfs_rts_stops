@@ -148,7 +148,6 @@
 1161,'1161','Hazel / Austin',43.481575,-80.533084
 1162,'1162','Hazel / Waterloo Collegiate Institute',43.478946,-80.531039
 1163,'1163','Hazel / Hickory',43.477898,-80.530219
-1165,'1165','King / University Ave (N Side)',43.476319,-80.525075
 1166,'1166','University Ave / King',43.476025,-80.525782
 1167,'1167','Hazel / Wilfrid Laurier U',43.475513,-80.528259
 1168,'1168','Hazel / Hickory',43.47788,-80.530034
@@ -471,6 +470,7 @@
 1510,'1510','Concession / Cameron',43.354863,-80.307126
 1511,'1511','Ainslie Term',43.35717,-80.313529
 1512,'1512','Ainslie Term',43.357332,-80.313503
+1514,'1514','Ainslie Term',43.357656,-80.313462
 1516,'1516','Ainslie Term',43.357617,-80.312981
 1517,'1517','Ainslie Term',43.35758,-80.312759
 1518,'1518','Ainslie Term',43.3574,-80.312823
@@ -775,12 +775,7 @@
 1905,'1905','Vanier / Shelley',43.424372,-80.459509
 1906,'1906','Shelley / Courtland',43.421693,-80.459357
 1907,'1907','Waterloo Public Sq Sta',43.464678,-80.522063
-1909,'1909','King / Bridgeport Rd',43.467892,-80.523002
-1910,'1910','King / Elgin',43.4701,-80.523579
-1911,'1911','King / James',43.47247,-80.524054
 1912,'1912','Victoria / Margaret',43.45655,-80.488844
-1913,'1913','King / University Ave',43.476039,-80.524793
-1914,'1914','King / Hickory',43.477724,-80.525163
 1915,'1915','King / Columbia',43.481798,-80.526009
 1916,'1916','King / Weber',43.484988,-80.526677
 1917,'1917','King / Blue Spgs',43.487476,-80.527263
@@ -1139,7 +1134,6 @@
 2336,'2336','Victoria / Natchez',43.468414,-80.450675
 2337,'2337','Victoria / Path To Rothsay',43.469532,-80.447389
 2338,'2338','Highland / Path To Charles Best',43.435017,-80.490182
-2339,'2339','Lackner / Victoria',43.470941,-80.440885
 2340,'2340','Blair / Bismark',43.371182,-80.332498
 2341,'2341','Blair / Clearview',43.372528,-80.333984
 2342,'2342','Blair / Leslie',43.37392,-80.336882
@@ -1301,7 +1295,6 @@
 2515,'2515','Ring Rd / UW - S Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
 2519,'2519','Ring Rd / UW - BC Matthews Hall',43.473929,-80.546237
-2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
 2524,'2524','Columbia / Hazel',43.480027,-80.53113
@@ -1310,9 +1303,7 @@
 2529,'2529','Hickory / King (Temporary Stop)',43.478192,-80.525173
 2530,'2530','Ring Rd / UW - Quantum Nano Ctr',43.470719,-80.54447
 2531,'2531','Columbia / U Of Waterloo',43.474512,-80.547288
-2532,'2532','King / Hickory',43.478347,-80.525517
 2534,'2534','Weber / Union',43.465385,-80.505732
-2535,'2535','King / Central',43.469804,-80.523742
 2536,'2536','Allen Sta',43.460267,-80.519377
 2537,'2537','Weber / Union',43.465517,-80.50553
 2538,'2538','King / Union',43.458269,-80.515241
@@ -1341,19 +1332,7 @@
 2574,'2574','Parkside / Northfield',43.496572,-80.545801
 2575,'2575','4th / Kingsway',43.434243,-80.452813
 2576,'2576','4th / Connaught',43.431361,-80.454606
-2577,'2577','Connaught / 6th',43.430569,-80.452809
-2578,'2578','Connaught / Franklin',43.429875,-80.450628
 2579,'2579','Queen Sta (Charles / Benton)',43.448338,-80.487879
-2580,'2580','Connaught / Woodhaven',43.428522,-80.446378
-2581,'2581','Traynor / Connaught',43.427821,-80.444902
-2582,'2582','Greenfield / Traynor',43.425582,-80.445478
-2583,'2583','Greenfield / Kingsway',43.424518,-80.441436
-2584,'2584','Greenfield / Kingsway',43.424716,-80.441533
-2585,'2585','Greenfield / Traynor',43.425616,-80.445206
-2586,'2586','Traynor / Connaught',43.427893,-80.44479
-2587,'2587','Connaught / Woodhaven',43.428721,-80.44671
-2589,'2589','Connaught / Franklin',43.430047,-80.450849
-2590,'2590','Connaught / 4th',43.431052,-80.454015
 2591,'2591','4th / Wilson',43.429153,-80.455898
 2592,'2592','Wilson / Franklin',43.42687,-80.453052
 2593,'2593','Wilson / Fairlawn',43.424462,-80.448565
@@ -1949,6 +1928,7 @@
 3482,'3482','Queens / Fischer-Hallman',43.428482,-80.523992
 3485,'3485','Ira Needles / Highland Marketplace',43.425611,-80.552824
 3487,'3487','Ira Needles / Highland Marketplace',43.425822,-80.552635
+3488,'3488','Fairway Sta',43.422421,-80.441808
 3489,'3489','Fairway Sta',43.422469,-80.441514
 3490,'3490','Fairway Sta',43.422513,-80.441244
 3491,'3491','Fairway Sta',43.422557,-80.440987
@@ -2017,7 +1997,6 @@
 3576,'3576','Weber / Eastwood Collegiate Institute',43.438918,-80.460691
 3578,'3578','Krug / Lancaster',43.449699,-80.480828
 3579,'3579','King / Pandora',43.445207,-80.479099
-3581,'3581','King / Ezra',43.472318,-80.524278
 3589,'3589','University Ave / Westmount',43.464492,-80.541461
 3590,'3590','Fischer-Hallman / Erb',43.4527,-80.553811
 3593,'3593','Bridge / Frobisher',43.511993,-80.522544
@@ -2244,7 +2223,6 @@
 3895,'3895','Fischer-Hallman / Westmount',43.406717,-80.500091
 3896,'3896','Fischer-Hallman / Cotton Grass',43.407489,-80.501542
 3897,'3897','Belmont / Glasgow',43.451984,-80.517195
-3898,'3898','Columbia / U Of Waterloo',43.475009,-80.545981
 3899,'3899','Columbia / U Of Waterloo',43.474462,-80.546591
 3900,'3900','Lexington / Davenport',43.493051,-80.512576
 3901,'3901','330 The Boardwalk',43.437644,-80.562984
@@ -2371,8 +2349,6 @@
 4041,'4041','695 Saginaw Pkwy',43.392267,-80.279695
 4042,'4042','Northfield / Davenport',43.503132,-80.528994
 4043,'4043','Northfield / Davenport',43.503641,-80.52829
-4044,'4044','Northfield Technology Campus',43.516788,-80.513942
-4045,'4045','Northfield Technology Campus',43.516562,-80.514077
 4046,'4046','University Ave / Auburn',43.497418,-80.491808
 4047,'4047','University Ave / Auburn',43.497927,-80.491842
 4048,'4048','Waterloo Public Sq Sta',43.464389,-80.522228
@@ -2450,8 +2426,6 @@
 5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369505,-80.308552
 5010,'5010','Wellington / Roseview (Temporary Stop)',43.363804,-80.31076
 5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
-5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
-5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
 5038,'5038','Louisa / Brewery (Temporary Stop)',43.401683,-80.662605
@@ -2466,8 +2440,6 @@
 5069,'5069','Regina / University Ave (Temporary Stop)',43.476102,-80.523666
 5070,'5070','Regina / Marshall (Temporary Stop)',43.473276,-80.52273
 5075,'5075','Regina / Elgin (Temporary Stop)',43.470934,-80.522728
-5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
-5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
