@@ -375,10 +375,6 @@
 1410,'1410','Rose / Preston HS',43.391403,-80.364471
 1411,'1411','Argyle / Vine',43.393052,-80.363107
 1412,'1412','Argyle / Hamilton',43.394628,-80.361572
-1413,'1413','Hamilton / Westminster',43.394134,-80.360244
-1414,'1414','Westminster / King',43.395647,-80.358511
-1415,'1415','Westminster / Duke',43.396587,-80.357625
-1416,'1416','Westminster / Lawrence',43.398593,-80.355653
 1417,'1417','Eagle / Concession',43.404616,-80.347623
 1418,'1418','Concession / Gdn',43.402604,-80.346817
 1419,'1419','Concession / Dolph',43.400042,-80.346017
@@ -527,7 +523,6 @@
 1585,'1585','King / Eagle',43.398523,-80.36368
 1586,'1586','King / Waterloo',43.397255,-80.361199
 1587,'1587','King / Westminster',43.395617,-80.358067
-1588,'1588','King / Lowther',43.394179,-80.355292
 1589,'1589','King / Dolph',43.392959,-80.352959
 1590,'1590','Sportsworld Sta',43.409699,-80.392846
 1591,'1591','King / Bishop',43.389789,-80.346621
@@ -1088,7 +1083,6 @@
 2256,'2256','Grand Rdg / Stirling Macgregor',43.338886,-80.332413
 2257,'2257','Grand Rdg / Oak Hl',43.336472,-80.330737
 2267,'2267','Cedar / Westgate Ctr',43.35156,-80.328411
-2268,'2268','Grand / Queens Sq',43.35859,-80.317499
 2269,'2269','Christopher / Elliott',43.354134,-80.302754
 2270,'2270','Christopher / S',43.352067,-80.301963
 2271,'2271','Ballantyne / E',43.350271,-80.302835
@@ -1318,6 +1312,7 @@
 2514,'2514','Columbia / Lester',43.477964,-80.53744
 2515,'2515','Ring Rd / UW - S Campus Hall',43.468593,-80.54028
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
+2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
 2519,'2519','Ring Rd / UW - BC Matthews Hall',43.473929,-80.546237
 2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
@@ -1467,6 +1462,7 @@
 2705,'2705','Queen / Schneider',43.444565,-80.494453
 2706,'2706','Queen / Courtland',43.44564,-80.493344
 2713,'2713','Benton / Church',43.447469,-80.489411
+2714,'2714','Benton / Courtland',43.445954,-80.491031
 2715,'2715','Courtland / Peter',43.444101,-80.489415
 2716,'2716','Courtland / Madison',43.442304,-80.486304
 2718,'2718','Courtland / Palmer',43.439828,-80.482139
@@ -1605,12 +1601,13 @@
 2912,'2912','Mill / Borden',43.435212,-80.483052
 2913,'2913','Mill / Heiman',43.435836,-80.485654
 2914,'2914','Stirling / Mill',43.437813,-80.487176
-2915,'2915','Stirling / Courtland',43.440981,-80.484375
+2915,'2915','Stirling / Courtland',43.441382,-80.48396
 2916,'2916','Stirling / Kaufman Pk',43.442282,-80.482022
 2917,'2917','Charles / Kent',43.443188,-80.477653
 2918,'2918','Charles / Kent',43.443352,-80.477511
 2919,'2919','Charles / Cameron Hts Collegiate Institute',43.445248,-80.481208
 2920,'2920','Kitchener Mkt Sta',43.446425,-80.483624
+2921,'2921','Ottawa / King',43.442129,-80.471169
 2922,'2922','Ottawa / Midland',43.449429,-80.448297
 2923,'2923','River / Stanley Pk Mall',43.449213,-80.443378
 2924,'2924','Kitchener Mkt Sta',43.446282,-80.483798
@@ -1625,6 +1622,7 @@
 2933,'2933','Mill Sta',43.434168,-80.479021
 2934,'2934','Ottawa / Hoffman',43.431964,-80.479534
 2935,'2935','Ottawa / Kehl',43.429704,-80.481592
+2936,'2936','Ottawa / King',43.442091,-80.471602
 2937,'2937','Ottawa / Alpine',43.425096,-80.484077
 2938,'2938','Strasburg / Ottawa',43.422436,-80.487324
 2939,'2939','Strasburg / Barwood',43.420889,-80.485632
@@ -2163,6 +2161,7 @@
 3759,'3759','Frobisher / Mcmurray',43.507544,-80.526575
 3760,'3760','Frobisher / Superior',43.509912,-80.52449
 3761,'3761','Northfield / Bridge',43.511769,-80.521092
+3762,'3762','Northfield / Northfield Transit Garage',43.515406,-80.518733
 3763,'3763','University Ave / Northfield Technology Pk',43.51787,-80.513273
 3764,'3764','Lexington / Lee',43.497196,-80.506493
 3765,'3765','University Ave / RIM Pk',43.517319,-80.502299
@@ -2402,8 +2401,6 @@
 4041,'4041','695 Saginaw Pkwy',43.392267,-80.279695
 4042,'4042','Northfield / Davenport',43.503132,-80.528994
 4043,'4043','Northfield / Davenport',43.503641,-80.52829
-4044,'4044','Northfield Technology Campus',43.516788,-80.513942
-4045,'4045','Northfield Technology Campus',43.516562,-80.514077
 4046,'4046','University Ave / Auburn',43.497418,-80.491808
 4047,'4047','University Ave / Auburn',43.497927,-80.491842
 4048,'4048','Waterloo Public Sq Sta',43.464389,-80.522228
@@ -2469,34 +2466,25 @@
 4108,'4108','Townline / Cambridge Gurdwara',43.400424,-80.274613
 4109,'4109','3227 King St E',43.42639,-80.425444
 4110,'4110','King / Grand River Hosp - Freeport Campus',43.423359,-80.411406
+4145,'4145','Franklin / Saginaw',43.391246,-80.301932
 4146,'4146','Bishop / Conestoga',43.396031,-80.318023
 4147,'4147','Bishop / Hespeler Rd',43.395341,-80.3233
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4164,'4164','Dundas / Beverly',43.365511,-80.305636
+4176,'4176','Franklin / Can-Amera',43.393071,-80.302914
+4179,'4179','Pinebush / Hollywood',43.409954,-80.317943
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
 4219,'4219','Dundas / Beverly',43.365768,-80.305649
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455593,-80.487896
-5003,'5003','Westmount / Greenbrook (Temporary Stop)',43.428575,-80.507012
-5007,'5007','Connaught / 9th (Temporary Stop)',43.429548,-80.449263
 5008,'5008','Wellington / Roseview (Temporary Stop)',43.363898,-80.310506
 5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369505,-80.308552
-5010,'5010','Wellington / Roseview (Temporary Stop)',43.363804,-80.31076
 5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095
 5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
 5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
 5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5035,'5035','Bridgeport Rd / Lancaster (Temporary Stop)',43.476208,-80.48544
-5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366
-5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593
-5038,'5038','Louisa / Brewery (Temporary Stop)',43.401683,-80.662605
-5039,'5039','Louisa / Brewery (Temporary Stop)',43.401707,-80.662893
-5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403558,-80.65485
-5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082
 5042,'5042','Ottawa / Crosby (Temporary Stop)',43.450346,-80.44556
-5050,'5050','Labrador / Toman (Temporary Stop)',43.512676,-80.517325
-5051,'5051','Ring Rd / UW - University Club (Temporary Stop)',43.471527,-80.546742
-5052,'5052','Sydney / Charles (Temporary Stop)',43.440721,-80.470551
-5053,'5053','Sheldon / King (Temporary Stop)',43.44044,-80.468443
+5049,'5049','Wellington / Weber (Temporary Stop)',43.457131,-80.49461
 5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
 5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574
@@ -2516,6 +2504,10 @@
 6107,'6107','Sportsworld Sta',43.410002,-80.393307
 7000,'7000','Snyders / Notre Dame',43.413404,-80.606216
 7001,'7001','Snyders / Notre Dame',43.413341,-80.605695
+7002,'7002','Snyders / Forler',43.405625,-80.656739
+7003,'7003','Snyders / Forler',43.405559,-80.656092
+7004,'7004','Snyders / Brubacher',43.404701,-80.66296
+7005,'7005','Snyders / Coachmans',43.404489,-80.663303
 7006,'7006','Snyders / Mill',43.403452,-80.671385
 7007,'7007','Snyders / Foundry',43.403611,-80.669199
 7008,'7008','Waterloo-Oxford District SS',43.401234,-80.687378
