@@ -471,7 +471,6 @@
 1510,'1510','Concession / Cameron',43.354863,-80.307126
 1511,'1511','Ainslie Term',43.35717,-80.313529
 1512,'1512','Ainslie Term',43.357332,-80.313503
-1514,'1514','Ainslie Term',43.357656,-80.313462
 1516,'1516','Ainslie Term',43.357617,-80.312981
 1517,'1517','Ainslie Term',43.35758,-80.312759
 1518,'1518','Ainslie Term',43.3574,-80.312823
@@ -523,6 +522,7 @@
 1585,'1585','King / Eagle',43.398523,-80.36368
 1586,'1586','King / Waterloo',43.397255,-80.361199
 1587,'1587','King / Westminster',43.395617,-80.358067
+1588,'1588','King / Lowther',43.394179,-80.355292
 1589,'1589','King / Dolph',43.392959,-80.352959
 1590,'1590','Sportsworld Sta',43.409699,-80.392846
 1591,'1591','King / Bishop',43.389789,-80.346621
@@ -811,8 +811,6 @@
 1937,'1937','Victoria / River',43.464405,-80.464389
 1939,'1939','Ottawa / Weber',43.444239,-80.466672
 1940,'1940','Ottawa / Franklin',43.448606,-80.451334
-1941,'1941','Bridge / Bridle',43.485339,-80.488595
-1942,'1942','Bridge / Woolwich',43.482763,-80.484761
 1943,'1943','Lancaster / Bridge',43.481833,-80.483029
 1944,'1944','Lancaster / General',43.479277,-80.484531
 1945,'1945','Lancaster / Lang',43.478062,-80.484505
@@ -890,8 +888,6 @@
 2019,'2019','Zeller / Wild Mdw',43.453234,-80.417438
 2020,'2020','Lancaster / Bridgeport Rd',43.477437,-80.484306
 2021,'2021','Lancaster / General',43.479276,-80.484333
-2022,'2022','Bridge / Woolwich',43.482788,-80.484403
-2023,'2023','Bridge / Bridle',43.485412,-80.488414
 2024,'2024','Block Line / Fallowfield',43.418728,-80.466868
 2025,'2025','Block Line / St Marys HS',43.419994,-80.464732
 2026,'2026','Block Line Sta',43.423602,-80.463395
@@ -1110,7 +1106,6 @@
 2293,'2293','Champlain / Franklin',43.348496,-80.289431
 2294,'2294','Champlain / Elgin',43.348052,-80.291941
 2295,'2295','Elgin / Woolley',43.351426,-80.294357
-2296,'2296','Courtland / Walton',43.427774,-80.466789
 2297,'2297','Elgin / Elliott',43.354405,-80.295594
 2298,'2298','Elgin / Main',43.356436,-80.296409
 2299,'2299','S / Chalmers',43.353121,-80.297657
@@ -1151,7 +1146,6 @@
 2336,'2336','Victoria / Natchez',43.468414,-80.450675
 2337,'2337','Victoria / Path To Rothsay',43.469532,-80.447389
 2338,'2338','Highland / Path To Charles Best',43.435017,-80.490182
-2339,'2339','Lackner / Victoria',43.470941,-80.440885
 2340,'2340','Blair / Bismark',43.371182,-80.332498
 2341,'2341','Blair / Clearview',43.372528,-80.333984
 2342,'2342','Blair / Leslie',43.37392,-80.336882
@@ -1314,7 +1308,6 @@
 2516,'2516','Ring Rd / UW - Environment 3',43.467787,-80.543587
 2518,'2518','Ring Rd / UW - University Club',43.47273,-80.547989
 2519,'2519','Ring Rd / UW - BC Matthews Hall',43.473929,-80.546237
-2521,'2521','Columbia / Phillip',43.476804,-80.540193
 2522,'2522','Columbia / Lester',43.477855,-80.537267
 2523,'2523','Columbia / Albert',43.478541,-80.535333
 2524,'2524','Columbia / Hazel',43.480027,-80.53113
@@ -1445,10 +1438,10 @@
 2681,'2681','Westmount / Lourdes',43.457606,-80.535333
 2682,'2682','Westmount / Dietz',43.456918,-80.532248
 2683,'2683','Westmount / William',43.455662,-80.529069
-2684,'2684','Stirling / Homer Watson (Future Stop)',43.431405,-80.496588
+2684,'2684','Stirling / Homer Watson',43.431405,-80.496588
 2685,'2685','Westmount / John',43.454342,-80.52767
 2689,'2689','Belmont / Union',43.4549,-80.51905
-2691,'2691','Stirling / Homer Watson (Future Stop)',43.431592,-80.496351
+2691,'2691','Stirling / Homer Watson',43.431592,-80.496351
 2692,'2692','545 Belmont Ave W',43.450409,-80.516159
 2693,'2693','Belmont / Path To Marina',43.449401,-80.515485
 2694,'2694','Belmont / Gage',43.447595,-80.514288
@@ -1480,8 +1473,6 @@
 2737,'2737','Traynor / Belwood',43.421319,-80.452089
 2738,'2738','Traynor / Vanier',43.420683,-80.454862
 2740,'2740','Vanier / Siebert',43.421843,-80.45676
-2745,'2745','Courtland / Carwood',43.432856,-80.471754
-2746,'2746','Courtland / Sydney',43.435761,-80.47504
 2748,'2748','Courtland / Borden',43.43787,-80.478493
 2749,'2749','Courtland / Palmer',43.440011,-80.482145
 2750,'2750','Courtland / Stirling',43.441396,-80.484519
@@ -1609,7 +1600,6 @@
 2920,'2920','Kitchener Mkt Sta',43.446425,-80.483624
 2921,'2921','Ottawa / King',43.442129,-80.471169
 2922,'2922','Ottawa / Midland',43.449429,-80.448297
-2923,'2923','River / Stanley Pk Mall',43.449213,-80.443378
 2924,'2924','Kitchener Mkt Sta',43.446282,-80.483798
 2925,'2925','Charles / Cameron Hts Collegiate Institute',43.444439,-80.480077
 2926,'2926','Ottawa / Midland',43.449726,-80.447984
@@ -1622,7 +1612,6 @@
 2933,'2933','Mill Sta',43.434168,-80.479021
 2934,'2934','Ottawa / Hoffman',43.431964,-80.479534
 2935,'2935','Ottawa / Kehl',43.429704,-80.481592
-2936,'2936','Ottawa / King',43.442091,-80.471602
 2937,'2937','Ottawa / Alpine',43.425096,-80.484077
 2938,'2938','Strasburg / Ottawa',43.422436,-80.487324
 2939,'2939','Strasburg / Barwood',43.420889,-80.485632
@@ -1977,7 +1966,6 @@
 3482,'3482','Queens / Fischer-Hallman',43.428482,-80.523992
 3485,'3485','Ira Needles / Highland Marketplace',43.425611,-80.552824
 3487,'3487','Ira Needles / Highland Marketplace',43.425822,-80.552635
-3488,'3488','Fairway Sta',43.422421,-80.441808
 3489,'3489','Fairway Sta',43.422469,-80.441514
 3490,'3490','Fairway Sta',43.422513,-80.441244
 3491,'3491','Fairway Sta',43.422557,-80.440987
@@ -2161,7 +2149,6 @@
 3759,'3759','Frobisher / Mcmurray',43.507544,-80.526575
 3760,'3760','Frobisher / Superior',43.509912,-80.52449
 3761,'3761','Northfield / Bridge',43.511769,-80.521092
-3762,'3762','Northfield / Northfield Transit Garage',43.515406,-80.518733
 3763,'3763','University Ave / Northfield Technology Pk',43.51787,-80.513273
 3764,'3764','Lexington / Lee',43.497196,-80.506493
 3765,'3765','University Ave / RIM Pk',43.517319,-80.502299
@@ -2274,7 +2261,6 @@
 3895,'3895','Fischer-Hallman / Westmount',43.406717,-80.500091
 3896,'3896','Fischer-Hallman / Cotton Grass',43.407489,-80.501542
 3897,'3897','Belmont / Glasgow',43.451984,-80.517195
-3898,'3898','Columbia / U Of Waterloo',43.475009,-80.545981
 3899,'3899','Columbia / U Of Waterloo',43.474462,-80.546591
 3900,'3900','Lexington / Davenport',43.493051,-80.512576
 3901,'3901','330 The Boardwalk',43.437644,-80.562984
@@ -2387,10 +2373,6 @@
 4027,'4027','Laurelwood / Bearinger',43.474911,-80.572782
 4028,'4028','Bridge / Path To Brigantine',43.508032,-80.516305
 4029,'4029','Bridge / Path To Wissler',43.50789,-80.516392
-4030,'4030','Bridge / Bechtel Pk',43.48794,-80.492206
-4031,'4031','Bridge / Path To Auburn',43.488124,-80.49213
-4032,'4032','Bridge / University Ave',43.489037,-80.493742
-4033,'4033','Bridge / University Ave',43.489259,-80.493634
 4034,'4034','Bridge / Dansbury',43.496208,-80.501262
 4035,'4035','Bridge / Eastbridge',43.503951,-80.509782
 4036,'4036','Bridge / Chesapeake (S)',43.505863,-80.511143
@@ -2466,27 +2448,16 @@
 4108,'4108','Townline / Cambridge Gurdwara',43.400424,-80.274613
 4109,'4109','3227 King St E',43.42639,-80.425444
 4110,'4110','King / Grand River Hosp - Freeport Campus',43.423359,-80.411406
-4145,'4145','Franklin / Saginaw',43.391246,-80.301932
 4146,'4146','Bishop / Conestoga',43.396031,-80.318023
 4147,'4147','Bishop / Hespeler Rd',43.395341,-80.3233
 4158,'4158','Hespeler Rd / Dunbar',43.390845,-80.322832
 4164,'4164','Dundas / Beverly',43.365511,-80.305636
-4176,'4176','Franklin / Can-Amera',43.393071,-80.302914
-4179,'4179','Pinebush / Hollywood',43.409954,-80.317943
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228
 4219,'4219','Dundas / Beverly',43.365768,-80.305649
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455593,-80.487896
-5008,'5008','Wellington / Roseview (Temporary Stop)',43.363898,-80.310506
-5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369505,-80.308552
 5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095
-5022,'5022','Benton / St George (Temporary Stop)',43.446897,-80.489973
-5025,'5025','Columbia / Laurel Trl (UW Sta)',43.475694,-80.543283
-5026,'5026','Columbia / Laurel Trl (UW Sta)',43.476114,-80.542722
 5035,'5035','Bridgeport Rd / Lancaster (Temporary Stop)',43.476208,-80.48544
 5042,'5042','Ottawa / Crosby (Temporary Stop)',43.450346,-80.44556
-5049,'5049','Wellington / Weber (Temporary Stop)',43.457131,-80.49461
-5076,'5076','Conestoga College Doon Campus - Lot 10 (Temporary)',43.390184,-80.408245
-5077,'5077','Conestoga College Doon Campus - Lot 8 (Temporary)',43.391938,-80.405656
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574
 5082,'5082','Wellington / Moore (Temporary Stop)',43.454853,-80.501476
 6017,'6017','Sportsworld Sta',43.410252,-80.393138
