@@ -32,7 +32,6 @@
 1032,'1032','Lennox Lewis / Activa Sportsplex',43.42291,-80.468877,1
 1033,'1033','Block Line / Hanover',43.419023,-80.4666,1
 1034,'1034','The Boardwalk / Medical Ctr',43.440144,-80.565631,1
-1035,'1035','Maple Grv / Fountain (E Side)',43.424587,-80.378274,2
 1036,'1036','Maple Grv / Fountain (E Side)',43.424389,-80.378124,1
 1037,'1037','The Boardwalk / Medical Ctr',43.440242,-80.56548,1
 1038,'1038','Fairway / Idle Crk',43.441428,-80.418085,1
@@ -93,7 +92,6 @@
 1100,'1100','450 Columbia St W',43.466991,-80.568294,1
 1101,'1101','Ira Needles / Victoria',43.429414,-80.553171,1
 1102,'1102','Columbia / Gatestone',43.465334,-80.572942,1
-1103,'1103','Maple Grv / Fountain (W Side)',43.424055,-80.379919,1
 1104,'1104','Columbia / Cavendish',43.464006,-80.576783,2
 1105,'1105','Columbia / Erbsville',43.462463,-80.580775,1
 1106,'1106','Erbsville / Willow Wood',43.465168,-80.584193,1
@@ -1271,7 +1269,6 @@
 2455,'2455','551 Parkside Dr',43.494485,-80.544509,2
 2456,'2456','Weber / Parkside',43.492707,-80.544091,1
 2457,'2457','King / Water',43.451734,-80.494752,1
-2458,'2458','King / Gaukel',43.451158,-80.492903,1
 2460,'2460','Weber / Parkside',43.492922,-80.544273,2
 2462,'2462','Weber / Wellington',43.456966,-80.495042,1
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771,1
@@ -2479,6 +2476,9 @@
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228,2
 4219,'4219','Dundas / Beverly',43.365768,-80.305649,1
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455593,-80.487896,1
+5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423748,-80.381078,2
+5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424645,-80.37688,2
+5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.424842,-80.37693,2
 5042,'5042','Ottawa / Crosby (Temporary Stop)',43.450346,-80.44556,2
 5049,'5049','Wellington / Weber (Temporary Stop)',43.457131,-80.49461,1
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574,1
