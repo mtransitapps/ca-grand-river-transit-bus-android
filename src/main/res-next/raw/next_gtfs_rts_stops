@@ -32,7 +32,6 @@
 1032,'1032','Lennox Lewis / Activa Sportsplex',43.42291,-80.468877,1
 1033,'1033','Block Line / Hanover',43.419023,-80.4666,1
 1034,'1034','The Boardwalk / Medical Ctr',43.440144,-80.565631,1
-1036,'1036','Maple Grv / Fountain (E Side)',43.424389,-80.378124,1
 1037,'1037','The Boardwalk / Medical Ctr',43.440242,-80.56548,1
 1038,'1038','Fairway / Idle Crk',43.441428,-80.418085,1
 1039,'1039','Fairway / Old Chicopee',43.43677,-80.426298,1
@@ -513,6 +512,8 @@
 1567,'1567','King / Deer Rdg',43.41062,-80.399816,1
 1569,'1569','Sportsworld Sta',43.409414,-80.393072,1
 1572,'1572','Sportsworld Sta',43.410186,-80.392578,1
+1573,'1573','Gateway Pk / Sportsworld',43.40782,-80.391372,1
+1574,'1574','Tu Ln / Gateway Pk',43.40626,-80.389177,1
 1576,'1576','200 Preston Pkwy',43.399359,-80.37686,1
 1577,'1577','Preston Pkwy / Linden',43.398527,-80.37798,1
 1578,'1578','Preston Pkwy / Parkview',43.396446,-80.377668,1
@@ -564,6 +565,9 @@
 1631,'1631','Preston Pkwy / Woods',43.392149,-80.377391,1
 1632,'1632','Preston Pkwy / Hillview',43.394663,-80.377661,2
 1633,'1633','Preston Pkwy / Parkview',43.397276,-80.377943,1
+1635,'1635','Shantz Hl / Preston Pkwy',43.399956,-80.375693,1
+1636,'1636','Gateway Pk / King',43.405829,-80.386093,1
+1638,'1638','Gateway Pk / Sportsworld',43.408096,-80.392468,1
 1640,'1640','King / Deer Rdg',43.410727,-80.399593,1
 1642,'1642','King / Grand River Hosp - Freeport Campus',43.424092,-80.412272,2
 1643,'1643','King / River',43.425275,-80.419994,1
