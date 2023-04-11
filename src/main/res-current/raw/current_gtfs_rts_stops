@@ -543,8 +543,6 @@
 1607,'1607','124 Beverly St',43.364597,-80.3072,1
 1608,'1608','Beverly / Dundas',43.365458,-80.306202,1
 1609,'1609','Dundas / Cambridge St',43.367542,-80.308734,1
-1610,'1610','Dundas / Roxboro',43.37059,-80.313946,1
-1611,'1611','Dundas / Jarvis',43.372207,-80.316528,1
 1612,'1612','Delta Sta',43.373751,-80.318968,1
 1613,'1613','Coronation / Goldie',43.375527,-80.321988,2
 1614,'1614','Coronation / Oliver',43.377875,-80.325933,1
@@ -2475,10 +2473,20 @@
 4179,'4179','Pinebush / Hollywood',43.409954,-80.317943,1
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228,2
 4219,'4219','Dundas / Beverly',43.365768,-80.305649,1
+5000,'5000','Weber / Kitchener Rail Sta (Temporary Stop)',43.454642,-80.493319,1
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455593,-80.487896,1
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423748,-80.381078,2
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424645,-80.37688,2
 5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.424842,-80.37693,2
+5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095,1
+5018,'5018','Wellington / Margaret (Temporary Stop)',43.458918,-80.489623,2
+5035,'5035','Bridgeport Rd / Lancaster (Temporary Stop)',43.476208,-80.48544,2
+5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366,2
+5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593,2
+5038,'5038','Louisa / Brewery (Temporary Stop)',43.401707,-80.662893,2
+5039,'5039','Louisa / Brewery (Temporary Stop)',43.401683,-80.662605,2
+5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.403561,-80.65485,2
+5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405908,-80.650082,2
 5042,'5042','Ottawa / Crosby (Temporary Stop)',43.450346,-80.44556,2
 5049,'5049','Wellington / Weber (Temporary Stop)',43.457131,-80.49461,1
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471504,-80.441574,1
@@ -2497,10 +2505,6 @@
 6107,'6107','Sportsworld Sta',43.410002,-80.393307,1
 7000,'7000','Snyders / Notre Dame',43.413404,-80.606216,1
 7001,'7001','Snyders / Notre Dame',43.413341,-80.605695,1
-7002,'7002','Snyders / Forler',43.405625,-80.656739,2
-7003,'7003','Snyders / Forler',43.405559,-80.656092,2
-7004,'7004','Snyders / Brubacher',43.404701,-80.66296,2
-7005,'7005','Snyders / Coachmans',43.404489,-80.663303,2
 7006,'7006','Snyders / Mill',43.403452,-80.671385,1
 7007,'7007','Snyders / Foundry',43.403611,-80.669199,2
 7008,'7008','Waterloo-Oxford District SS',43.401234,-80.687378,2
