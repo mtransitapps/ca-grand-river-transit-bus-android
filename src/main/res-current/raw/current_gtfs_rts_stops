@@ -137,9 +137,6 @@
 1150,'1150','Cedarbrae / Path To Heasley Pk',43.487946,-80.550089,1
 1151,'1151','Flint / Kingswood',43.423224,-80.482215,2
 1152,'1152','Cedarbrae / Sprucehill',43.489613,-80.548061,2
-1155,'1155','Albert / Weber',43.491552,-80.537559,1
-1156,'1156','Albert / Longwood',43.490533,-80.539508,1
-1157,'1157','Albert / Quiet',43.487633,-80.541571,1
 1158,'1158','Hazel / Albert',43.485723,-80.539087,1
 1159,'1159','Hazel / Tamarack',43.484962,-80.536647,1
 1160,'1160','Hazel / Smallwood',43.483265,-80.534703,1
@@ -157,9 +154,6 @@
 1173,'1173','Hazel / Smallwood',43.483094,-80.534309,1
 1174,'1174','Hazel / Blythwood',43.485671,-80.537294,1
 1175,'1175','Hazel / Albert',43.485734,-80.539433,1
-1176,'1176','Albert / Greenbrier',43.488146,-80.541394,1
-1177,'1177','Albert / Longwood',43.490541,-80.539174,1
-1178,'1178','Weber / Albert',43.492038,-80.537641,1
 1180,'1180','Ira Needles / Highland',43.423466,-80.552844,1
 1181,'1181','Cedarbrae / Mt Anne',43.490028,-80.546104,2
 1182,'1182','Cedarbrae / Sprucehill',43.489819,-80.547738,2
@@ -1140,7 +1134,6 @@
 2317,'2317','Maple Grv / Fountain (W Side)',43.423989,-80.381074,1
 2318,'2318','Maple Grv / Cherry Blossom',43.416556,-80.387604,1
 2319,'2319','Weber / Queen',43.451861,-80.487051,1
-2320,'2320','Queen / Kitchener Central Library',43.453209,-80.486397,1
 2321,'2321','Glenmorris / 2nd',43.345887,-80.321762,1
 2322,'2322','Glenmorris / 3rd',43.344757,-80.321706,1
 2323,'2323','W River / Culham',43.34158,-80.321576,1
@@ -1182,8 +1175,6 @@
 2361,'2361','Krug / Samuel',43.450961,-80.477121,2
 2362,'2362','Krug / Lydia',43.451867,-80.474493,1
 2363,'2363','Krug / E',43.45265,-80.472287,1
-2364,'2364','Parkside / Waterloo Corporate Campus - N',43.49803,-80.549768,1
-2365,'2365','Parkside / Waterloo Corporate Campus - S',43.498028,-80.546744,1
 2366,'2366','Krug / Becker',43.454212,-80.46749,1
 2367,'2367','Highland / Queen',43.440922,-80.497704,1
 2368,'2368','Highland / Queens',43.440974,-80.498372,1
@@ -1264,10 +1255,7 @@
 2448,'2448','Wellington / St Leger',43.459829,-80.486823,1
 2449,'2449','Wellington / Margaret',43.458692,-80.490318,1
 2450,'2450','Wellington / Ahrens',43.457795,-80.492971,2
-2455,'2455','551 Parkside Dr',43.494485,-80.544509,2
-2456,'2456','Weber / Parkside',43.492707,-80.544091,1
 2457,'2457','King / Water',43.451734,-80.494752,1
-2460,'2460','Weber / Parkside',43.492922,-80.544273,2
 2462,'2462','Weber / Wellington',43.456966,-80.495042,1
 2463,'2463','Weber / Wilhelm',43.458895,-80.496771,1
 2464,'2464','Weber / Guelph',43.461263,-80.499468,1
@@ -1350,7 +1338,6 @@
 2571,'2571','King / Rockway Ctr',43.439755,-80.466381,1
 2572,'2572','King / Rockway Gdns',43.437861,-80.46185,1
 2573,'2573','1st / Eckert',43.43454,-80.456579,1
-2574,'2574','Parkside / Northfield',43.496572,-80.545801,1
 2575,'2575','4th / Kingsway',43.434243,-80.452813,1
 2576,'2576','4th / Connaught',43.431361,-80.454606,1
 2577,'2577','Connaught / 6th',43.430569,-80.452809,1
@@ -1418,7 +1405,6 @@
 2651,'2651','Weber / Cameron',43.447951,-80.478433,1
 2652,'2652','Franklin / Timber Crk',43.373725,-80.29642,1
 2653,'2653','Weber / Cedar',43.449288,-80.4814,1
-2654,'2654','Margaret / Ctr In The Sq',43.454683,-80.485741,1
 2655,'2655','Franklin / Millcreek',43.373665,-80.296585,1
 2656,'2656','Margaret / Victoria',43.456787,-80.48922,1
 2657,'2657','Margaret / Wellington',43.458991,-80.4906,1
@@ -2171,8 +2157,6 @@
 3771,'3771','Columbia / Marsland',43.484377,-80.519865,2
 3772,'3772','Columbia / Weber',43.483533,-80.522156,2
 3773,'3773','Columbia / Weber',43.483034,-80.523123,2
-3776,'3776','560 Parkside Dr',43.494917,-80.544483,2
-3777,'3777','Parkside / Northfield',43.496888,-80.545815,1
 3780,'3780','Chesapeake / Pleasant Bay',43.511299,-80.509745,2
 3781,'3781','Chesapeake / Brigantine',43.509143,-80.517284,2
 3782,'3782','Chesapeake / Sandy Cv',43.510043,-80.506439,2
@@ -2474,12 +2458,22 @@
 4194,'4194','Hespeler Rd / Dunbar',43.390413,-80.32228,2
 4219,'4219','Dundas / Beverly',43.365768,-80.305649,1
 5000,'5000','Weber / Kitchener Rail Sta (Temporary Stop)',43.454642,-80.493319,1
-5001,'5001','Margaret / Maynard (Temporary Stop)',43.455593,-80.487896,1
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423748,-80.381078,2
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424645,-80.37688,2
 5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.424842,-80.37693,2
+5005,'5005','Bearinger / Parkside (Temporary Stop)',43.485488,-80.5475,2
+5006,'5006','Gln Forrest / Weber (Temporary Stop)',43.49416,-80.548264,2
+5007,'5007','Weber / Northfield (Temporary Stop)',43.49571,-80.549057,2
+5008,'5008','Weber / Waterloo Corporate Campus (Temporary Stop)',43.497581,-80.550392,1
+5010,'5010','Weber / Kitchener Rail Sta (Temporary Stop)',43.454565,-80.493561,1
 5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095,1
+5013,'5013','Weber / Waterloo Corporate Campus (Temporary Stop)',43.497622,-80.550706,1
+5014,'5014','Weber / Northfield (Temporary Stop)',43.4961,-80.549718,2
+5015,'5015','Weber / Gln Forrest (Temporary Stop)',43.494502,-80.548434,2
+5016,'5016','Bearinger / Wes Graham (Temporary Stop)',43.485457,-80.547002,2
+5017,'5017','Margaret / Louisa (Temporary Stop)',43.459118,-80.490831,1
 5018,'5018','Wellington / Margaret (Temporary Stop)',43.458918,-80.489623,2
+5019,'5019','Weber / Queen (Temporary Stop)',43.451934,-80.487689,1
 5035,'5035','Bridgeport Rd / Lancaster (Temporary Stop)',43.476208,-80.48544,2
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405924,-80.650366,2
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403578,-80.655593,2
