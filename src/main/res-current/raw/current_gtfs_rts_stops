@@ -472,7 +472,6 @@
 1510,'1510','Concession / Cameron',43.354863,-80.307126,1
 1511,'1511','Ainslie Term',43.35717,-80.313529,1
 1512,'1512','Ainslie Term',43.357332,-80.313503,1
-1514,'1514','Ainslie Term',43.357656,-80.313462,1
 1516,'1516','Ainslie Term',43.357617,-80.312981,1
 1517,'1517','Ainslie Term',43.35758,-80.312759,1
 1518,'1518','Ainslie Term',43.3574,-80.312823,1
@@ -2478,15 +2477,8 @@
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423748,-80.381078,2
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424645,-80.37688,2
 5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.424842,-80.37693,2
-5005,'5005','Bearinger / Parkside (Temporary Stop)',43.485488,-80.5475,2
-5006,'5006','Gln Forrest / Weber (Temporary Stop)',43.49416,-80.548264,2
-5007,'5007','Weber / Northfield (Temporary Stop)',43.49571,-80.549057,2
-5008,'5008','Weber / Waterloo Corporate Campus (Temporary Stop)',43.497581,-80.550392,1
 5010,'5010','Weber / Kitchener Rail Sta (Temporary Stop)',43.454565,-80.493561,1
 5012,'5012','Bridgeport Rd / Lancaster (Temporary Stop)',43.476127,-80.486095,1
-5013,'5013','Weber / Waterloo Corporate Campus (Temporary Stop)',43.497622,-80.550706,1
-5014,'5014','Weber / Northfield (Temporary Stop)',43.4961,-80.549718,2
-5016,'5016','Bearinger / Wes Graham (Temporary Stop)',43.485457,-80.547002,2
 5019,'5019','Weber / Queen (Temporary Stop)',43.451934,-80.487689,1
 5020,'5020','Courtland / Hayward (Temporary Stop)',43.426418,-80.465948,1
 5035,'5035','Bridgeport Rd / Lancaster (Temporary Stop)',43.476208,-80.48544,2
