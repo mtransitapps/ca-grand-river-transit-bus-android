@@ -51,27 +51,35 @@
 3301,0,'Sunrise Ctr Sta',33
 3401,0,'Central Sta',34
 3400,0,'Victoria / Lackner',34
+3500,0,'Central Sta',35
+3501,0,'Sunrise Ctr Sta',35
 3600,0,'Conestoga College',36
 3601,0,'Robert Ferrie / Forest Crk',36
+5001,0,'Ainslie Term',50
 5000,0,'Cambridge Ctr Sta',50
-5001,0,'Franklin / Grn Gt',50
 5100,0,'Ainslie Term',51
 5101,0,'Guelph / Fisher Mills / Jamieson / Cooper',51
 5300,0,'Ainslie Term',53
-5301,0,'Cambridge Ctr Sta',53
+5301,0,'Ainslie Term',53
 5400,0,'Lisbon Pines',54
 5500,0,'Ainslie Term',55
 5501,0,'Cedar / Grand Rdg',55
-5600,0,'Dunbar',56
+5601,0,'Cambridge Ctr Sta',56
+5600,0,'Preston HS',56
 5700,0,'Ainslie Term',57
 5701,0,'Conestoga College',57
-5800,0,'Elmwood',58
+5801,0,'Ainslie Term',58
+5800,0,'Cambridge Ctr Sta',58
 5900,0,'Christopher',59
-6000,0,'Northview Acres',60
+6000,0,'Burnett / Saginaw',60
+6001,0,'Cambridge Ctr Sta',60
 6100,0,'Cambridge Ctr Sta',61
 6101,0,'Conestoga College',61
-6300,0,'Champlain',63
+6301,0,'Ainslie Term',63
+6300,0,'Elgin / Dundas',63
 6400,0,'Langs',64
+6501,0,'Cambridge Ctr Sta',65
+6500,0,'Coulthard / Arthur Fach',65
 6701,0,'Cambridge Ctr Sta',67
 6700,0,'Sportsworld Sta',67
 7200,0,'Loblaws Distribution Ctr',72
@@ -90,7 +98,7 @@
 20200,0,'Conestoga Sta',202
 20201,0,'The Boardwalk Sta',202
 20301,0,'Cambridge Ctr Sta',203
-20300,0,'Sportsworld Sta',203
+20300,0,'Conestoga College',203
 20400,0,'Ottawa / Lackner',204
 20401,0,'The Boardwalk Sta',204
 20500,0,'Ottawa / Lackner',205
@@ -99,3 +107,6 @@
 20601,0,'Southwood / Cedar',206
 30201,0,'Ainslie Term',302
 30200,0,'Fairway Sta',302
+980101,0,'Ainslie Term',9801
+985100,0,'Ainslie Term',9851
+985101,0,'Cambridge Ctr Sta',9851
