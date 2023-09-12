@@ -642,7 +642,6 @@
 1764,'1764','Wilson / Fairway',43.420795,-80.442561,1
 1773,'1773','Strasburg / Old Country',43.410878,-80.476222,1
 1774,'1774','Strasburg / Bleams',43.407406,-80.475153,1
-1776,'1776','Strasburg / Shoemaker',43.405629,-80.474415,1
 1777,'1777','Mcintyre / Strasburg',43.404476,-80.4744,1
 1778,'1778','Mcintyre / Mcbrine',43.403004,-80.477352,2
 1779,'1779','222 Mcintyre Dr',43.402883,-80.48033,2
@@ -689,8 +688,6 @@
 1840,'1840','Strasburg / Huron Hts SS',43.394883,-80.467852,1
 1841,'1841','Strasburg / Battler',43.398708,-80.4673,2
 1842,'1842','Strasburg / Trillium',43.400952,-80.467873,2
-1844,'1844','Strasburg / Mcintyre',43.404563,-80.473622,1
-1845,'1845','Strasburg / Shoemaker',43.405989,-80.474387,1
 1846,'1846','Bleams / Century Hl',43.408902,-80.465618,1
 1847,'1847','Bleams / Homer Watson',43.410352,-80.459899,2
 1848,'1848','Bleams / Otonabee',43.412216,-80.45241,2
@@ -2398,6 +2395,8 @@
 5020,'5020','Courtland / Hayward (Temporary Stop)',43.426426,-80.465952,1
 5023,'5023','Kensington / Krug (Temporary Stop)',43.45776,-80.459285,2
 5024,'5024','Kensington / Krug (Temporary Stop)',43.45737,-80.459317,2
+5025,'5025','Mill / Spadina (Temporary Stop)',43.439406,-80.489711,2
+5026,'5026','Mill / Spadina (Temporary Stop)',43.439538,-80.489697,2
 5027,'5027','Scott / Duke (Temporary Stop)',43.44982,-80.485225,1
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405932,-80.650369,2
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403586,-80.655597,2
