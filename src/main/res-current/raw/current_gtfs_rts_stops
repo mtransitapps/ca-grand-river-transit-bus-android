@@ -117,7 +117,6 @@
 1132,'1132','Northfield / Colby',43.50039,-80.537434,1
 1133,'1133','Chesapeake / Seawind',43.510677,-80.513898,2
 1134,'1134','Flint / Kingswood',43.423474,-80.482008,2
-1135,'1135','Northfield / Parkside',43.496683,-80.547523,1
 1136,'1136','Northfield / Weber',43.495593,-80.550716,1
 1137,'1137','Northfield / Northgate',43.494488,-80.553767,1
 1138,'1138','Northfield / Skylark',43.493633,-80.556185,1
@@ -177,8 +176,6 @@
 1196,'1196','Northfield / Skylark',43.493533,-80.555938,1
 1197,'1197','Northfield / Northgate',43.494361,-80.553558,1
 1198,'1198','Northfield / Weber (W Side)',43.495652,-80.549714,1
-1199,'1199','Northfield / Weber (E Side)',43.49624,-80.548262,2
-1200,'1200','Northfield / Parkside',43.496953,-80.546216,2
 1201,'1201','Northfield / Conestogo',43.500197,-80.536998,1
 1202,'1202','Northfield / King',43.501401,-80.533615,1
 1203,'1203','Ira Needles / Highland',43.423499,-80.552559,1
@@ -237,7 +234,6 @@
 1269,'1269','Winston / Westbury',43.421747,-80.307096,2
 1270,'1270','Willis Way Sta',43.46211,-80.523307,1
 1272,'1272','Grand River Hosp Sta',43.457379,-80.513581,1
-1273,'1273','Charles / Water',43.450809,-80.495423,1
 1274,'1274','Queen / Rooshill',43.424293,-80.323337,2
 1275,'1275','Bishop / Conestoga',43.395934,-80.317532,1
 1276,'1276','Groh / Holiday Inn Dr',43.419276,-80.325685,1
@@ -354,6 +350,9 @@
 1411,'1411','Argyle / Vine',43.39306,-80.363111,2
 1412,'1412','Argyle / Hamilton',43.394637,-80.361576,2
 1413,'1413','Hamilton / Westminster',43.394143,-80.360247,2
+1414,'1414','Westminster / King',43.395655,-80.358515,1
+1415,'1415','Westminster / Duke',43.396596,-80.357628,1
+1416,'1416','Westminster / Lawrence',43.398601,-80.355656,2
 1417,'1417','Eagle / Concession',43.404625,-80.347626,1
 1418,'1418','Concession / Gdn',43.402612,-80.346821,2
 1419,'1419','Concession / Dolph',43.40005,-80.346021,1
@@ -1068,9 +1067,6 @@
 2364,'2364','Parkside / Waterloo Corporate Campus - N',43.498038,-80.549772,1
 2365,'2365','Parkside / Waterloo Corporate Campus - S',43.498037,-80.546747,1
 2366,'2366','Krug / Becker',43.454221,-80.467493,1
-2369,'2369','Krug / Cambridge Ave',43.4556,-80.463884,1
-2370,'2370','Krug / Eton',43.456025,-80.462385,1
-2371,'2371','Krug / Sherwood',43.457243,-80.461101,1
 2372,'2372','Krug / River',43.458326,-80.457828,1
 2373,'2373','Lorraine / Birkshire',43.45783,-80.448265,1
 2374,'2374','Grand Rdg / St Andrews',43.340696,-80.333686,2
@@ -1092,7 +1088,6 @@
 2393,'2393','Eagle / King',43.398791,-80.363046,1
 2394,'2394','Lorraine / Birkshire',43.45777,-80.448847,1
 2395,'2395','Krug / River',43.458338,-80.45831,1
-2396,'2396','Krug / Sherwood',43.457504,-80.460938,1
 2398,'2398','Homer Watson / Bleams',43.410275,-80.461585,2
 2399,'2399','Beasley / Homer Watson',43.402026,-80.457604,2
 2400,'2400','Krug / Becker',43.454303,-80.467715,1
@@ -2327,6 +2322,9 @@
 4149,'4149','Elgin / Samuelson',43.370743,-80.302226,2
 4152,'4152','Beverly / Kerr',43.362239,-80.309572,1
 4153,'4153','Laurel / Westminster',43.399544,-80.354461,2
+4154,'4154','Westminster / Margaret',43.398565,-80.355808,2
+4155,'4155','Westminster / Duke',43.396834,-80.357526,1
+4156,'4156','Westminster / King',43.396043,-80.358268,1
 4157,'4157','Bishop / King',43.38947,-80.347546,2
 4158,'4158','Hespeler Rd / Dunbar',43.390853,-80.322835,2
 4159,'4159','Myers / Monsignor Doyle Catholic SS',43.341702,-80.297514,2
@@ -2388,6 +2386,9 @@
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424654,-80.376883,2
 5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.42485,-80.376933,2
 5010,'5010','Weber / Kitchener Rail Sta (Temporary Stop)',43.454573,-80.493565,1
+5019,'5019','Weber / Queen (Temporary Stop)',43.451942,-80.487693,1
+5023,'5023','Kensington / Krug (Temporary Stop)',43.45776,-80.459285,2
+5024,'5024','Kensington / Krug (Temporary Stop)',43.45737,-80.459317,2
 5025,'5025','Mill / Spadina (Temporary Stop)',43.439406,-80.489711,2
 5026,'5026','Mill / Spadina (Temporary Stop)',43.439538,-80.489697,2
 5027,'5027','Scott / Duke (Temporary Stop)',43.44982,-80.485225,1
