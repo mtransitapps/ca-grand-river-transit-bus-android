@@ -32,6 +32,8 @@
 1032,'1032','Lennox Lewis / Activa Sportsplex',43.422918,-80.468881,1
 1033,'1033','Block Line / Hanover',43.419032,-80.466603,1
 1034,'1034','The Boardwalk / Medical Ctr',43.440152,-80.565634,1
+1035,'1035','Maple Grv / Fountain (E Side)',43.424595,-80.378277,2
+1036,'1036','Maple Grv / Fountain (E Side)',43.424397,-80.378127,1
 1037,'1037','The Boardwalk / Medical Ctr',43.440251,-80.565484,1
 1038,'1038','Fairway / Idle Crk',43.441437,-80.418089,1
 1039,'1039','Fairway / Old Chicopee',43.436778,-80.426301,1
@@ -234,6 +236,7 @@
 1269,'1269','Winston / Westbury',43.421747,-80.307096,2
 1270,'1270','Willis Way Sta',43.46211,-80.523307,1
 1272,'1272','Grand River Hosp Sta',43.457379,-80.513581,1
+1273,'1273','Charles / Water',43.450809,-80.495423,1
 1274,'1274','Queen / Rooshill',43.424293,-80.323337,2
 1275,'1275','Bishop / Conestoga',43.395934,-80.317532,1
 1276,'1276','Groh / Holiday Inn Dr',43.419276,-80.325685,1
@@ -2150,6 +2153,7 @@
 3967,'3967','Pinebush / Conestoga',43.409222,-80.322122,2
 3968,'3968','Pinebush / Struck',43.410407,-80.315488,2
 3970,'3970','Pinebush / Wayne',43.41145,-80.309773,2
+3971,'3971','Pinebush / Balmoral',43.412629,-80.302521,2
 3972,'3972','Pinebush / Fleming',43.413902,-80.295019,2
 3973,'3973','Pinebush / Tyler',43.415297,-80.287604,2
 3974,'3974','520 Thompson Dr',43.413414,-80.285754,2
@@ -2384,7 +2388,6 @@
 5000,'5000','Weber / Kitchener Rail Sta (Temporary Stop)',43.454651,-80.493322,1
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423756,-80.381082,2
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424654,-80.376883,2
-5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.42485,-80.376933,2
 5010,'5010','Weber / Kitchener Rail Sta (Temporary Stop)',43.454573,-80.493565,1
 5019,'5019','Weber / Queen (Temporary Stop)',43.451942,-80.487693,1
 5023,'5023','Kensington / Krug (Temporary Stop)',43.45776,-80.459285,2
