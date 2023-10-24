@@ -1029,6 +1029,7 @@
 2317,'2317','Maple Grv / Fountain (W Side)',43.423997,-80.381078,1
 2318,'2318','Maple Grv / Cherry Blossom',43.416564,-80.387608,1
 2319,'2319','Weber / Queen',43.45187,-80.487054,1
+2320,'2320','Queen / Kitchener Central Library',43.453218,-80.4864,1
 2321,'2321','Glenmorris / 2nd',43.345896,-80.321766,1
 2322,'2322','Glenmorris / 3rd',43.344765,-80.321709,1
 2323,'2323','W River / Culham',43.341589,-80.321579,1
@@ -1064,6 +1065,7 @@
 2355,'2355','Weber / Swallow',43.502775,-80.554396,2
 2356,'2356','Weber / Randall',43.500616,-80.552907,2
 2357,'2357','Weber / Golden Eagle',43.498905,-80.551702,2
+2358,'2358','Queen / Kitchener Central Library',43.453389,-80.486349,1
 2359,'2359','Weber / Scott',43.450444,-80.484347,1
 2360,'2360','Dundas / Gore',43.36318,-80.301455,1
 2361,'2361','Krug / Samuel',43.45097,-80.477125,2
@@ -1072,6 +1074,9 @@
 2364,'2364','Parkside / Waterloo Corporate Campus - N',43.498038,-80.549772,1
 2365,'2365','Parkside / Waterloo Corporate Campus - S',43.498037,-80.546747,1
 2366,'2366','Krug / Becker',43.454221,-80.467493,1
+2369,'2369','Krug / Cambridge Ave',43.4556,-80.463884,1
+2370,'2370','Krug / Eton',43.456025,-80.462385,1
+2371,'2371','Krug / Sherwood',43.457243,-80.461101,1
 2372,'2372','Krug / River',43.458326,-80.457828,1
 2373,'2373','Lorraine / Birkshire',43.45783,-80.448265,1
 2374,'2374','Grand Rdg / St Andrews',43.340696,-80.333686,2
@@ -1093,6 +1098,7 @@
 2393,'2393','Eagle / King',43.398791,-80.363046,1
 2394,'2394','Lorraine / Birkshire',43.45777,-80.448847,1
 2395,'2395','Krug / River',43.458338,-80.45831,1
+2396,'2396','Krug / Sherwood',43.457504,-80.460938,1
 2398,'2398','Homer Watson / Bleams',43.410275,-80.461585,2
 2399,'2399','Beasley / Homer Watson',43.402026,-80.457604,2
 2400,'2400','Krug / Becker',43.454303,-80.467715,1
@@ -1294,6 +1300,7 @@
 2651,'2651','Weber / Cameron',43.447959,-80.478436,1
 2652,'2652','Franklin / Timber Crk',43.373733,-80.296424,1
 2653,'2653','Weber / Cedar',43.449296,-80.481403,1
+2654,'2654','Margaret / Ctr In The Sq',43.454691,-80.485745,1
 2655,'2655','Franklin / Millcreek',43.373674,-80.296589,1
 2656,'2656','Margaret / Victoria',43.456795,-80.489224,1
 2657,'2657','Margaret / Wellington',43.458999,-80.490603,1
@@ -1428,6 +1435,8 @@
 2836,'2836','Weber / Allen',43.467681,-80.509582,1
 2838,'2838','Margaret / Wilhelm',43.46072,-80.492802,1
 2839,'2839','Margaret / Wellington',43.458657,-80.490557,1
+2840,'2840','Margaret / Victoria',43.455966,-80.488837,1
+2841,'2841','Margaret / Ctr In The Sq',43.454547,-80.485672,1
 2843,'2843','Weber / Cedar',43.44908,-80.481294,1
 2844,'2844','Weber / Madison',43.448525,-80.480063,1
 2845,'2845','Weber / Fairview',43.446969,-80.476529,1
@@ -2387,16 +2396,13 @@
 4221,'4221','Elgin / Hilltop',43.363111,-80.299001,2
 4235,'4235','Country Club / Morel',43.396131,-80.293446,2
 4300,'4300','Ave / Gail (School Special Stop)',43.378345,-80.31171,2
-5000,'5000','Weber / Kitchener Rail Sta (Temporary Stop)',43.454651,-80.493322,1
+5001,'5001','Margaret / Maynard (Temporary Stop)',43.455602,-80.487899,1
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423756,-80.381082,2
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424654,-80.376883,2
-5010,'5010','Weber / Kitchener Rail Sta (Temporary Stop)',43.454573,-80.493565,1
-5019,'5019','Weber / Queen (Temporary Stop)',43.451942,-80.487693,1
-5023,'5023','Kensington / Krug (Temporary Stop)',43.45776,-80.459285,2
-5024,'5024','Kensington / Krug (Temporary Stop)',43.45737,-80.459317,2
 5025,'5025','Mill / Spadina (Temporary Stop)',43.439406,-80.489711,2
 5026,'5026','Mill / Spadina (Temporary Stop)',43.439538,-80.489697,2
 5027,'5027','Scott / Duke (Temporary Stop)',43.44982,-80.485225,1
+5029,'5029','Frederick Sta (Duke / Frederick)',43.450091,-80.486157,1
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405932,-80.650369,2
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403586,-80.655597,2
 5038,'5038','Louisa / Brewery (Temporary Stop)',43.401715,-80.662896,2
