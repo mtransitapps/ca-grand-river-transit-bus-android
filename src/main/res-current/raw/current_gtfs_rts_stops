@@ -419,7 +419,6 @@
 1486,'1486','580 Hespeler Rd',43.40322,-80.326738,1
 1487,'1487','Franklin / Sheldon',43.405535,-80.307061,1
 1488,'1488','Franklin / Turnbull',43.40348,-80.306107,1
-1489,'1489','Ottawa / Williamsburg',43.418962,-80.508289,2
 1490,'1490','Franklin / Bishop',43.399166,-80.304774,1
 1491,'1491','Franklin / Elgin',43.391201,-80.302197,2
 1492,'1492','Franklin / Glamis',43.385594,-80.301199,1
@@ -468,7 +467,6 @@
 1541,'1541','Franklin / Robson',43.38525,-80.300808,2
 1543,'1543','Franklin / Lindsay',43.396343,-80.303657,1
 1544,'1544','Franklin / Bishop',43.398932,-80.304467,1
-1545,'1545','Ottawa / Williamsburg',43.418718,-80.508277,2
 1546,'1546','Franklin / Turnbull',43.403641,-80.306006,1
 1547,'1547','Franklin / Sheldon',43.40568,-80.306637,1
 1548,'1548','Strasburg / Forest Gln Plz',43.414164,-80.478088,1
@@ -819,6 +817,7 @@
 1979,'1979','Erbsville / Path To Erbsville Ct',43.453278,-80.572062,2
 1980,'1980','Erbsville / Brandenburg',43.451338,-80.572191,1
 1981,'1981','Erbsville / Chablis',43.450043,-80.572769,2
+1982,'1982','Queen / Woodside',43.441709,-80.497319,1
 1983,'1983','Erb / Erbsville Ct',43.448028,-80.566047,1
 1984,'1984','Erb / Gateview',43.450843,-80.557835,2
 1985,'1985','Gateview / Westvale',43.450058,-80.557616,2
@@ -1016,8 +1015,6 @@
 2303,'2303','Main / Arthur White',43.35682,-80.306231,2
 2304,'2304','Main / Spruce',43.357154,-80.30798,2
 2305,'2305','Rittenhouse / Erinbrook',43.409529,-80.487098,1
-2306,'2306','Rittenhouse / Path To Rittenhouse Pk',43.408011,-80.491376,1
-2307,'2307','Rittenhouse / Erinbrook',43.407858,-80.496186,1
 2308,'2308','Conestoga College Blvd / Homer Watson',43.387478,-80.411963,1
 2309,'2309','Stirling / Highland',43.436376,-80.490813,1
 2310,'2310','Cherry Blossom / Barnes',43.415737,-80.384569,2
@@ -1036,8 +1033,6 @@
 2325,'2325','Grand Rdg / Inverness',43.336759,-80.329693,2
 2326,'2326','Grand Rdg / Stirling Macgregor',43.33875,-80.332228,2
 2327,'2327','Bishop / Mary',43.392416,-80.339162,1
-2328,'2328','Erinbrook / Rittenhouse',43.407855,-80.496446,1
-2329,'2329','Rittenhouse / Path To Erinbrook Pk',43.407925,-80.491327,1
 2330,'2330','Rittenhouse / Erinbrook',43.409386,-80.48708,2
 2331,'2331','Rittenhouse / Goundry',43.409703,-80.483333,1
 2332,'2332','Rittenhouse / Brookfield',43.411794,-80.482366,2
@@ -1332,6 +1327,7 @@
 2698,'2698','Belmont / Metzloff',43.441154,-80.509512,1
 2699,'2699','Belmont / Highland',43.44015,-80.508371,1
 2701,'2701','Highland / Patricia',43.440507,-80.505526,1
+2702,'2702','Highland / W',43.441214,-80.501585,1
 2704,'2704','Ottawa / International',43.413076,-80.516374,1
 2705,'2705','Queen / Schneider',43.444573,-80.494457,1
 2706,'2706','Queen / Courtland',43.445649,-80.493348,1
@@ -1699,6 +1695,10 @@
 3283,'3283','Union / Mary',43.459456,-80.514852,1
 3284,'3284','Union / Herbert',43.460605,-80.514114,1
 3285,'3285','Union / Lucan',43.462669,-80.512354,2
+3293,'3293','Queens / Highland',43.440388,-80.498829,1
+3294,'3294','Queens / Spadina',43.439222,-80.50005,1
+3295,'3295','Queens / St Marys Hosp',43.438518,-80.501662,1
+3296,'3296','Queens / Belmont',43.436671,-80.503543,1
 3297,'3297','Queens / Lakeside Pk Trl',43.435277,-80.505964,1
 3298,'3298','Queens / Hahn',43.434171,-80.508271,1
 3299,'3299','Queens / Westmount',43.433281,-80.51086,1
@@ -1739,6 +1739,10 @@
 3348,'3348','Queens / Westmount',43.433163,-80.510688,1
 3349,'3349','Queens / Blueridge',43.434062,-80.508198,1
 3350,'3350','Queens / Lakeside Pk Trl',43.435205,-80.505841,1
+3351,'3351','Queens / Belmont',43.43633,-80.503793,1
+3353,'3353','Queens / St Marys Hosp',43.437677,-80.500903,1
+3354,'3354','Queens / Spadina',43.439347,-80.49969,1
+3355,'3355','Queens / Highland',43.440602,-80.498456,1
 3356,'3356','Highland / Belmont',43.439447,-80.508166,1
 3357,'3357','Highland / Lawrence',43.438097,-80.510599,1
 3368,'3368','Driftwood / Highview',43.416892,-80.541108,1
@@ -2262,7 +2266,6 @@
 4092,'4092','Ottawa / Elmsdale',43.421673,-80.493619,1
 4093,'4093','Can-Amera / Path To Lena',43.392915,-80.308979,1
 4094,'4094','Ottawa / Westmount',43.420398,-80.501245,1
-4095,'4095','Ottawa / Fischer-Hallman',43.417612,-80.510396,1
 4096,'4096','Ottawa / Fischer-Hallman',43.416372,-80.511543,1
 4097,'4097','Ottawa / River',43.451072,-80.444143,1
 4098,'4098','Ottawa / River',43.450948,-80.443774,1
@@ -2385,6 +2388,10 @@
 5026,'5026','Mill / Spadina (Temporary Stop)',43.439538,-80.489697,2
 5027,'5027','Scott / Duke (Temporary Stop)',43.44982,-80.485225,1
 5029,'5029','Frederick Sta (Duke / Frederick)',43.450091,-80.486157,1
+5030,'5030','Erinbrook / Highcroft (Temporary Stop)',43.410774,-80.493078,2
+5031,'5031','Erinbrook / Highcroft (Temporary Stop)',43.410651,-80.493128,2
+5032,'5032','Ottawa / Fischer-Hallman (Temporary Stop)',43.41508,-80.513514,2
+5033,'5033','Williamsburg / Ottawa (Temporary Stop)',43.418732,-80.507878,2
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405932,-80.650369,2
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403586,-80.655597,2
 5038,'5038','Louisa / Brewery (Temporary Stop)',43.401715,-80.662896,2
