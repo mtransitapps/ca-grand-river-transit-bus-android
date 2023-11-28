@@ -4,7 +4,6 @@
 1003,'1003','Frederick / Samuel',43.454834,-80.479514,1
 1004,'1004','Frederick / Merner',43.456218,-80.476907,1
 1005,'1005','Union / Devitt',43.464003,-80.509253,2
-1006,'1006','Frederick / Frederick Mall',43.457932,-80.473579,1
 1007,'1007','Frederick / Ann',43.459292,-80.469797,1
 1008,'1008','Frederick / Bruce',43.460002,-80.467517,1
 1009,'1009','Frederick / Lois',43.460925,-80.464641,1
@@ -70,7 +69,6 @@
 1077,'1077','Frederick / Lois',43.461184,-80.464354,1
 1078,'1078','U Of Waterloo Sta',43.47445,-80.539427,1
 1079,'1079','Frederick / Bruce',43.460075,-80.467862,1
-1080,'1080','Frederick / Frederick Mall',43.458522,-80.472758,1
 1081,'1081','Frederick / Ann',43.459374,-80.470093,1
 1082,'1082','Frederick / Filbert',43.456532,-80.47662,1
 1083,'1083','Union / Devitt',43.463623,-80.509815,1
@@ -321,6 +319,7 @@
 1372,'1372','Saginaw / Fairgreen',43.3899,-80.288309,2
 1373,'1373','Saginaw / Stonecairn',43.390445,-80.292019,1
 1374,'1374','Saginaw / Cowan',43.389734,-80.296324,2
+1375,'1375','Frederick Sta (Frederick / Duke)',43.45048,-80.486962,1
 1376,'1376','Queen Sta (Charles / Benton)',43.448618,-80.488854,1
 1377,'1377','Queen Sta (Benton / Charles)',43.448153,-80.488377,1
 1378,'1378','Elgin / Franklin',43.391395,-80.30296,1
@@ -419,12 +418,13 @@
 1486,'1486','580 Hespeler Rd',43.40322,-80.326738,1
 1487,'1487','Franklin / Sheldon',43.405535,-80.307061,1
 1488,'1488','Franklin / Turnbull',43.40348,-80.306107,1
+1489,'1489','Ottawa / Williamsburg',43.418962,-80.508289,2
 1490,'1490','Franklin / Bishop',43.399166,-80.304774,1
 1491,'1491','Franklin / Elgin',43.391201,-80.302197,2
 1492,'1492','Franklin / Glamis',43.385594,-80.301199,1
 1493,'1493','Franklin / Path To The Greenway',43.383283,-80.300263,1
 1494,'1494','Franklin / Ave',43.38007,-80.299004,1
-1495,'1495','Franklin / Athlone',43.375259,-80.297096,1
+1495,'1495','Franklin / Athlone',43.37608,-80.297568,1
 1496,'1496','Clyde / Franklin',43.371617,-80.293277,1
 1497,'1497','Clyde / Bluerock',43.372542,-80.290215,1
 1498,'1498','Clyde / Grand River Conservation Authority',43.373144,-80.287085,1
@@ -467,6 +467,7 @@
 1541,'1541','Franklin / Robson',43.38525,-80.300808,2
 1543,'1543','Franklin / Lindsay',43.396343,-80.303657,1
 1544,'1544','Franklin / Bishop',43.398932,-80.304467,1
+1545,'1545','Ottawa / Williamsburg',43.418718,-80.508277,2
 1546,'1546','Franklin / Turnbull',43.403641,-80.306006,1
 1547,'1547','Franklin / Sheldon',43.40568,-80.306637,1
 1548,'1548','Strasburg / Forest Gln Plz',43.414164,-80.478088,1
@@ -798,7 +799,7 @@
 1959,'1959','King / William',43.46169,-80.521534,1
 1960,'1960','Willis Way Sta',43.462156,-80.523196,1
 1961,'1961','Erb / Father David Bauer',43.46414,-80.526003,1
-1962,'1962','Erb / Wells',43.463221,-80.528136,1
+1962,'1962','Erb / Barrel Yards',43.463033,-80.528621,1
 1963,'1963','Erb / Avondale',43.462267,-80.530331,1
 1964,'1964','Erb / Roslin',43.461473,-80.532198,1
 1965,'1965','Erb / Dietz',43.46018,-80.535156,1
@@ -1017,6 +1018,8 @@
 2303,'2303','Main / Arthur White',43.35682,-80.306231,2
 2304,'2304','Main / Spruce',43.357154,-80.30798,2
 2305,'2305','Rittenhouse / Erinbrook',43.409529,-80.487098,1
+2306,'2306','Rittenhouse / Path To Rittenhouse Pk',43.408011,-80.491376,1
+2307,'2307','Rittenhouse / Erinbrook',43.407858,-80.496186,1
 2308,'2308','Conestoga College Blvd / Homer Watson',43.387478,-80.411963,1
 2309,'2309','Stirling / Highland',43.436376,-80.490813,1
 2310,'2310','Cherry Blossom / Barnes',43.415737,-80.384569,2
@@ -1035,6 +1038,8 @@
 2325,'2325','Grand Rdg / Inverness',43.336759,-80.329693,2
 2326,'2326','Grand Rdg / Stirling Macgregor',43.33875,-80.332228,2
 2327,'2327','Bishop / Mary',43.392416,-80.339162,1
+2328,'2328','Erinbrook / Rittenhouse',43.407855,-80.496446,1
+2329,'2329','Rittenhouse / Path To Erinbrook Pk',43.407925,-80.491327,1
 2330,'2330','Rittenhouse / Erinbrook',43.409386,-80.48708,2
 2331,'2331','Rittenhouse / Goundry',43.409703,-80.483333,1
 2332,'2332','Rittenhouse / Brookfield',43.411794,-80.482366,2
@@ -2277,6 +2282,7 @@
 4092,'4092','Ottawa / Elmsdale',43.421673,-80.493619,1
 4093,'4093','Can-Amera / Path To Lena',43.392915,-80.308979,1
 4094,'4094','Ottawa / Westmount',43.420398,-80.501245,1
+4095,'4095','Ottawa / Fischer-Hallman',43.417612,-80.510396,1
 4096,'4096','Ottawa / Fischer-Hallman',43.416372,-80.511543,1
 4097,'4097','Ottawa / River',43.451072,-80.444143,1
 4098,'4098','Ottawa / River',43.450948,-80.443774,1
@@ -2395,20 +2401,18 @@
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455602,-80.487899,1
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423756,-80.381082,2
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424654,-80.376883,2
+5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.42485,-80.376933,2
 5025,'5025','Mill / Spadina (Temporary Stop)',43.439406,-80.489711,2
 5026,'5026','Mill / Spadina (Temporary Stop)',43.439538,-80.489697,2
-5027,'5027','Scott / Duke (Temporary Stop)',43.44982,-80.485225,1
-5029,'5029','Frederick Sta (Duke / Frederick)',43.450091,-80.486157,1
-5030,'5030','Erinbrook / Highcroft (Temporary Stop)',43.410774,-80.493078,2
-5031,'5031','Erinbrook / Highcroft (Temporary Stop)',43.410651,-80.493128,2
 5032,'5032','Ottawa / Fischer-Hallman (Temporary Stop)',43.41508,-80.513514,2
-5033,'5033','Williamsburg / Ottawa (Temporary Stop)',43.418732,-80.507878,2
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405932,-80.650369,2
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403586,-80.655597,2
 5038,'5038','Louisa / Brewery (Temporary Stop)',43.401715,-80.662896,2
 5039,'5039','Louisa / Brewery (Temporary Stop)',43.401692,-80.662609,2
 5040,'5040','Schneller / Elizabeth (Temporary Stop)',43.40357,-80.654854,2
 5041,'5041','Stiefelmeyer / Sandhills (Temporary Stop)',43.405916,-80.650085,2
+5043,'5043','Edna / Frederick Mall (Temporary Stop)',43.457978,-80.472592,1
+5044,'5044','Edna / Frederick Mall (Temporary Stop)',43.458224,-80.472655,2
 5049,'5049','Wellington / Weber (Temporary Stop)',43.45714,-80.494614,1
 5078,'5078','Victoria / Lackner (Temporary Stop)',43.471512,-80.441578,1
 6017,'6017','Sportsworld Sta',43.410261,-80.393142,1
