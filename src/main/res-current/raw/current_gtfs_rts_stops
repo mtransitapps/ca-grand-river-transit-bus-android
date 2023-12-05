@@ -1075,6 +1075,8 @@
 2364,'2364','Parkside / Waterloo Corporate Campus - N',43.498038,-80.549772,1
 2365,'2365','Parkside / Waterloo Corporate Campus - S',43.498037,-80.546747,1
 2366,'2366','Krug / Becker',43.454221,-80.467493,1
+2367,'2367','Highland / Queen',43.44093,-80.497707,1
+2368,'2368','Highland / Queens',43.440983,-80.498375,1
 2369,'2369','Krug / Cambridge Ave',43.4556,-80.463884,1
 2370,'2370','Krug / Eton',43.456025,-80.462385,1
 2371,'2371','Krug / Sherwood',43.457243,-80.461101,1
@@ -1103,6 +1105,7 @@
 2398,'2398','Homer Watson / Bleams',43.410275,-80.461585,2
 2399,'2399','Beasley / Homer Watson',43.402026,-80.457604,2
 2400,'2400','Krug / Becker',43.454303,-80.467715,1
+2401,'2401','Highland / Stirling',43.436641,-80.491309,1
 2402,'2402','Highland / Stirling',43.435988,-80.491019,1
 2403,'2403','Krug / E',43.452695,-80.472562,1
 2404,'2404','Krug / Lydia',43.45194,-80.474756,1
@@ -1240,6 +1243,7 @@
 2576,'2576','4th / Connaught',43.43137,-80.454609,1
 2577,'2577','Connaught / 6th',43.430578,-80.452812,1
 2578,'2578','Connaught / Franklin',43.429883,-80.450632,1
+2579,'2579','Queen Sta (Charles / Benton)',43.448347,-80.487882,1
 2580,'2580','Connaught / Woodhaven',43.42853,-80.446382,1
 2581,'2581','Traynor / Connaught',43.42783,-80.444905,1
 2582,'2582','Greenfield / Traynor',43.42559,-80.445482,1
@@ -1424,11 +1428,14 @@
 2815,'2815','Davenport / Path To Redfox',43.496513,-80.51578,1
 2817,'2817','Lexington / Davenport',43.493014,-80.512395,1
 2819,'2819','Lexington / Lee',43.496584,-80.507196,1
+2820,'2820','Highland / Spadina',43.438695,-80.493073,1
 2821,'2821','Lee / Dunvegan',43.49325,-80.504452,1
 2825,'2825','Greenbrook / Stonybrook',43.425213,-80.512004,2
 2826,'2826','Lincoln / Bluevale',43.482598,-80.506765,1
 2827,'2827','Lincoln / Mayfield',43.479756,-80.50753,2
 2828,'2828','Greenbrook / Graystone',43.427965,-80.507826,2
+2829,'2829','Highland / Ruby',43.440153,-80.495963,1
+2830,'2830','Highland / Ruby',43.440295,-80.496025,1
 2832,'2832','University Ave / Conestoga College - Waterloo',43.478998,-80.517395,1
 2833,'2833','Weber / Marshall',43.475044,-80.517448,1
 2834,'2834','Weber / Noecker',43.473526,-80.516199,1
@@ -1599,6 +1606,7 @@
 3100,'3100','Greenbrook / Stirling',43.429519,-80.49667,1
 3102,'3102','Stirling / Mausser',43.433676,-80.495956,1
 3103,'3103','Stirling / Lorne',43.435341,-80.493792,1
+3105,'3105','Highland / Spadina',43.438677,-80.492825,1
 3110,'3110','Victoria / Joseph',43.450566,-80.500281,1
 3111,'3111','Victoria / Bramm',43.449152,-80.501835,1
 3112,'3112','Victoria / Henry',43.447809,-80.503316,1
@@ -2402,8 +2410,6 @@
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423756,-80.381082,2
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424654,-80.376883,2
 5004,'5004','Maple Grv / Fountain (E Side Temporary Stop)',43.42485,-80.376933,2
-5025,'5025','Mill / Spadina (Temporary Stop)',43.439406,-80.489711,2
-5026,'5026','Mill / Spadina (Temporary Stop)',43.439538,-80.489697,2
 5032,'5032','Ottawa / Fischer-Hallman (Temporary Stop)',43.41508,-80.513514,2
 5036,'5036','Stiefelmeyer / Sandhills (Temporary Stop)',43.405932,-80.650369,2
 5037,'5037','Schneller / Forler (Temporary Stop)',43.403586,-80.655597,2
