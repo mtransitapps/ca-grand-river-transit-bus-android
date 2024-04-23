@@ -1686,7 +1686,6 @@
 3251,'3251','Inwood / Glasgow',43.447379,-80.52826,1,1569083
 3252,'3252','Inwood / Westwood',43.445505,-80.527038,1,1569084
 3253,'3253','Westwood / Westwood Cres',43.445146,-80.529586,1,1569085
-3254,'3254','Westwood / Knell',43.444948,-80.531652,1,1569086
 3256,'3256','Westwood / Gallarno',43.442513,-80.535168,1,1569088
 3258,'3258','Westwood / Glasgow',43.44365,-80.540164,1,1569090
 3259,'3259','Fischer-Hallman / Glasgow',43.442912,-80.542713,1,1569091
@@ -2398,6 +2397,7 @@
 5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423756,-80.381082,2,1626589
 5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424654,-80.376883,2,1626590
 5005,'5005','Samuelson / Moscrip (Temporary Stop)',43.369906,-80.307105,2,1626592
+5006,'5006','Westwood / Knell (Temporary Stop)',43.444784,-80.532196,2,1626593
 5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369514,-80.308555,2,1626596
 5042,'5042','Ottawa / Crosby (Temporary Stop)',43.450354,-80.445563,2,1626713
 5045,'5045','Ottawa / Strasburg (Temporary Stop)',43.422612,-80.489161,2,1626716
