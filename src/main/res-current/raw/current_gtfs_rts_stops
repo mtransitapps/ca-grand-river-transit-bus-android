@@ -1575,6 +1575,7 @@
 3081,'3081','Salisbury / Southgate',43.356455,-80.336805,2,1567254
 3082,'3082','Salisbury / Hillcrest',43.356893,-80.333686,2,1567255
 3083,'3083','Greenbrook / Stirling',43.429414,-80.497301,1,1567256
+3084,'3084','Greenbrook / Lakeside',43.429024,-80.498713,1,1567257
 3085,'3085','Greenbrook / Forest Hl',43.428732,-80.501952,2,1567258
 3086,'3086','Westmount / Vlg',43.427779,-80.506556,1,1567259
 3091,'3091','Greenbrook / Birchcliff',43.424023,-80.512677,1,1567285
@@ -2384,8 +2385,7 @@
 4235,'4235','Country Club / Morel',43.396131,-80.293446,2,1598816
 4300,'4300','Ave / Gail (School Special Stop)',43.378345,-80.31171,2,1599679
 5001,'5001','Margaret / Maynard (Temporary Stop)',43.455602,-80.487899,1,1626588
-5002,'5002','Maple Grv / Fountain (W Side Temporary Stop)',43.423756,-80.381082,2,1626589
-5003,'5003','Maple Grv / Fountain (E Side Temporary Stop)',43.424654,-80.376883,2,1626590
+5002,'5002','Maple Grv / Fountain (E Side Temporary Stop)',43.423756,-80.381082,2,1626589
 5005,'5005','Samuelson / Moscrip (Temporary Stop)',43.369906,-80.307105,2,1626592
 5006,'5006','Westwood / Knell (Temporary Stop)',43.444784,-80.532196,2,1626593
 5009,'5009','Samuelson / Moscrip (Temporary Stop)',43.369514,-80.308555,2,1626596
