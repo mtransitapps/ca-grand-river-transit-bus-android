@@ -1,0 +1,56 @@
+1,'1','Queen-River','0099CC',49,3
+3,'3','Ottawa South','9900CC',51,3
+4,'4','Glasgow-Margaret','666633',52,3
+5,'5','Erb','0099FF',53,3
+6,'6','Bridge-Courtland','000066',54,3
+7,'7','King','CC0000',55,3
+8,'8','Weber','009933',56,3
+9,'9','Lakeshore','FF9933',57,3
+10,'10','Pioneer','0066CC',1567,3
+12,'12','Westmount','CC3399',1569,3
+13,'13','Laurelwood','FFCC00',1570,3
+14,'14','Bathurst','003333',1571,3
+16,'16','Strasburg-Belmont','669933',1573,3
+19,'19','Hazel','CC6600',1576,3
+20,'20','Victoria-Frederick','CC99CC',1598,3
+21,'21','Elmira','99CC00',1599,3
+22,'22','Laurentian West','666699',1600,3
+23,'23','Idlewood','FF99CC',1601,3
+26,'26','Trillium','D0BA00',1604,3
+27,'27','Morrison','FF9966',1605,3
+28,'28','Franklin North','C4D600',1606,3
+29,'29','Keats-University','993366',1607,3
+30,'30','Ring Road','00C513',1629,3
+31,'31','Columbia','999966',1630,3
+33,'33','Huron','089018',1632,3
+34,'34','Bingemans','92278F',1633,3
+35,'35','Greenbrook','',1634,3
+36,'36','Thomas Slee','D0BA00',1635,3
+50,'50','Dundas-Myers','00C513',1691,3
+51,'51','Hespeler','CC0000',1692,3
+53,'53','Franklin','009933',1694,3
+55,'55','Grand Ridge','993399',1696,3
+56,'56','Langs','D0BA00',1697,3
+57,'57','Blair','FF9900',1698,3
+58,'58','Elgin North','333300',1699,3
+60,'60','Burnett','333366',1722,3
+61,'61','Preston','009999',1723,3
+62,'62','Speedsville','666666',1724,3
+63,'63','Champlain','FFCC00',1725,3
+65,'65','Saginaw','',1727,3
+67,'67','Eagle-Pinebush','E09400',1729,3
+76,'76','Doon Mills','000066',1759,3
+77,'77','Wilmot','E09400',1760,3
+78,'78','Fountain','EA4AA3',1761,3
+91,'91','Late Night Loop','009CE0',1816,3
+110,'110','College Express','0066CC',48656,3
+201,'201','IXpress Fischer-Hallman','000000',49587,3
+202,'202','IXpress University','000000',49588,3
+203,'203','IXpress Maple Grove','000000',49589,3
+204,'204','IXpress Highland-Victoria','000000',49590,3
+205,'205','IXpress Ottawa','000000',49591,3
+206,'206','IXpress Coronation','000000',49592,3
+302,'302','ION Bus','05AA64',50549,3
+9801,'9801','Gci Special','009CE0',1753440,3
+9851,'9851','Gci Special','009CE0',1753595,3
+9952,'9952','Gci - Ast Special','003986',1754557,3
