@@ -30,11 +30,11 @@
 2001,0,'The Boardwalk Sta',20
 2100,0,'Arthur / Church',21
 2101,0,'Conestoga Sta',21
-2200,0,'Block Line Sta',22
+2200,0,'Blk Line Sta',22
 2201,0,'Sunrise Ctr Sta',22
 2301,0,'Fairway Sta',23
 2300,0,'Stanley Pk',23
-2600,0,'Block Line Sta',26
+2600,0,'Blk Line Sta',26
 2601,0,'Huron Natural Area',26
 2701,0,'Fairway Sta',27
 2700,0,'Quinte / Morrison',27
@@ -45,7 +45,7 @@
 3000,0,'Ring Rd',30
 3101,0,'Columbia / Sundew',31
 3100,0,'Conestoga Sta',31
-3300,0,'Block Line Sta',33
+3300,0,'Blk Line Sta',33
 3301,0,'Sunrise Ctr Sta',33
 3401,0,'Central Sta',34
 3400,0,'Victoria / Lackner',34
@@ -100,3 +100,5 @@
 20601,0,'Southwood / Cedar',206
 30201,0,'Ainslie Term',302
 30200,0,'Fairway Sta',302
+301100,0,'Northbound',3011
+301101,0,'Southbound',3011
