@@ -26,11 +26,6 @@ public class GrandRiverTransitBusAgencyTools extends DefaultAgencyTools {
 		new GrandRiverTransitBusAgencyTools().start(args);
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -167,6 +162,7 @@ public class GrandRiverTransitBusAgencyTools extends DefaultAgencyTools {
 		case 302: return "05AA64";
 		case 901: return null; // TODO?
 		case 902: return null; // TODO?
+		case 3011: return null; // TODO?
 		case 9801: return "009CE0";
 		case 9802: return null; // TODO?
 		case 9841: return null; // TODO?
