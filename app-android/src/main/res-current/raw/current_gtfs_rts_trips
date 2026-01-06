@@ -36,8 +36,8 @@
 2300,0,'Stanley Pk',23
 2600,0,'Blk Line Sta',26
 2601,0,'Huron Natural Area',26
+2700,0,'Chicopee',27
 2701,0,'Fairway Sta',27
-2700,0,'Quinte / Morrison',27
 2801,0,'Fairway Sta',28
 2800,0,'Stanley Pk',28
 2900,0,'Conestoga Sta',29
@@ -84,6 +84,8 @@
 7700,0,'The Boardwalk Sta',77
 7800,0,'Airport',78
 7801,0,'Sportsworld Sta',78
+9100,0,'Of Waterloo Sta',91
+9101,0,'Queen Sta (Benton / Charles)',91
 20101,0,'Conestoga College',201
 20100,0,'Conestoga Sta',201
 20200,0,'Conestoga Sta',202
