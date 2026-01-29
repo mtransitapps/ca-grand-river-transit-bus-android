@@ -47,6 +47,11 @@ public class GrandRiverTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "-\\d-\\d{4}_\\d-\\d{7}$";
+	}
+
+	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
 	}
