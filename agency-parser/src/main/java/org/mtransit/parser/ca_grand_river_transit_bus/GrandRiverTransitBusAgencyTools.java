@@ -48,7 +48,7 @@ public class GrandRiverTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public @Nullable String getServiceIdCleanupRegex() {
-		return "-\\d-\\d{4}_\\d-\\d{7}$";
+		return /* -\\d */ "-\\d{4}_\\d-"; /* \\d{7}$ */
 	}
 
 	@Override
