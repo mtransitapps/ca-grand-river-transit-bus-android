@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <string-array name="youtube_channels_username">
-        <item>GrandRiverTransit</item>
-    </string-array>
-    <string-array name="youtube_channels_id">
-        <item>UCfXSi7HlpEOXLImWynI9bHQ</item>
-    </string-array>
-    <string-array name="youtube_channels_uploads_playlist_id">
-        <item>UUfXSi7HlpEOXLImWynI9bHQ</item>
-    </string-array>
     <string-array name="youtube_channels_author_url">
         <item>https://www.youtube.com/user/GrandRiverTransit</item>
     </string-array>

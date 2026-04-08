@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
     <string-array name="twitter_screen_names">
-        <item>GRT_ROW</item><!-- already has RSS -->
+        <item>GRT_ROW</item>
     </string-array>
     <string-array name="twitter_screen_names_id">
         <item>246370991</item>
