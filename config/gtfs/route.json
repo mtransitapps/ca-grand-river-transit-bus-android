@@ -1,0 +1,398 @@
+{
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "Out Of Service",
+            "ignore_case": true
+        }
+    ],
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "use_route_short_name_for_route_id_comment": "used for GTFS-RT",
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "( bus plus$)",
+            "ignore_case": true,
+            "replacement": " BusPlus"
+        }
+    ],
+    "route_colors_comment": "https://www.grt.ca/en/schedules-maps/system-map.aspx",
+    "route_colors": [
+        {
+            "route_short_name": "1",
+            "color": "0099CC"
+        },
+        {
+            "route_short_name": "2",
+            "color": "FFCC33"
+        },
+        {
+            "route_short_name": "3",
+            "color": "9900CC"
+        },
+        {
+            "route_short_name": "4",
+            "color": "666633"
+        },
+        {
+            "route_short_name": "5",
+            "color": "0099FF"
+        },
+        {
+            "route_short_name": "6",
+            "color": "000066"
+        },
+        {
+            "route_short_name": "7",
+            "color": "CC0000"
+        },
+        {
+            "route_short_name": "8",
+            "color": "009933"
+        },
+        {
+            "route_short_name": "9",
+            "color": "FF9933"
+        },
+        {
+            "route_short_name": "10",
+            "color": "0066CC"
+        },
+        {
+            "route_short_name": "11",
+            "color": "3366FF"
+        },
+        {
+            "route_short_name": "12",
+            "color": "CC3399"
+        },
+        {
+            "route_short_name": "13",
+            "color": "FFCC00"
+        },
+        {
+            "route_short_name": "14",
+            "color": "003333"
+        },
+        {
+            "route_short_name": "15",
+            "color": "993399"
+        },
+        {
+            "route_short_name": "16",
+            "color": "669933"
+        },
+        {
+            "route_short_name": "17",
+            "color": "666666"
+        },
+        {
+            "route_short_name": "19",
+            "color": "CC6600"
+        },
+        {
+            "route_short_name": "20",
+            "color": "CC99CC"
+        },
+        {
+            "route_short_name": "21",
+            "color": "99CC00"
+        },
+        {
+            "route_short_name": "22",
+            "color": "666699"
+        },
+        {
+            "route_short_name": "23",
+            "color": "FF99CC"
+        },
+        {
+            "route_short_name": "24",
+            "color": "333333"
+        },
+        {
+            "route_short_name": "25",
+            "color": "3399CC"
+        },
+        {
+            "route_short_name": "26",
+            "color": "D0BA00"
+        },
+        {
+            "route_short_name": "27",
+            "color": "FF9966"
+        },
+        {
+            "route_short_name": "28",
+            "color": "C4D600"
+        },
+        {
+            "route_short_name": "29",
+            "color": "993366"
+        },
+        {
+            "route_short_name": "30",
+            "color": "00C513"
+        },
+        {
+            "route_short_name": "31",
+            "color": "999966"
+        },
+        {
+            "route_short_name": "33",
+            "color": "089018"
+        },
+        {
+            "route_short_name": "34",
+            "color": "92278F"
+        },
+        {
+            "route_short_name": "36",
+            "color": "D0BA00"
+        },
+        {
+            "route_short_name": "50",
+            "color": "00C513"
+        },
+        {
+            "route_short_name": "51",
+            "color": "CC0000"
+        },
+        {
+            "route_short_name": "52",
+            "color": "000099"
+        },
+        {
+            "route_short_name": "53",
+            "color": "009933"
+        },
+        {
+            "route_short_name": "54",
+            "color": "0099CC"
+        },
+        {
+            "route_short_name": "55",
+            "color": "993399"
+        },
+        {
+            "route_short_name": "56",
+            "color": "D0BA00"
+        },
+        {
+            "route_short_name": "57",
+            "color": "FF9900"
+        },
+        {
+            "route_short_name": "58",
+            "color": "333300"
+        },
+        {
+            "route_short_name": "59",
+            "color": "CC0099"
+        },
+        {
+            "route_short_name": "60",
+            "color": "333366"
+        },
+        {
+            "route_short_name": "61",
+            "color": "009999"
+        },
+        {
+            "route_short_name": "62",
+            "color": "666666"
+        },
+        {
+            "route_short_name": "63",
+            "color": "FFCC00"
+        },
+        {
+            "route_short_name": "64",
+            "color": "990033"
+        },
+        {
+            "route_short_name": "67",
+            "color": "E09400"
+        },
+        {
+            "route_short_name": "72",
+            "color": "996666"
+        },
+        {
+            "route_short_name": "73",
+            "color": "0099CC"
+        },
+        {
+            "route_short_name": "75",
+            "color": "B72700"
+        },
+        {
+            "route_short_name": "76",
+            "color": "000066"
+        },
+        {
+            "route_short_name": "77",
+            "color": "E09400"
+        },
+        {
+            "route_short_name": "78",
+            "color": "EA4AA3"
+        },
+        {
+            "route_short_name": "91",
+            "color": "009CE0"
+        },
+        {
+            "route_short_name": "92",
+            "color": "003986"
+        },
+        {
+            "route_short_name": "110",
+            "color": "0066CC"
+        },
+        {
+            "route_short_name": "111",
+            "color": "FF3366"
+        },
+        {
+            "route_short_name": "116",
+            "color": "669933"
+        },
+        {
+            "route_short_name": "200",
+            "color": "0066FF"
+        },
+        {
+            "route_short_name": "201",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "202",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "203",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "204",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "205",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "206",
+            "color": "000000"
+        },
+        {
+            "route_short_name": "302",
+            "color": "05AA64"
+        },
+        {
+            "route_short_name": "9801",
+            "color": "009CE0"
+        },
+        {
+            "route_short_name": "9851",
+            "color": "009CE0"
+        },
+        {
+            "route_short_name": "9852",
+            "color": "003986"
+        },
+        {
+            "route_short_name": "9901",
+            "color": "009CE0"
+        },
+        {
+            "route_short_name": "9903",
+            "color": "089018"
+        },
+        {
+            "route_short_name": "9904",
+            "color": "880091"
+        },
+        {
+            "route_short_name": "9905",
+            "color": "B72700"
+        },
+        {
+            "route_short_name": "9931",
+            "color": "009CE0"
+        },
+        {
+            "route_short_name": "9932",
+            "color": "003986"
+        },
+        {
+            "route_short_name": "9951",
+            "color": "009CE0"
+        },
+        {
+            "route_short_name": "9952",
+            "color": "003986"
+        },
+        {
+            "route_short_name": "9953",
+            "color": "089018"
+        },
+        {
+            "route_short_name": "9954",
+            "color": "880091"
+        },
+        {
+            "route_short_name": "9961",
+            "color": "009CE0"
+        },
+        {
+            "route_short_name": "9963",
+            "color": "089018"
+        },
+        {
+            "route_short_name": "9964",
+            "color": "880091"
+        },
+        {
+            "route_short_name": "9983",
+            "color": "089018"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(^[A-Z][- ])",
+            "ignore_case": true
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^\\d+\\s*)",
+            "ignore_case": true
+        },
+        {
+            "regex": "(^IXpress )",
+            "ignore_case": true
+        },
+        {
+            "regex": "( bus plus$)",
+            "ignore_case": true,
+            "replacement": " BusPlus"
+        },
+        {
+            "regex": "((^|\\W)(univeristy)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2University$4"
+        },
+        {
+            "regex": "university of waterloo",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UW"
+        }
+    ],
+    "use_stop_id_for_stop_code": true,
+    "stop_id_clean_merged": true
+}

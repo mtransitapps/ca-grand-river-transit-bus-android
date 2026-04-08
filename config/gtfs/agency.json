@@ -1,0 +1,18 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "0168B3",
+    "default_color_comment": " BLUE (PDF SCHEDULE)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "ignore_upper_case_words": [
+        "AM",
+        "ION",
+        "HS",
+        "PM",
+        "SS",
+        "UW",
+        "WLU"
+    ],
+    "service_id_cleanup_regex": "-\\d{4}_\\d-",
+    "service_id_cleanup_regex_comment": "/* -\\d */ '-\\d{4}_\\d-'; /* \\d{7}$ */"
+}
