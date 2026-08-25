@@ -14,5 +14,6 @@
         "WLU"
     ],
     "service_id_cleanup_regex": "-\\d{4}_\\d-",
-    "service_id_cleanup_regex_comment": "/* -\\d */ '-\\d{4}_\\d-'; /* \\d{7}$ */"
+    "service_id_cleanup_regex_comment": "/* -\\d */ '-\\d{4}_\\d-'; /* \\d{7}$ */",
+    "service_id_cleanup_regex_comment_2": "if not distinct, it means 2 distinct schedule merged: try to avoid that 1st"
 }
